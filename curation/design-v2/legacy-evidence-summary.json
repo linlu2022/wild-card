@@ -1,0 +1,329 @@
+{
+  "baseline_commit": "7650f50",
+  "date": "2026-09-26",
+  "note": "Counts from existing local acquisition records; source labels omit workstation paths. No new image review is implied.",
+  "packs": {
+    "arknights": {
+      "audit_file": "arknights_audit.json",
+      "audit_sha256": "991c7abf0ed15f4ee89db354c338ec813f475da97f4c17b2507921b4084ca898",
+      "rows": 328,
+      "candidates": 495,
+      "fan_fallback": 167,
+      "alias_cotag": 25,
+      "sample_5_to_10": 150,
+      "candidates_below_three_official_posts": 66
+    },
+    "azur_lane": {
+      "audit_file": "azur_lane_audit.json",
+      "audit_sha256": "c2a8c4f498ed08e5e35fe9f9dfc49be452e6361b4ded458c47543d0f30bf9e3f",
+      "rows": 464,
+      "candidates": 500,
+      "fan_fallback": 169,
+      "alias_cotag": 3,
+      "sample_5_to_10": 227,
+      "candidates_below_three_official_posts": 25
+    },
+    "blue_archive": {
+      "audit_file": "blue_archive_audit.json",
+      "audit_sha256": "971737237e2759eecb424b0c51bea17c24d5c4e2f16fae0259f009c5604cb488",
+      "rows": 292,
+      "candidates": 321,
+      "fan_fallback": 82,
+      "alias_cotag": 0,
+      "sample_5_to_10": 84,
+      "candidates_below_three_official_posts": 16
+    },
+    "endfield": {
+      "audit_file": "endfield_audit.json",
+      "audit_sha256": "ad541968ee04c6392ebb8be2ccecc75ee7dcd94a450475318e387cc541536bc9",
+      "rows": 27,
+      "candidates": 80,
+      "fan_fallback": 4,
+      "alias_cotag": 6,
+      "sample_5_to_10": 6,
+      "candidates_below_three_official_posts": 32
+    },
+    "fate_grand_order": {
+      "audit_file": "fate_grand_order_audit.json",
+      "audit_sha256": "668dd6dded3e3cb7f123b21bc1af4c473248264233f75ccb890683148f925fcc",
+      "rows": 322,
+      "candidates": 500,
+      "fan_fallback": 132,
+      "alias_cotag": 39,
+      "sample_5_to_10": 115,
+      "candidates_below_three_official_posts": 30
+    },
+    "genshin_impact": {
+      "audit_file": "genshin_impact_audit.json",
+      "audit_sha256": "5b9694a328c38d13ab9971b9c282d5f3299621ce1d9e2b6272ee039e7fdc62ba",
+      "rows": 109,
+      "candidates": 251,
+      "fan_fallback": 25,
+      "alias_cotag": 6,
+      "sample_5_to_10": 29,
+      "candidates_below_three_official_posts": 44
+    },
+    "honkai_star_rail": {
+      "audit_file": "honkai_star_rail_audit.json",
+      "audit_sha256": "ea06ccb41b8c609664d30a2fa18da63bcf32972be2dd92d65d4e9a6bdf450523",
+      "rows": 77,
+      "candidates": 240,
+      "fan_fallback": 17,
+      "alias_cotag": 6,
+      "sample_5_to_10": 28,
+      "candidates_below_three_official_posts": 76
+    },
+    "touhou": {
+      "audit_file": "touhou_audit.json",
+      "audit_sha256": "37f116c9514e5a211d4116ab2cdb83caf182ff1cb3c3b74945fa8e46428b31c7",
+      "rows": 141,
+      "candidates": 174,
+      "fan_fallback": 17,
+      "alias_cotag": 11,
+      "sample_5_to_10": 35,
+      "candidates_below_three_official_posts": 21
+    },
+    "vocaloid": {
+      "audit_file": "vocaloid_audit.json",
+      "audit_sha256": "af3e31795134bea90f80fc65d60676356353e484da4274a680a896fdafab7a59",
+      "rows": 66,
+      "candidates": 144,
+      "fan_fallback": 30,
+      "alias_cotag": 41,
+      "sample_5_to_10": 11,
+      "candidates_below_three_official_posts": 40
+    }
+  },
+  "zenless": {
+    "rows": 68,
+    "all_official_fallback": 32,
+    "missing_solo_field": 5,
+    "zero_or_missing_solo": 23,
+    "fallback_records": [
+      {
+        "character": "alexandrina_sebastiane",
+        "official_posts": 41,
+        "solo_posts": 3,
+        "solo_field_present": true,
+        "cache_sha256": "32bb5cd7264e4b81b36c187a0d4821fcdbe3ad9201453450c6f8aa98ebbd0598"
+      },
+      {
+        "character": "anastella_(zenless_zone_zero)",
+        "official_posts": 23,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "e19e18740e41912bcc3133b47a5bfad06516b9b31ee5eb252f5832414789566e"
+      },
+      {
+        "character": "aria_(human)_(discordant_note)_(zenless_zone_zero)",
+        "official_posts": 6,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "64adb5e87394305669e386ca006908d215a1bc1f7f84a55b01741a2de3dd027a"
+      },
+      {
+        "character": "aria_(human)_(zenless_zone_zero)",
+        "official_posts": 105,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "c79b4192175444b00ca5a3bdc28a76a2b86e2128b03ed93c364d327f955c3b22"
+      },
+      {
+        "character": "aria_(robot)_(discordant_note)_(zenless_zone_zero)",
+        "official_posts": 5,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "b5054bc50c67849fcfd6037d34aa302e9e4f7ce7af306483d58b8fa438d611bd"
+      },
+      {
+        "character": "aria_(zenless_zone_zero)",
+        "official_posts": 112,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "dfa7f988b92a823a4168655079535baf87b5b58d83675f7aab98a4cf7967a2f6"
+      },
+      {
+        "character": "beliora_vike",
+        "official_posts": 14,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "58a7df3cda022ffdb0aba2f3599875d5cbfb263902a1aecccd61fb43cde520f5"
+      },
+      {
+        "character": "belle_(brilliance_of_stars)_(zenless_zone_zero)",
+        "official_posts": 22,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "8e3e9b0ca6abbf14adda5a9abe928c7c66299619c784e26453c7c541b6a8d352"
+      },
+      {
+        "character": "belle_(delicate_sunlight)_(zenless_zone_zero)",
+        "official_posts": 28,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "77657abc04a9a6581a786e1d1b28afb3aebc2aa9adf5fb392311f5761af4f55c"
+      },
+      {
+        "character": "belle_(summer_skies)_(zenless_zone_zero)",
+        "official_posts": 20,
+        "solo_posts": null,
+        "solo_field_present": false,
+        "cache_sha256": "e736d1efc45ad7c3f5a3ba6702115f488750e08efea5324cadd15aa642ff94f6"
+      },
+      {
+        "character": "belle_(zenless_zone_zero)",
+        "official_posts": 200,
+        "solo_posts": 2,
+        "solo_field_present": true,
+        "cache_sha256": "5469e289608620fa0d2c88b7054d90086d4fca1b32f07fc77600896b997248d1"
+      },
+      {
+        "character": "cissia_(zenless_zone_zero)",
+        "official_posts": 47,
+        "solo_posts": 4,
+        "solo_field_present": true,
+        "cache_sha256": "7628fe992c240f513b16484eb1ca167bf6f42bc96e4166a96525a9c6aa7784a4"
+      },
+      {
+        "character": "dracaene_sunbringer",
+        "official_posts": 12,
+        "solo_posts": 4,
+        "solo_field_present": true,
+        "cache_sha256": "aa59f7ce74fd5e88b40a89b102bba974634490fc8eecef59e734e0c7e065d666"
+      },
+      {
+        "character": "hu_wei_(zenless_zone_zero)",
+        "official_posts": 11,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "fac38fdfc5d283cf4ad612094bc42ebab3149f3d13ee16df16d483502f4977d4"
+      },
+      {
+        "character": "jane_doe_(nocturne_of_light)_(zenless_zone_zero)",
+        "official_posts": 4,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "05785f51f8162ca2f522cc59a474f0f991a844aa9780c5faa956e6f79ac3e8f7"
+      },
+      {
+        "character": "kamanosuke_(zenless_zone_zero)",
+        "official_posts": 49,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "ede4ec16e1612c0ec5179cc9a80a570a51830adfbd9fa357d3151528e9b1f644"
+      },
+      {
+        "character": "lindverne_sunbringer",
+        "official_posts": 19,
+        "solo_posts": 2,
+        "solo_field_present": true,
+        "cache_sha256": "3c21b12b7c3f84c389b49006369a058d24d0cc06b8274afe343891f7e6448f31"
+      },
+      {
+        "character": "luciana_de_montefio",
+        "official_posts": 48,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "6e2829fa1154f78f0b75379ed2027fca7e31590324ef1a6c6f01df0c489893c9"
+      },
+      {
+        "character": "magus_(zenless_zone_zero)",
+        "official_posts": 30,
+        "solo_posts": null,
+        "solo_field_present": false,
+        "cache_sha256": "b4ca948dba6a26b62f8b36e15246afac3bb2edb90ec8220f15443c6cc99bb451"
+      },
+      {
+        "character": "orphie_magnusson",
+        "official_posts": 33,
+        "solo_posts": 1,
+        "solo_field_present": true,
+        "cache_sha256": "be18cbfb99cb8087ef51a970edfb1c9460a74488fdefeca80bdc9926c0ee8a74"
+      },
+      {
+        "character": "pyrois_(zenless_zone_zero)",
+        "official_posts": 6,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "b73b6153e65377c3846f38bc855c9e06f22b308f672c1a533d574cafa78869ce"
+      },
+      {
+        "character": "qingyi_(zenless_zone_zero)",
+        "official_posts": 43,
+        "solo_posts": null,
+        "solo_field_present": false,
+        "cache_sha256": "f6d39ceb6480df15ad59e9036410fa5f0481ebfdd65a1e1de50e3785c82554c2"
+      },
+      {
+        "character": "roxy_ifrita_pryce",
+        "official_posts": 63,
+        "solo_posts": null,
+        "solo_field_present": false,
+        "cache_sha256": "43d9d6dd69ed679a8d6d834740bbb3cee641e53200345f5a344d0f55b2e32380"
+      },
+      {
+        "character": "seed_(zenless_zone_zero)",
+        "official_posts": 35,
+        "solo_posts": 4,
+        "solo_field_present": true,
+        "cache_sha256": "4c227a0b453c96f8a7ec587fb940d1b6fb2fc2482d1d768327b6dcc6aaa7172e"
+      },
+      {
+        "character": "soukaku_(zenless_zone_zero)",
+        "official_posts": 58,
+        "solo_posts": null,
+        "solo_field_present": false,
+        "cache_sha256": "de469ced30263f57ae9d7eb81195337551d84479136f4887c8235bcd34ec7f63"
+      },
+      {
+        "character": "sunbringer_(original)_(zenless_zone_zero)",
+        "official_posts": 8,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "9b27da99b5a99992ff73922d8716f22071810b8a7f881d1b40fc59bf15a2a4cd"
+      },
+      {
+        "character": "sunna_(afternoon_tea_break)_(zenless_zone_zero)",
+        "official_posts": 11,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "6184c6afc6cbb487c0b6e01398f7a42300b23b80520f2c7bad7f82dd29195b0f"
+      },
+      {
+        "character": "sunna_(delusions_in_business)_(zenless_zone_zero)",
+        "official_posts": 4,
+        "solo_posts": 2,
+        "solo_field_present": true,
+        "cache_sha256": "747c2f104927a99053ce98758c49f7658895b2f32efcb80d79343f1801fba037"
+      },
+      {
+        "character": "truvia_(zenless_zone_zero)",
+        "official_posts": 5,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "75d3467428eb2d87e56bdc43bc44dd4b702962e89bcaca27303d992008ee77d6"
+      },
+      {
+        "character": "twiggy_(zenless_zone_zero)",
+        "official_posts": 3,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "a180ed463b0788e813f46ee344bd36466de894e579b9077d008d190ad058444c"
+      },
+      {
+        "character": "ukinami_yuzuha",
+        "official_posts": 68,
+        "solo_posts": 3,
+        "solo_field_present": true,
+        "cache_sha256": "926dd5adb3db3d391519ea46d83687839f8ca330d03ff0ba39bf2888870c9bbf"
+      },
+      {
+        "character": "yixuan_(trails_of_ink)_(zenless_zone_zero)",
+        "official_posts": 6,
+        "solo_posts": 0,
+        "solo_field_present": true,
+        "cache_sha256": "0e6db1fa079f0dbd1885e1e7a6dd33377c2bff6d14d36435d9f0ae1b9a6b09f6"
+      }
+    ]
+  }
+}

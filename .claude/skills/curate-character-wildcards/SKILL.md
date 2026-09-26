@@ -7,6 +7,8 @@ description: Build, revise, or audit ComfyUI character wildcard files from Danbo
 
 Produce a traceable character CSV, then export a one-character-per-line wildcard for this project. Keep the source CSV as the reviewable artifact; a plausible-looking wildcard alone is not evidence that the character data is correct.
 
+The [v2 design and audit corrections](../../../docs/character-curation-v2.md) record the September 2026 follow-up findings, recommended evidence model, and executable design exercises. Consult its corrections when auditing these packs. Production migration is not implemented; the existing drafting and finalizing scripts do not establish semantic approval. The design exercise's passing cases are not a measured character-recognition accuracy.
+
 ## Start with the requested scope
 
 Determine the franchise copyright tag, character inclusion rule, gender policy, treatment of skins/aliases, desired wildcard name, and whether the user supplied a CSV. Use the user's choices from the current conversation; ask only about unresolved product decisions that change the output. If a vetted CSV is supplied, start at export and audit rather than fetching again.

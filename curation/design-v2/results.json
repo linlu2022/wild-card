@@ -1,0 +1,602 @@
+{
+  "purpose": "Design model consistency and current-code counterexamples; NOT semantic accuracy",
+  "design_version": "v2.3",
+  "python": "3.13.11",
+  "probe_code_sha256": {
+    "wildcard_engine.py": "a1c09b45092b890026f21bdda6900640403e999e2362bf22fd7dca0b80c5109d",
+    ".claude/skills/curate-character-wildcards/scripts/draft_danbooru_pack.py": "c8a734dce0ed6c0286982b1e9859fe0f3c7c850ff4785817420ff118c4dac2ca",
+    ".claude/skills/curate-character-wildcards/scripts/finalize_reviewed_packs.py": "6f40187b0f9d948e8810959baaf8f69958dd6d121798da897fe86c95565e2032",
+    ".claude/skills/curate-character-wildcards/scripts/csv_to_wildcard.py": "3557d77c9ba467c060781e15ce41ce5c7c7e1ce24473d701fb4506c72a0b5d3d"
+  },
+  "baseline": {
+    "total_rows": 1894,
+    "packs": {
+      "arknights_women": {
+        "sha256": "b80335898db94db0f7bc4b10823c78aec3c0cdeb90209987e7a64ecf080665a3",
+        "rows": 328,
+        "rows_with_parentheses": 325,
+        "identical_trait_groups": [],
+        "multiple_eye_colors_without_markers": []
+      },
+      "azur_lane_women": {
+        "sha256": "3aab5c0328ad57e1d840dda6a95e0479ff4c613a8df0b8b56f84f477c4b55867",
+        "rows": 464,
+        "rows_with_parentheses": 463,
+        "identical_trait_groups": [],
+        "multiple_eye_colors_without_markers": []
+      },
+      "blue_archive_women": {
+        "sha256": "1f6a365d017f4bda54f534ea6889e772654b3fe46cd80374cb985a8a220eaf46",
+        "rows": 292,
+        "rows_with_parentheses": 292,
+        "identical_trait_groups": [
+          [
+            {
+              "line": 188,
+              "tag": "nagisa_(blue_archive)"
+            },
+            {
+              "line": 189,
+              "tag": "nagisa_(swimsuit)_(blue_archive)"
+            }
+          ]
+        ],
+        "multiple_eye_colors_without_markers": []
+      },
+      "endfield_women": {
+        "sha256": "0c2ffe50b1e565063895be4292d03ceebd31051ca555a50b4bf8e26220e3ea8b",
+        "rows": 27,
+        "rows_with_parentheses": 27,
+        "identical_trait_groups": [],
+        "multiple_eye_colors_without_markers": []
+      },
+      "fate_grand_order_women": {
+        "sha256": "bf7fd2669127e4f91fb182bdde5a85839f734defcb848925dfc78cb5ebd61ac3",
+        "rows": 322,
+        "rows_with_parentheses": 300,
+        "identical_trait_groups": [
+          [
+            {
+              "line": 169,
+              "tag": "medea_(caster)_(fate)"
+            },
+            {
+              "line": 170,
+              "tag": "medea_(fate)"
+            }
+          ]
+        ],
+        "multiple_eye_colors_without_markers": []
+      },
+      "genshin_impact_women": {
+        "sha256": "b518c0e88e89212fecf871daa87dd7628362a8bff9e832f574e5892ce33c26b8",
+        "rows": 109,
+        "rows_with_parentheses": 101,
+        "identical_trait_groups": [],
+        "multiple_eye_colors_without_markers": []
+      },
+      "honkai_star_rail_women": {
+        "sha256": "518a8896a348ca101b7ceee4fc18a3d6038cd2ada8e50d11b46c46ad596576d7",
+        "rows": 77,
+        "rows_with_parentheses": 74,
+        "identical_trait_groups": [
+          [
+            {
+              "line": 30,
+              "tag": "herta_(honkai:_star_rail)"
+            },
+            {
+              "line": 31,
+              "tag": "herta_(puppet)_(honkai:_star_rail)"
+            }
+          ],
+          [
+            {
+              "line": 69,
+              "tag": "tingyun_(harmony)_(honkai:_star_rail)"
+            },
+            {
+              "line": 70,
+              "tag": "tingyun_(honkai:_star_rail)"
+            }
+          ]
+        ],
+        "multiple_eye_colors_without_markers": []
+      },
+      "touhou_women": {
+        "sha256": "8f28314d4a905d4de5561c8ba8cc73b620360603c397edd965b063bf5da1c7e4",
+        "rows": 141,
+        "rows_with_parentheses": 15,
+        "identical_trait_groups": [],
+        "multiple_eye_colors_without_markers": []
+      },
+      "vocaloid_women": {
+        "sha256": "865adb69ebfba78046f4cdce7a8b9ed687e11c05beae50a7f9f4f3b3db6d9d6d",
+        "rows": 66,
+        "rows_with_parentheses": 37,
+        "identical_trait_groups": [
+          [
+            {
+              "line": 2,
+              "tag": "batsu_miku"
+            },
+            {
+              "line": 19,
+              "tag": "hatsune_miku"
+            },
+            {
+              "line": 39,
+              "tag": "magical_mirai_miku"
+            },
+            {
+              "line": 52,
+              "tag": "racing_miku"
+            }
+          ]
+        ],
+        "multiple_eye_colors_without_markers": []
+      },
+      "zenless_women": {
+        "sha256": "dbaeead1ec107804aa5e7a572c28ba2bb607c0399311ee2e2cf18b12b63bb13a",
+        "rows": 68,
+        "rows_with_parentheses": 36,
+        "identical_trait_groups": [
+          [
+            {
+              "line": 5,
+              "tag": "aria_(human)_(discordant_note)_(zenless_zone_zero)"
+            },
+            {
+              "line": 7,
+              "tag": "aria_(robot)_(discordant_note)_(zenless_zone_zero)"
+            }
+          ]
+        ],
+        "multiple_eye_colors_without_markers": [
+          {
+            "line": 8,
+            "tag": "aria_(robot)_(zenless_zone_zero)"
+          },
+          {
+            "line": 12,
+            "tag": "belle_(brilliance_of_stars)_(zenless_zone_zero)"
+          },
+          {
+            "line": 35,
+            "tag": "lindverne_sunbringer"
+          },
+          {
+            "line": 48,
+            "tag": "remielle_dan"
+          },
+          {
+            "line": 54,
+            "tag": "sunbringer_(original)_(zenless_zone_zero)"
+          },
+          {
+            "line": 65,
+            "tag": "yixuan_(trails_of_ink)_(zenless_zone_zero)"
+          }
+        ]
+      }
+    }
+  },
+  "reviewed_base_case": {
+    "identity": "verified",
+    "gender": "female",
+    "scope": "allowed",
+    "form": "official",
+    "relations": "verified",
+    "binding": "exact",
+    "source": "verified_official",
+    "traits": "verified",
+    "conflicts": "resolved",
+    "alias": "distinct"
+  },
+  "scenarios": [
+    {
+      "id": "S01",
+      "scenario": "Anastella: reviewed companion object, female co-tags cannot admit it",
+      "changes_from_base": {
+        "identity": "companion_object"
+      },
+      "expected": "excluded",
+      "actual": "excluded",
+      "passed": true
+    },
+    {
+      "id": "S02",
+      "scenario": "Binah: reviewed fan anthropomorphism",
+      "changes_from_base": {
+        "form": "fan",
+        "source": "fan_only"
+      },
+      "expected": "excluded",
+      "actual": "excluded",
+      "passed": true
+    },
+    {
+      "id": "S03",
+      "scenario": "Canonically female robot with verified design",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S04",
+      "scenario": "SAM trigger with human Firefly appearance",
+      "changes_from_base": {
+        "binding": "other_form"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S05",
+      "scenario": "SAM armor design after identity and form review",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S06",
+      "scenario": "Nagisa default receives swimsuit evidence",
+      "changes_from_base": {
+        "binding": "other_form"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S07",
+      "scenario": "Nagisa swimsuit with corresponding official design",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S08",
+      "scenario": "One verified official design can support a sparse new role",
+      "changes_from_base": {
+        "image_count": 1
+      },
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S09",
+      "scenario": "Hundreds of fan posts do not establish canonical appearance",
+      "changes_from_base": {
+        "source": "fan_only",
+        "image_count": 200
+      },
+      "expected": "identity_only",
+      "actual": "identity_only",
+      "passed": true
+    },
+    {
+      "id": "S10",
+      "scenario": "Official_art tag alone is not origin verification",
+      "changes_from_base": {
+        "source": "official_tag_only"
+      },
+      "expected": "identity_only",
+      "actual": "identity_only",
+      "passed": true
+    },
+    {
+      "id": "S11",
+      "scenario": "Identity remains unknown despite many girl tags",
+      "changes_from_base": {
+        "identity": "unknown",
+        "image_count": 10000
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S12",
+      "scenario": "Male identity in female fan depictions",
+      "changes_from_base": {
+        "gender": "male",
+        "source": "fan_only"
+      },
+      "expected": "excluded",
+      "actual": "excluded",
+      "passed": true
+    },
+    {
+      "id": "S13",
+      "scenario": "Unknown gender is not guessed from anatomy",
+      "changes_from_base": {
+        "gender": "unknown"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S14",
+      "scenario": "Frequent co-tag is not a verified identity relation",
+      "changes_from_base": {
+        "relations": "cooccurrence"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S15",
+      "scenario": "Group art without target-bound visual evidence",
+      "changes_from_base": {
+        "binding": "ambiguous_group"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S16",
+      "scenario": "Group image reviewed with located target and derived features",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S17",
+      "scenario": "True multicolored eyes after location-specific verification",
+      "changes_from_base": {
+        "eye_tags": [
+          "pink_eyes",
+          "blue_eyes",
+          "multicolored_eyes"
+        ]
+      },
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S18",
+      "scenario": "Multicolor marker alone cannot resolve conflicting evidence",
+      "changes_from_base": {
+        "conflicts": "marker_only"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S19",
+      "scenario": "Unexplained long and short hair",
+      "changes_from_base": {
+        "conflicts": "unresolved"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S20",
+      "scenario": "Verified same character and same form alias",
+      "changes_from_base": {
+        "alias": "verified_existing"
+      },
+      "expected": "merge_reference",
+      "actual": "merge_reference",
+      "passed": true
+    },
+    {
+      "id": "S21",
+      "scenario": "Similar feature sets do not prove alias identity",
+      "changes_from_base": {
+        "alias": "unverified"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S22",
+      "scenario": "Real alternate form with few visible differences",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S23",
+      "scenario": "Racing Miku copied blindly from base",
+      "changes_from_base": {
+        "traits": "blind_inheritance"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S24",
+      "scenario": "New age or robot form cannot blindly inherit body traits",
+      "changes_from_base": {
+        "traits": "blind_inheritance"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S25",
+      "scenario": "FGO membership unresolved from copyright co-tag",
+      "changes_from_base": {
+        "scope": "unknown"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S26",
+      "scenario": "Official in-game collaboration allowed by chosen scope",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S27",
+      "scenario": "Promo-only depiction excluded by chosen scope",
+      "changes_from_base": {
+        "scope": "outside"
+      },
+      "expected": "excluded",
+      "actual": "excluded",
+      "passed": true
+    },
+    {
+      "id": "S28",
+      "scenario": "Unavailable source with previously verified archived evidence",
+      "changes_from_base": {
+        "source": "verified_archive"
+      },
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    },
+    {
+      "id": "S29",
+      "scenario": "Unavailable source with no evidence retained",
+      "changes_from_base": {
+        "source": "missing"
+      },
+      "expected": "identity_only",
+      "actual": "identity_only",
+      "passed": true
+    },
+    {
+      "id": "S30",
+      "scenario": "Duplicate images cannot upgrade official-tag evidence",
+      "changes_from_base": {
+        "source": "official_tag_only",
+        "image_count": 1000000
+      },
+      "expected": "identity_only",
+      "actual": "identity_only",
+      "passed": true
+    },
+    {
+      "id": "S31",
+      "scenario": "Generic family name has no selected concrete form",
+      "changes_from_base": {
+        "form": "umbrella"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S32",
+      "scenario": "Unreviewed features remain blocked even with official sources",
+      "changes_from_base": {
+        "traits": "unreviewed"
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S33",
+      "scenario": "Missing classification fails closed",
+      "changes_from_base": {
+        "gender": null
+      },
+      "expected": "needs_review",
+      "actual": "needs_review",
+      "passed": true
+    },
+    {
+      "id": "S34",
+      "scenario": "An officially female companion CHARACTER is not a companion object",
+      "changes_from_base": {},
+      "expected": "release_full",
+      "actual": "release_full",
+      "passed": true
+    }
+  ],
+  "missing_field_checks": {
+    "identity": true,
+    "gender": true,
+    "scope": true,
+    "form": true,
+    "relations": true,
+    "binding": true,
+    "source": true,
+    "traits": true,
+    "conflicts": true,
+    "alias": true
+  },
+  "current_code_probes": {
+    "companion_cotag": {
+      "accepted_posts": 6,
+      "possible_alias": "owner",
+      "method": "alias-cotag",
+      "current_rule_accepts": true
+    },
+    "base_form_swimsuit": {
+      "accepted_posts": 6,
+      "possible_alias": null,
+      "method": "variant-cotag",
+      "current_rule_accepts": true
+    },
+    "one_image_six_reposts": {
+      "accepted_posts": 6,
+      "possible_alias": null,
+      "method": "single-character",
+      "current_rule_accepts": true
+    },
+    "exact_character_but_two_girls": {
+      "accepted_posts": 6,
+      "possible_alias": null,
+      "method": "single-character",
+      "current_rule_accepts": true
+    },
+    "color_frequency_tiebreak": {
+      "kept": "1girl, brown eyes",
+      "removed": [
+        "green eyes"
+      ]
+    },
+    "multicolored_eyes_preserved": true,
+    "comfy_weighted_parentheses": {
+      "source": "comfy/sd1_clip.py",
+      "source_sha256": "c5a7a9ab305253cdbcdb0d728d80aa1fb6408632561d09c7745fbe8e0c8e7cef",
+      "plain": [
+        [
+          "circe_",
+          1.0
+        ],
+        [
+          "fate",
+          1.1
+        ]
+      ],
+      "escaped": [
+        [
+          "circe_(fate)",
+          1.0
+        ]
+      ],
+      "scope": "Extracted local parser functions; weighted mode only; no model tokenization or generation"
+    },
+    "repeated_wildcard_has_no_global_dedup": "1girl, red_hair, 1girl, red_hair",
+    "engine_preserves_parenthesis_escapes": "circe_\\(fate\\), 1girl"
+  },
+  "model_passed": true
+}
