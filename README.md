@@ -1,7 +1,18 @@
 # wild-card
 
-ComfyUI 本地 wildcard 自定义节点项目。当前正在确认节点输入、词库兼容性和预览行为；节点尚未实现。
+独立的 ComfyUI wildcard 节点。`Wild Card Prompt` 在节点文本框中接收 wildcard prompt，显示展开结果，并只输出一个 populated prompt `STRING`。不需要 model 或 clip 输入。
 
-目标是让 wildcard prompt 经展开后，以 `STRING` 输出 populated prompt，并在节点上显示本次结果。
+## 使用
 
-`AGENTS.md` 是项目级 AI 协作提示词，由项目提供的“你是谁（爱丽丝）.md”整理而来，不参与节点运行。
+将仓库放在 `ComfyUI/custom_nodes/wild-card`，重启 ComfyUI，在 `wild-card` 分类下添加 `Wild Card Prompt`。输入 `a {red|blue} __flower__` 之类的文本，连接右侧 `populated_prompt` 到需要字符串的节点。
+
+- `populate`：每次排队时展开原始提示词，并更新只读预览。
+- `fixed`：忽略原始提示词，使用可编辑的预览文本。
+- `reproduce`：使用预览文本一次，然后恢复 `populate`。保存的工作流会保留当次结果。
+- `seed`：相同种子与相同词库得到相同结果；“生成后控制”由 ComfyUI 提供。
+
+支持 Impact Pack 的 `{a|b}`、权重、多选及 `__name__` 等 wildcard 语法。词库优先读取相邻的 `ComfyUI-Impact-Pack/wildcards` 和它配置的 `custom_wildcards`，然后读取本仓库的 `wildcards`、`custom_wildcards`。后面的同名词条覆盖前面的。没有安装 Impact Pack 时，节点仍可使用内联语法与本仓库词库。修改词库文件后，下次运行会重新读取。
+
+## 来源与许可
+
+展开算法改编自 [ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) 的 `modules/impact/wildcards.py`（提交 `429d0159`）。因此本项目按 [GPLv3](LICENSE) 发布。`AGENTS.md` 是项目级 AI 协作提示词，不参与节点运行。
