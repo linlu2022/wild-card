@@ -15,6 +15,10 @@
 
 节点先读取相邻的 `ComfyUI-Impact-Pack/wildcards` 和它配置的 `custom_wildcards`，再读取本仓库的 `wildcards`、`custom_wildcards`。后面的同名词条覆盖前面的；所以本仓库自带词库可以在未安装 Impact Pack 时独立使用。修改词库文件后，下次运行会重新读取。
 
+## 角色词库制作
+
+项目内的 Claude Code skill [curate-character-wildcards](.claude/skills/curate-character-wildcards/SKILL.md) 记录了从角色来源、官图外观筛选、性别与变体复核，到 CSV 导出和运行时验证的流程。需要制作或审查新的角色词库时，可以在 Claude Code 中调用 `/curate-character-wildcards`。其中的 `csv_to_wildcard.py` 可独立使用，把审定的角色 CSV 导出为本项目的 wildcard 格式。
+
 ## 来源与许可
 
 展开算法改编自 [ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) 的 `modules/impact/wildcards.py`，自带词库复制自同项目的 `wildcards/`（本地版本提交 `429d0159`）。因此本项目按 [GPLv3](LICENSE) 发布。`AGENTS.md` 是项目级 AI 协作提示词，不参与节点运行。
