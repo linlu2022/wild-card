@@ -1,0 +1,110 @@
+{
+  "blue_archive": {
+    "copyright": "blue_archive",
+    "exclude": [
+      "hatsune_miku_(blue_archive)",
+      "shuppo_(blue_archive)",
+      "skullman_(blue_archive)"
+    ]
+  },
+  "azur_lane": {
+    "copyright": "azur_lane",
+    "exclude": [
+      "grim_(azur_lane)",
+      "tokisaki_kurumi",
+      "tokisaki_kurumi_(twin_rose)"
+    ]
+  },
+  "genshin_impact": {
+    "copyright": "genshin_impact",
+    "exclude": [
+      "ashru_(genshin_impact)",
+      "baron_bunny_(genshin_impact)",
+      "boo_tao_(genshin_impact)",
+      "citlalin_(genshin_impact)",
+      "dodoco_(genshin_impact)",
+      "guoba_(genshin_impact)",
+      "itzpapa_(genshin_impact)",
+      "jumpy_dumpty",
+      "kuuhenki_(genshin_impact)",
+      "lumi_(genshin_impact)",
+      "luonnotar_(genshin_impact)",
+      "oz_(genshin_impact)",
+      "surintendante_chevalmarin",
+      "tamoto_(genshin_impact)",
+      "yuegui_(genshin_impact)"
+    ]
+  },
+  "honkai_star_rail": {
+    "copyright": "honkai:_star_rail",
+    "exclude": [
+      "fuyuan_(honkai:_star_rail)",
+      "jingwei_(bird)",
+      "little_ica_(honkai:_star_rail)",
+      "pollux_(honkai:_star_rail)",
+      "svarog_(honkai:_star_rail)",
+      "tail_(honkai:_star_rail)",
+      "tohsaka_rin",
+      "tohsaka_rin_(honkai:_star_rail)"
+    ]
+  },
+  "arknights": {
+    "copyright": "arknights",
+    "exclude": [
+      "bitey_(arknights)",
+      "high_priest_(arknights)",
+      "lens_(arknights)",
+      "metal_crab_(arknights)",
+      "morte_(arknights)",
+      "surtr's_golem_(arknights)",
+      "togawa_sakiko",
+      "togawa_sakiko_(master_of_melodia)",
+      "wakaba_mutsumi",
+      "wakaba_mutsumi_(cautus)",
+      "wakaba_mutsumi_(marionette's_id)"
+    ]
+  },
+  "endfield": {
+    "copyright": "arknights:_endfield",
+    "exclude": [
+      "amiya_(arknights)",
+      "angelina_(arknights)",
+      "aurora_(arknights)",
+      "endministrator_(arknights)",
+      "eyjafjalla_(arknights)",
+      "surtr_(arknights)",
+      "typhon_(arknights)"
+    ]
+  },
+  "fate_grand_order": {
+    "copyright": "fate/grand_order",
+    "exclude": [
+      "magical_ruby",
+      "medjed_(fate)",
+      "saber_(fate)",
+      "sion_eltnam_(type-moon)",
+      "toto-sama_(fate)",
+      "viy_(fate)"
+    ]
+  },
+  "vocaloid": {
+    "copyright": "vocaloid",
+    "exclude": [],
+    "inherit_appearance": {
+      "magical_mirai_miku": "hatsune_miku",
+      "racing_miku": "hatsune_miku"
+    }
+  },
+  "touhou": {
+    "copyright": "touhou",
+    "exclude": [
+      "hourai_doll",
+      "mishaguji",
+      "otter_spirit_(touhou)",
+      "pyonta",
+      "shanghai_doll",
+      "su-san",
+      "wolf_spirit_(touhou)"
+    ]
+  }
+}

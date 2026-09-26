@@ -1,0 +1,66 @@
+vocaloid, 25-ji_miku, 1girl, heterochromia, pink_eyes, long_hair, very_long_hair, grey_hair, twintails, white_dress, ribbon
+vocaloid, batsu_miku, 1girl, hair_between_eyes, aqua_eyes, hair_ornament, long_hair, twintails, aqua_hair, very_long_hair
+vocaloid, bug_miku_(project_voltage), 1girl, wings, hair_between_eyes, twintails, long_hair, hair_through_headwear, long_sleeves, brown_dress, hat, brown_hat
+vocaloid, dark_miku_(project_voltage), 1girl, red_eyes, twintails, long_hair, black_gloves, dress, hat, jewelry, bow, earrings, white_hat, choker, black_bow, black_choker, hat_bow
+vocaloid, expo_miku, 1girl, aqua_eyes, aqua_hair, long_hair, twintails, very_long_hair, shirt, bow
+vocaloid, fairy_miku_(project_voltage), 1girl, pink_hair, blue_hair, multicolored_hair, twintails, two-tone_hair, long_hair, hair_ornament, hair_flower, pink_sweater, sweater, choker, pink_choker, heart_choker
+vocaloid, fighting_miku_(project_voltage), 1girl, hair_between_eyes, green_eyes, long_hair, multicolored_hair, twintails, white_hair, green_hair, very_long_hair, necktie, white_gloves, thighhighs, long_sleeves
+vocaloid, fire_miku_(project_voltage), 1girl, blue_eyes, blue_hair, long_hair, twintails, multicolored_hair, red_hair, very_long_hair, open_jacket, gloves, shirt
+vocaloid, flower_(vocaloid), 1girl, purple_eyes, multicolored_hair, streaked_hair, purple_hair, white_hair, boots
+vocaloid, flower_(vocaloid3), 1girl, purple_eyes, multicolored_hair, white_hair, streaked_hair, two-tone_hair, ponytail, black_hair, long_hair, shirt, choker
+vocaloid, flower_(vocaloid4), 1girl, purple_eyes, multicolored_hair, short_hair, streaked_hair, purple_hair, white_hair
+vocaloid, flying_miku_(project_voltage), 1girl, blue_eyes, twintails, long_hair, hair_over_one_eye, blue_hair, very_long_hair, see-through_sleeves, detached_sleeves
+vocaloid, galaco, 1girl, orange_eyes, blonde_hair, brown_hair, long_hair, multicolored_hair, very_long_hair, blue_hair, pink_hair, dress
+vocaloid, ghost_miku_(project_voltage), 1girl, yellow_eyes, hair_between_eyes, twintails, long_hair, very_long_hair, aqua_hair, bare_shoulders, skirt, detached_sleeves, thighhighs, grey_shirt
+vocaloid, gumi, 1girl, green_eyes, green_hair, short_hair
+vocaloid, gumi_(ai_megpoid), 1girl, green_eyes, green_hair, breasts, orange_jacket, jewelry
+vocaloid, gumi_(v3_megpoid), 1girl, green_eyes, green_hair, medium_breasts, jacket, shorts
+vocaloid, hachune_miku, 1girl, hair_between_eyes, long_hair, twintails, aqua_hair, detached_sleeves
+vocaloid, hatsune_miku, 1girl, aqua_eyes, hair_between_eyes, twintails, long_hair, aqua_hair, very_long_hair, hair_ornament
+vocaloid, hatsune_miku_(append), 1girl, long_hair, twintails, very_long_hair, aqua_hair, detached_sleeves, necktie
+vocaloid, hatsune_miku_(blue_archive), 1girl, halo, blue_eyes, long_hair, twintails, very_long_hair, sidelocks, hair_ornament, blue_hair, hair_ribbon, bare_shoulders, blue_sailor_collar, sailor_collar, frilled_skirt, sleeveless_shirt, white_shirt, blue_skirt, frilled_shirt, high-waist_skirt, layered_skirt, pinstripe_skirt
+vocaloid, hatsune_miku_(nt), 1girl, aqua_eyes, hair_between_eyes, long_hair, twintails, very_long_hair, aqua_hair, hair_ornament, bare_shoulders, detached_sleeves, white_shirt, black_skirt, sleeveless_shirt, black_thighhighs, thighhighs, pleated_skirt, see-through_sleeves, ribbon, aqua_ribbon, neck_ribbon
+vocaloid, hatsune_miku_(supreme), 1girl, aqua_eyes, long_hair, twintails, aqua_hair, very_long_hair, hair_ornament, thighhighs, black_thighhighs, short_sleeves, ribbon
+vocaloid, hatsune_miku_(vocaloid3), 1girl, aqua_eyes, long_hair, twintails, aqua_hair, very_long_hair, necktie, thighhighs, skirt, detached_sleeves
+vocaloid, hatsune_miku_(vocaloid4), 1girl, aqua_eyes, long_hair, twintails, aqua_hair, very_long_hair, hair_ornament, bare_shoulders, detached_sleeves, necktie, boots, thigh_boots, thighhighs
+vocaloid, hatsune_miku_(vocaloid6), 1girl, aqua_eyes, hair_between_eyes, long_hair, twintails, aqua_hair, very_long_hair, hair_ornament, bare_shoulders, breasts, detached_sleeves, necktie, grey_shirt, sleeveless_shirt, black_skirt, black_sleeves, collared_shirt
+vocaloid, hiramado_miku, 1girl, aqua_eyes, hair_between_eyes, hair_ornament, aqua_hair, twintails, long_hair, hair_bow, very_long_hair, detached_sleeves, long_sleeves, sleeveless_dress, bow, white_bow
+vocaloid, ia_(vocaloid), 1girl, blue_eyes, hair_between_eyes, braid, long_hair, very_long_hair, twin_braids, ahoge, pink_hair, absurdly_long_hair, boots, skirt, thighhighs
+vocaloid, kaai_yuki, 1girl, brown_eyes, black_hair, twintails, hair_ornament, hair_bobbles, socks, shirt
+vocaloid, kagamine_rin, 1girl, blonde_hair, hair_ornament, hair_bow, bow, hairclip, white_bow, hairband
+vocaloid, kagamine_rin_(append), 1girl, hair_ornament, short_hair, blonde_hair, hair_bow, bare_shoulders, navel, detached_sleeves, shorts, sleeveless_shirt, hairclip, bow
+vocaloid, kagamine_rin_(nt), 1girl, blue_eyes, blonde_hair, short_hair, ponytail, midriff, navel, sailor_collar, shorts, white_shorts, grey_sleeves, detached_sleeves, grey_sailor_collar, sailor_jacket, bow, white_bow, wing-shaped_bow, yellow_bow
+vocaloid, kagamine_rin_(vocaloid4), 1girl, blonde_hair, hair_ornament, hair_bow, short_hair, sailor_collar, sleeveless_shirt, white_shirt, bow, hairclip, white_bow
+vocaloid, kizuna_akari, 1girl, blue_eyes, braid, hair_ornament, long_hair, twin_braids, very_long_hair, white_hair, dress, fingerless_gloves, pantyhose, black_jacket, long_sleeves, orange_gloves, jewelry
+vocaloid, leo/need_miku, 1girl, aqua_eyes, multicolored_hair, pink_hair, streaked_hair, twintails, aqua_hair, hair_ornament, long_hair, shirt, black_jacket, hairclip
+vocaloid, lily_(vocaloid), 1girl, blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, breasts
+vocaloid, luo_tianyi, 1girl, green_eyes, grey_hair, hair_rings, long_hair, twintails, very_long_hair, bare_shoulders, dress
+vocaloid, luo_tianyi_(vocaloid3), 1girl, green_eyes, long_hair, hair_rings, grey_hair, hair_ornament, bare_shoulders, detached_sleeves, thighhighs, skirt
+vocaloid, magical_mirai_miku, 1girl, aqua_eyes, hair_between_eyes, twintails, long_hair, aqua_hair, very_long_hair, hair_ornament
+vocaloid, mayu_(vocaloid), 1girl, yellow_eyes, long_hair, blonde_hair, gloves, black_dress, bow, hat
+vocaloid, megurine_luka, 1girl, blue_eyes, hair_between_eyes, long_hair, pink_hair, very_long_hair, large_breasts
+vocaloid, meiko_(vocaloid), 1girl, brown_eyes, hair_between_eyes, brown_hair, short_hair, breasts, jewelry, earrings
+vocaloid, meiko_(vocaloid3), 1girl, brown_eyes, brown_hair, short_hair, midriff, navel, red_skirt, boots, brown_boots
+vocaloid, mikudayo, 1girl, aqua_eyes, twintails, long_hair, aqua_hair, very_long_hair, detached_sleeves, necktie, grey_shirt, skirt
+vocaloid, more_more_jump!_miku, 1girl, aqua_eyes, hair_between_eyes, long_hair, twintails, aqua_hair, white_dress, jewelry, bow, earrings
+vocaloid, normal_miku_(project_voltage), 1girl, long_hair, twintails, very_long_hair, blue_hair, pants, white_shirt, fingerless_gloves, multicolored_gloves, multicolored_pants, jewelry
+vocaloid, otomachi_una, 1girl, blue_eyes, blue_hair, long_hair, very_long_hair, ahoge, braid, low-tied_long_hair, twintails, gloves, hat, bow
+vocaloid, otomachi_una_(sugar), 1girl, blue_eyes, long_hair, blue_hair, twintails, ahoge, very_long_hair, short_sleeves, sailor_collar, necktie, puffy_short_sleeves, puffy_sleeves, white_sailor_collar, hat, blue_hat
+vocaloid, otomachi_una_(talkex), 1girl, blue_eyes, twintails, long_hair, ahoge, blue_hair, hair_ornament, sailor_collar, white_sailor_collar, glasses, hat, hairclip
+vocaloid, poison_miku_(project_voltage), 1girl, pink_hair, purple_hair, twintails, multicolored_hair, long_hair, blonde_hair, pink_gloves, long_sleeves, coat
+vocaloid, psychic_miku_(project_voltage), 1girl, aqua_hair, twintails, long_hair, very_long_hair, short_sleeves, white_shirt, hat, white_hat
+vocaloid, racing_miku, 1girl, aqua_eyes, hair_between_eyes, twintails, long_hair, aqua_hair, very_long_hair, hair_ornament
+vocaloid, rana_(vocaloid), 1girl, blue_eyes, multicolored_eyes, braid, pink_hair, twin_braids, floating_hair, hair_ornament, long_hair, twintails, hoodie, pantyhose, frilled_dress, sleeveless_hoodie, bow, jewelry
+vocaloid, rock_miku_(project_voltage), 1girl, blue_eyes, long_hair, twintails, blue_hair, jewelry
+vocaloid, sakura_miku, 1girl, pink_eyes, pink_hair, hair_ornament, long_hair, twintails, very_long_hair, detached_sleeves, pleated_skirt, necktie, pink_skirt, sleeveless_shirt, thighhighs, boots
+vocaloid, seeu, 1girl, cat_ears, blue_eyes, blonde_hair, long_hair, very_long_hair, thighhighs, pleated_skirt
+vocaloid, sf-a2_miki, 1girl, red_eyes, ahoge, long_hair, red_hair, very_long_hair, boots, dress, socks, striped_gloves
+vocaloid, steel_miku_(project_voltage), 1girl, blue_eyes, long_hair, twintails, aqua_hair, blue_hair, very_long_hair, multicolored_hair, hat
+vocaloid, vivid_bad_squad_meiko, 1girl, brown_eyes, hair_between_eyes, brown_hair, short_hair, breasts, jacket, jewelry, earrings, necklace
+vocaloid, vivid_bad_squad_miku, 1girl, aqua_eyes, long_hair, twintails, green_hair, shirt, jewelry, earrings, choker
+vocaloid, water_miku_(project_voltage), 1girl, blue_eyes, hair_between_eyes, colored_eyelashes, long_hair, twintails, very_long_hair, blue_hair
+vocaloid, wonderlands_x_showtime_miku, 1girl, cat_ears, hair_between_eyes, aqua_eyes, blue_hair, twintails, ahoge, long_hair, hair_ornament, thighhighs, dress
+vocaloid, xingchen, 1girl, yellow_eyes, long_hair, very_long_hair, purple_hair, ahoge
+vocaloid, yuezheng_ling, 1girl, red_eyes, long_hair, very_long_hair, ahoge, brown_hair, ponytail, braid, hair_bow, thighhighs, bow
+vocaloid, yuki_miku, 1girl, blue_eyes, long_hair, twintails, very_long_hair, blue_hair, hair_ornament, skirt, bow
+vocaloid, yuzuki_yukari, 1girl, purple_eyes, purple_hair, sidelocks, hair_ornament, jewelry

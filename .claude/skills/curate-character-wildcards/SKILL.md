@@ -15,9 +15,11 @@ Use paths relative to this repository. Put final wildcard files under `wildcards
 
 ## Source and curate
 
-For a new dataset, follow [the source-to-CSV procedure](references/source-to-csv.md). Its main distinction is essential: derive **appearance from official-art posts with exactly the target character in the character-tag set**, and assess **gender from broader character-associated evidence**. A group illustration can contain `1girl` while the target is not the girl. Treat sparse official-art coverage, unknown gender, conflicting traits, and aliases as review items, not silent facts.
+For a new dataset, follow [the source-to-CSV procedure](references/source-to-csv.md). Its main distinction is essential: derive **appearance from posts depicting the target as the single subject**, favoring copyright-matched official art, and assess **gender from broader character-associated evidence**. Base and form tags or confirmed aliases may co-tag one subject. A group illustration can contain `1girl` while the target is not the girl; a pet co-tagged with a girl is also not the girl. Treat sparse official-art coverage, unknown gender, conflicting traits, and aliases as review items, not silent facts.
 
 Use an approved data source and bounded queries. Reuse cached responses, record query/provenance and denominators, and stop/report when coverage is insufficient. Accept credentials through the configured tool or an explicit environment variable; never search local application settings for keys.
+
+For a large Danbooru batch, `scripts/draft_danbooru_pack.py` can generate a draft CSV and a per-character audit JSON using the public endpoints and an external cache directory. Inspect the audit, apply explicit review decisions, and only then export final files. The dated [curation decisions](../../../curation/character-packs-2026-09-26.json) and `scripts/finalize_reviewed_packs.py` show how this project's nine packs were finished; they are an example, not default exclusions for other franchises.
 
 ## Export and verify
 

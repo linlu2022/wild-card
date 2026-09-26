@@ -11,7 +11,7 @@
 - `reproduce`：使用预览文本一次，然后恢复 `populate`。保存的工作流会保留当次结果。
 - `seed`：相同种子与相同词库得到相同结果；“生成后控制”由 ComfyUI 提供。
 
-支持 Impact Pack 的 `{a|b}`、权重、多选及 `__name__` 等 wildcard 语法。本仓库的 `wildcards/` 已包含从 Impact Pack 复制的 7 个词库：`color`、`flower`、`jewel`、`jima`、`position`、`samples/flower`、`zenless_women`。
+支持 Impact Pack 的 `{a|b}`、权重、多选及 `__name__` 等 wildcard 语法。本仓库的 `wildcards/` 包含原有的 `color`、`flower`、`jewel`、`jima`、`position`、`samples/flower`、`zenless_women`，以及九套[作品女角色词库](docs/character-packs.md)。
 
 节点先读取相邻的 `ComfyUI-Impact-Pack/wildcards` 和它配置的 `custom_wildcards`，再读取本仓库的 `wildcards`、`custom_wildcards`。后面的同名词条覆盖前面的；所以本仓库自带词库可以在未安装 Impact Pack 时独立使用。修改词库文件后，下次运行会重新读取。
 

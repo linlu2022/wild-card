@@ -10,9 +10,9 @@ Record each candidate's canonical character tag, alias/variant relation, source 
 
 ## 2. Separate evidence by question
 
-For **appearance**, query official-art posts associated with the candidate. Retain posts with the requested copyright. A post is single-character evidence only when its set of character tags equals `{candidate}`. Neither `solo`, `1girl`, nor the absence of `multiple_girls` proves this. Count general tags over those posts and divide each tag's count by the number of usable posts. Keep that denominator per character.
+For **appearance**, query official-art posts associated with the candidate. Retain posts with the requested copyright and exclude an overlapping sub-franchise copyright when making a separate parent-game pack. The strongest case has `tag_string_character == {candidate}`. Base and costume/form tags for the same person may coexist; count those as one subject only when the identity relation is supported. A different-name co-tag can instead be a pet, weapon, doll, or second person. `solo`, `1girl`, and the absence of `multiple_girls` do not establish identity by themselves. Count general tags over usable posts and divide each tag's count by the number of usable posts. Keep that denominator per character.
 
-If there are fewer than about five usable single-character official-art posts, broader official-art data may be used as a fallback, but label the row for review. Multi-character art can leak another character's hair, eyes, clothing, or body traits. With no usable official art, leave the row unresolved or use another explicitly documented source; do not present scraped co-occurrence as confirmed appearance.
+If there are fewer than about five usable single-subject official-art posts, copyright-matched general posts of that one subject may supply a labeled fallback. Do not silently use multi-character official art: it can leak another character's hair, eyes, clothing, or body traits. The September 2026 batch required at least three copyright-matched `official_art` posts before automatically drafting a row. A character with less evidence stays unresolved unless another documented source supports a manual addition. Sample different post pages when a recent event costume dominates the newest page.
 
 For **gender**, use broader character-associated posts or related-tag frequencies, plus manual inspection for ambiguous cases. Official-art group images are a poor gender classifier. Compare `1girl`, `1boy`, and, where relevant, furry and focus tags; distinguish the target from companions. The ZZZ run used heuristic thresholds for these frequencies. Recalibrate them per source and manually review near-boundary, low-sample, and contradictory cases. Unknown gender remains unknown.
 
@@ -22,7 +22,7 @@ Use conditional frequency `P(tag | usable posts for character)`, rather than raw
 
 Remove copyright and character names from `core_tags`; the exporter supplies them separately. Exclude composition, pose, camera angle, background, mood, quality, artist/source metadata, other characters, and content outside the user's intended prompt style. Resolve contradictory tags such as mutually exclusive hair colors through image inspection. A high frequency can still reflect a recurring companion, costume, or mislabeled post.
 
-For the ZZZ run, exploratory settings included a frequency floor that relaxed from 0.5 toward 0.2, a top-40 candidate pool, a final roughly 20-tag cap, and a stricter threshold for generic species tags. These numbers are tuning examples. Keep the selection criteria and exceptions in an audit note so another person can reproduce the judgment.
+For the ZZZ run, exploratory settings included a frequency floor that relaxed from 0.5 toward 0.2, a top-40 candidate pool, a final roughly 20-tag cap, and a stricter threshold for generic species tags. The later nine-pack batch restricted selection to appearance categories and sampled recent and older official-art pages. These numbers and choices are tuning examples. Keep the selection criteria and exceptions in an audit note so another person can reproduce the judgment.
 
 ## 4. Produce and review the CSV
 
@@ -30,7 +30,7 @@ Write `character,copyright,trigger,core_tags,url` in UTF-8 without BOM. Use the 
 
 Inspect outliers before export: unusually low official-art count, fallback to group art, nearly identical trait sets across different characters, conflicting colors/species, uncertain gender, and skin or costume variants. A variant may be valid or unwanted depending on the user's pack definition.
 
-In the original ZZZ dataset, 32 of 68 rows needed broader official-art fallback. `anastella_(zenless_zone_zero)` resembled `alexandrina_sebastiane` suspiciously, and several named variants were unresolved product choices. These are **case-specific review flags**, not rules to delete those entries from future runs. The existence of 68 valid output lines did not resolve those semantic questions.
+In the original ZZZ dataset, 32 of 68 rows needed broader official-art fallback. `anastella_(zenless_zone_zero)` resembled `alexandrina_sebastiane` suspiciously, and several named variants were unresolved product choices. These are **case-specific review flags**, not rules to delete those entries from future runs. The existence of 68 valid output lines did not resolve those semantic questions. In later packs, co-tagged pets and crossover characters caused another false-positive class; the explicit curation decisions for that batch document their removal.
 
 ## Source and credential discipline
 
