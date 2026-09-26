@@ -1,0 +1,7 @@
+/.gitattributes text eol=lf
+/README.md text eol=lf
+wildcards/*_girls_name.txt text eol=lf
+curation/name-packs-2026-09-26/*.csv text eol=lf
+curation/name-packs-2026-09-26/*.json text eol=lf
+curation/name-packs-2026-09-26/*.py text eol=lf
+docs/name-packs-2026-09-26.md text eol=lf

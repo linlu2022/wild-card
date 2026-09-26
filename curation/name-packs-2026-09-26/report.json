@@ -1,0 +1,336 @@
+{
+  "generated_utc": "2026-09-26T15:41:43.572150+00:00",
+  "include_untagged": true,
+  "sources": {
+    "blue_archive_students": {
+      "url": "https://schaledb.com/data/en/students.min.json",
+      "sha256": "b1f6a904b109f4e99a8f881baba191ac6dda6e7fa49e0b3adf26b02797bb555c",
+      "bytes": 1667412,
+      "cached": true,
+      "fetched_utc": "2026-09-26T15:23:16.729001+00:00"
+    },
+    "azur_lane_skins": {
+      "url": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ship_skin.json",
+      "sha256": "270f9bdd8c2201cde6174e5e7eebad7cb5bb94e0b4b0a90b4136fbf7842c004a",
+      "bytes": 3495958,
+      "cached": true,
+      "fetched_utc": "2026-09-26T15:23:26.211955+00:00"
+    },
+    "arknights_skins_cn": {
+      "url": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/cn/gamedata/excel/skin_table.json",
+      "sha256": "33badfeb293fea68ce1a4f93716ea8f104627c8ab65d7bf555f6aa6f62739a2e",
+      "bytes": 4704842,
+      "cached": true,
+      "fetched_utc": "2026-09-26T15:25:06.051731+00:00"
+    },
+    "arknights_skins_en": {
+      "url": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/en/gamedata/excel/skin_table.json",
+      "sha256": "464f9c0a2db4a9ba01763aed193dad81153c9e7c0fcb5198de7c0b1d71eb4724",
+      "bytes": 4257880,
+      "cached": true,
+      "fetched_utc": "2026-09-26T15:25:06.209029+00:00"
+    },
+    "fgo_servants": {
+      "url": "https://api.atlasacademy.io/export/JP/basic_servant_lang_en.json",
+      "sha256": "0aeb919b12588cdca6613e83c4a22b715f99bfe056414abb5759f000cdcd75cc",
+      "bytes": 531117,
+      "cached": true,
+      "fetched_utc": "2026-09-26T15:25:07.696301+00:00"
+    },
+    "genshin_outfits": {
+      "url": "https://genshin-db-api.vercel.app/api/v5/outfits?query=names&matchCategories=true&verboseCategories=true",
+      "sha256": "9b2aabda90f6cb6cba50bb7c0381774d5e61d000d56c1960571d1b5f0275befe",
+      "bytes": 78428,
+      "cached": true,
+      "fetched_utc": "2026-09-26T15:29:53.605913+00:00"
+    },
+    "danbooru_zenless_zone_zero": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28zenless_zone_zero%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "90f96542b0fe5cad24e934faec836941a1fe8a345141b8f508606c60f2bf1534",
+        "bytes": 71518,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:29:54.551520+00:00",
+        "page": 1,
+        "rows": 298
+      }
+    ],
+    "danbooru_blue_archive": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28blue_archive%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "c5e5d740df4c638a35aeba26a197edc8e23a34204c71047b103e7c1b263d4d14",
+        "bytes": 206921,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:23:27.267277+00:00",
+        "page": 1,
+        "rows": 859
+      }
+    ],
+    "danbooru_azur_lane": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28azur_lane%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "d74a5ab1e9f9d07b0faa7286195700d0e23b24be632a2512ed960d56d73e6085",
+        "bytes": 255412,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:23:28.349384+00:00",
+        "page": 1,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28azur_lane%29&search%5Bcategory%5D=4&limit=1000&page=2",
+        "sha256": "8d8207d3857f4985658fc66bc7244b47145d281b458a2fe1f807f1356941ff36",
+        "bytes": 260677,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:23:29.584748+00:00",
+        "page": 2,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28azur_lane%29&search%5Bcategory%5D=4&limit=1000&page=3",
+        "sha256": "8c714ae3082d27d96c9c5dc13ff4f075f3ce0af412ed8651a197dc49718bb31d",
+        "bytes": 198070,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:23:30.630521+00:00",
+        "page": 3,
+        "rows": 820
+      }
+    ],
+    "danbooru_arknights": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28arknights%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "d2fbd6e05fe73788148e9ea0d511bb35500871914ded7445e6b7a3b769e0506a",
+        "bytes": 242226,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:09.256898+00:00",
+        "page": 1,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28arknights%29&search%5Bcategory%5D=4&limit=1000&page=2",
+        "sha256": "842cbe19173b659aafe7ce8654460781974962c657e73536dd6c0bf3de864aa4",
+        "bytes": 237687,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:10.248418+00:00",
+        "page": 2,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28arknights%29&search%5Bcategory%5D=4&limit=1000&page=3",
+        "sha256": "5791400b6025a184efde0df140bb06800debcb02442ce6eee33a0b90f3e2650c",
+        "bytes": 61563,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:10.945922+00:00",
+        "page": 3,
+        "rows": 278
+      }
+    ],
+    "danbooru_fate_grand_order": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28fate%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "a9f0b7ea9d27f645656526480ad789e39cbb19592db09ee0ccbb3814274eb716",
+        "bytes": 252498,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:11.707598+00:00",
+        "page": 1,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28fate%29&search%5Bcategory%5D=4&limit=1000&page=2",
+        "sha256": "71803719cb06d0248f3b0b83e9870f918bdf8228a3db26db18ccc405c57ed065",
+        "bytes": 253466,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:12.696157+00:00",
+        "page": 2,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28fate%29&search%5Bcategory%5D=4&limit=1000&page=3",
+        "sha256": "4faacd5cd30cb66b585f6ee63df1d891bc9f7a2a78c5f86e8e69587c2ca9719f",
+        "bytes": 255038,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:13.655352+00:00",
+        "page": 3,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28fate%29&search%5Bcategory%5D=4&limit=1000&page=4",
+        "sha256": "c45a60a2c671a3f8a22be1809c5311192bc445d11066120dc62309c0ce4e9814",
+        "bytes": 246993,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:14.432494+00:00",
+        "page": 4,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28fate%29&search%5Bcategory%5D=4&limit=1000&page=5",
+        "sha256": "004820f1832e6b25625f0bd7cae27e57287ad216a66939c2aa5847135ca5092d",
+        "bytes": 62860,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:25:15.104573+00:00",
+        "page": 5,
+        "rows": 280
+      }
+    ],
+    "danbooru_genshin_impact": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28genshin_impact%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "43fa11d171ab8fe51b9a2e3077213d3dd411d8fd9aa8d5e3dc5d33d19a34f8e1",
+        "bytes": 243764,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:29:57.484010+00:00",
+        "page": 1,
+        "rows": 1000
+      },
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28genshin_impact%29&search%5Bcategory%5D=4&limit=1000&page=2",
+        "sha256": "c7e7115f61aaf24c70890c31f4aaeec3b6e74e7286c6e98585098fff8c366414",
+        "bytes": 82956,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:29:58.342838+00:00",
+        "page": 2,
+        "rows": 355
+      }
+    ],
+    "danbooru_honkai_star_rail": [
+      {
+        "url": "https://danbooru.donmai.us/tags.json?search%5Bname_matches%5D=%2A_%28honkai%3A_star_rail%29&search%5Bcategory%5D=4&limit=1000&page=1",
+        "sha256": "2f36b01ebf4e3d7ca96ed19caff90ac3ab02193d63b100e2948100ab83c0fb79",
+        "bytes": 171539,
+        "cached": true,
+        "fetched_utc": "2026-09-26T15:32:32.664530+00:00",
+        "page": 1,
+        "rows": 665
+      }
+    ],
+    "zenless_official_outfits": {
+      "url": "https://zenless.hoyoverse.com/m/en-us/news/166191",
+      "published": "2026-09-21",
+      "outfits": [
+        "Sunna: Delusions in Business",
+        "Aria: Cuteness Loading",
+        "Nangong Yu: Heartfelt Support"
+      ]
+    },
+    "star_rail_official_outfits": [
+      "https://www.hoyolab.com/article/36260996",
+      "https://www.hoyolab.com/article/44742273"
+    ]
+  },
+  "packs": {
+    "zenless_zone_zero": {
+      "legacy_rows": 67,
+      "known_false_removed": [
+        "anastella_(zenless_zone_zero)"
+      ],
+      "exported_rows": 69,
+      "official_name_without_danbooru_tag": 1
+    },
+    "blue_archive": {
+      "legacy_rows": 291,
+      "known_false_removed": [
+        "binah_(blue_archive)"
+      ],
+      "exported_rows": 328,
+      "official_name_without_danbooru_tag": 5
+    },
+    "azur_lane": {
+      "legacy_rows": 464,
+      "known_false_removed": [],
+      "exported_rows": 2613,
+      "official_name_without_danbooru_tag": 583
+    },
+    "genshin_impact": {
+      "legacy_rows": 109,
+      "known_false_removed": [],
+      "exported_rows": 116,
+      "official_name_without_danbooru_tag": 0
+    },
+    "honkai_star_rail": {
+      "legacy_rows": 77,
+      "known_false_removed": [],
+      "exported_rows": 79,
+      "official_name_without_danbooru_tag": 0
+    },
+    "arknights": {
+      "legacy_rows": 328,
+      "known_false_removed": [],
+      "exported_rows": 602,
+      "official_name_without_danbooru_tag": 66
+    },
+    "endfield": {
+      "legacy_rows": 27,
+      "known_false_removed": [],
+      "exported_rows": 27,
+      "official_name_without_danbooru_tag": 0
+    },
+    "fate_grand_order": {
+      "legacy_rows": 322,
+      "known_false_removed": [],
+      "exported_rows": 430,
+      "official_name_without_danbooru_tag": 50
+    },
+    "vocaloid": {
+      "legacy_rows": 66,
+      "known_false_removed": [],
+      "exported_rows": 66,
+      "official_name_without_danbooru_tag": 0
+    },
+    "touhou": {
+      "legacy_rows": 141,
+      "known_false_removed": [],
+      "exported_rows": 141,
+      "official_name_without_danbooru_tag": 0
+    }
+  },
+  "official_record_matching": {
+    "zenless_zone_zero": {
+      "matched_official_outfit": 2,
+      "official_name_fallback": 1
+    },
+    "blue_archive": {
+      "matched_official_record": 272,
+      "official_name_fallback": 5
+    },
+    "azur_lane": {
+      "matched_official_record": 2013,
+      "official_name_fallback": 585
+    },
+    "arknights": {
+      "outside_known_female_roster": 573,
+      "no_english_identity": 1077,
+      "matched_official_record": 666,
+      "official_name_fallback": 67
+    },
+    "fate_grand_order": {
+      "matched_official_record": 226,
+      "official_name_fallback": 67
+    },
+    "genshin_impact": {
+      "matched_official_record": 101,
+      "outside_known_female_roster": 51
+    },
+    "honkai_star_rail": {
+      "matched_official_outfit": 2
+    }
+  },
+  "merged_alias_tags": {
+    "arknights": [
+      "bagpipe_(queen_no_1)_(arknights)"
+    ],
+    "fate_grand_order": [
+      "atalanta_(alter)_(fate)",
+      "ibaraki-douji_(fate)",
+      "ibuki-douji_(fate)",
+      "minamoto-no-raikou_(fate)",
+      "nitocris_(alter)_(fate)",
+      "sen-no-rikyu_(fate)",
+      "shuten-douji_(fate)",
+      "tamamo-no-mae_(fate)"
+    ]
+  },
+  "limitations": [
+    "Legacy rows were previously auto-curated and have not been individually verified against official release data.",
+    "This batch supplements official records for ZZZ, Blue Archive, Azur Lane, Genshin, HSR, Arknights and FGO; other packs retain legacy coverage.",
+    "Official-name fallback strings are not confirmed Danbooru tags and may not trigger costume concepts in image models."
+  ]
+}
