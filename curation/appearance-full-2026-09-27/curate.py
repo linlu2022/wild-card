@@ -68,14 +68,17 @@ CONFIG = {
         "dir": "vocaloid-full-2026-09-27", "copyright": "vocaloid",
         "suffix": "_(vocaloid)", "release": (),
         "publisher_hosts": {
-            "piapro.net", "sonicwire.com", "www.crypton.co.jp", "ec.crypton.co.jp",
+            "piapro.net", "blog.piapro.net", "sonicwire.com", "www.crypton.co.jp", "ec.crypton.co.jp",
             "vocalomakets.com", "www.vocalomakets.com", "www.ssw.co.jp",
             "www.1stplace.co.jp", "www.vocaloid.com", "www.ah-soft.com",
+            "www.v-flower.jp", "www.gynoid.co.jp", "gynoid.co.jp",
+            "www.rana0909.jp", "vocaloidproject.com", "www.goodsmileracing.com",
         },
-        "publisher_accounts": {"cfm_miku_en", "vocalomakets", "vocaloid_yamaha"},
+        "publisher_accounts": {"cfm_miku_en", "vocalomakets", "vocaloid_yamaha", "goodsmileracing"},
         "mirror_hosts": {"vocaloid.fandom.com", "vocaloid.wiki"},
         "wikia_path": "/vocaloid/",
         "variant_requires_appearance_context": True,
+        "exclude_redundant_aliases": {"racing_miku"},
     },
     "touhou": {
         "dir": "touhou-full-2026-09-27", "copyright": "touhou",
@@ -135,6 +138,8 @@ def source_tier(row, config):
     host = (parts.hostname or "").casefold()
     account = parts.path.strip("/").split("/", 1)[0].casefold()
     if "game_asset" in meta:
+        if config["copyright"] == "vocaloid" and host not in config["publisher_hosts"]:
+            return "source_unverified", 1
         return "game_asset", 8
     if source.casefold() in {"game asset", "game file", "game files", "game rip"}:
         return "game_file_label", 6
@@ -203,6 +208,15 @@ def curate(pack):
             "character": tag, "source": "prior_reviewed_appearance_pack",
             "source_id": "", "is_danbooru_tag": "True",
         })
+    if pack == "vocaloid":
+        for row in inventory:
+            if row["wiki_title"] == "racing_miku" and row["image_type"] == "post":
+                for tag in row["character_tags"].split():
+                    if re.fullmatch(r"racing_miku_\(20\d\d\)", tag):
+                        manifest.setdefault(tag, {
+                            "character": tag, "source": "wiki_racing_miku_year_form",
+                            "source_id": "", "is_danbooru_tag": "True",
+                        })
     constructed = defaultdict(list)
     for tag, record in manifest.items():
         normalized_variant = norm(variant(tag, config))
@@ -266,6 +280,8 @@ def curate(pack):
                 ((context_score(tag, row, config), row) for row in contexts),
                 key=lambda item: item[0],
             )
+            if pack == "vocaloid" and tag in prior and prior[tag]["url"].rsplit("/", 1)[-1] == post_id:
+                match = max(match, 12)
             if match < 0:
                 continue
             if match == 0 and (len(identities) != 1 or base(tag, config) not in identities):
@@ -278,6 +294,8 @@ def curate(pack):
             ):
                 continue
             score = source_score + match + (2 if "solo" in general else 0)
+            if pack == "vocaloid" and tag in prior and prior[tag]["url"].rsplit("/", 1)[-1] == post_id:
+                score += 20
             if "third-party_source" in meta:
                 score -= 1
             if "promotional_art" in meta and "game_asset" not in meta:

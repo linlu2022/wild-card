@@ -1,14 +1,33 @@
+vocaloid, flower_(vocaloid3), 1girl, purple_hair, white_hair, purple_eyes, layered_skirt, purple_jacket, purple_shirt, purple_skirt, sleeveless_jacket, sleeveless_shirt, ponytail, long_hair
+vocaloid, flower_(vocaloid4), 1girl, purple_hair, white_hair, purple_eyes, purple_shirt, shorts, fingerless_gloves, purple_boots, short_hair
 vocaloid, hatsune_miku, 1girl, aqua_hair, aqua_eyes, aqua_necktie, black_skirt, black_thighhighs, twintails
 vocaloid, hatsune_miku_(append), 1girl, aqua_hair, long_hair, detached_sleeves, necktie, twintails
 vocaloid, hatsune_miku_(nt), 1girl, aqua_hair, aqua_eyes, black_skirt, white_shirt, aqua_ribbon
 vocaloid, hatsune_miku_(vocaloid3), 1girl, green_hair, blue_eyes, skirt, necktie, twintails
 vocaloid, hatsune_miku_(vocaloid6), 1girl, aqua_hair, aqua_eyes, black_skirt, grey_shirt, aqua_necktie
 vocaloid, ia_(vocaloid), 1girl, grey_hair, blue_eyes, skirt, thighhighs
+vocaloid, kaai_yuki, 1girl, black_hair, brown_eyes, yellow_eyes, pinafore_dress, red_dress, school_uniform, brown_shoes, white_socks, twintails, short_hair
+vocaloid, kagamine_rin, 1girl, blonde_hair, aqua_eyes, black_shirt, collared_shirt, pleated_skirt, white_skirt, black_shoes
 vocaloid, kizuna_akari, 1girl, white_hair, blue_eyes, black_coat, orange_pantyhose
+vocaloid, luo_tianyi_(vocaloid3), 1girl, black_hair, green_eyes, skirt, boots, choker, socks, thighhighs, long_hair
 vocaloid, megurine_luka, 1girl, pink_hair, blue_eyes, black_skirt, black_thighhighs, gold_boots
 vocaloid, megurine_luka_(vocaloid4), 1girl, pink_hair, aqua_eyes, black_skirt, black_thighhighs
 vocaloid, meiko_(vocaloid), 1girl, brown_hair, brown_eyes, red_jacket, red_skirt, brown_boots
 vocaloid, meiko_(vocaloid3), 1girl, brown_hair, brown_eyes, red_shirt, red_skirt, brown_boots
 vocaloid, otomachi_una_(spicy), 1girl, blue_hair, blue_eyes, blonde_hair, jacket, red_necktie
 vocaloid, otomachi_una_(sugar), 1girl, blue_hair, blue_eyes, frilled_dress, red_necktie
+vocaloid, otomachi_una_(talkex), 1girl, aqua_eyes, blue_dress, collared_dress, animal_hat, black_pantyhose, blue_shoes, gradient_shoes, braid, twintails
+vocaloid, racing_miku_(2012), 1girl, aqua_hair, aqua_eyes, see-through_dress, skirt, black_boots, elbow_gloves, fingerless_gloves, see-through_necktie, twintails, very_long_hair
+vocaloid, racing_miku_(2015), 1girl, aqua_hair, green_hair, aqua_eyes, tiara, strapless_dress, white_dress, aqua_necktie, elbow_gloves, short_necktie, white_boots, twintails
+vocaloid, racing_miku_(2018), 1girl, aqua_hair, green_hair, aqua_eyes, bike_shorts, jacket, fingerless_gloves, hairband, twintails, very_long_hair
+vocaloid, racing_miku_(2021), 1girl, aqua_hair, aqua_eyes, maid, dress, skirt, waist_apron, white_thighhighs, twintails, very_long_hair
+vocaloid, racing_miku_(2022), 1girl, aqua_hair, aqua_eyes, open_jacket, white_jacket, black_boots, black_gloves, fingerless_gloves, white_shoes, twintails, very_long_hair
+vocaloid, racing_miku_(2023), 1girl, aqua_hair, aqua_eyes, short_shorts, hair_bun, twintails
+vocaloid, racing_miku_(2024), 1girl, blue_hair, purple_hair, blue_eyes, frilled_shorts, micro_shorts, white_hat, twintails, long_hair
+vocaloid, racing_miku_(2025), 1girl, green_hair, grey_hair, short_shorts, white_shorts, black_boots, lace-up_boots, pink_pantyhose, polka_dot_pantyhose, twintails, very_long_hair
+vocaloid, racing_miku_(2026), 1girl, aqua_hair, black_shorts, short_shorts, black_gloves, half_gloves, thigh_boots, braid, hair_bun
+vocaloid, rana_(vocaloid), 1girl, pink_hair, blue_eyes, frilled_dress, sleeveless_hoodie, sleeveless_jacket, white_pantyhose, scarf, braid, twintails
+vocaloid, sf-a2_miki, 1girl, red_hair, red_eyes, dress, striped_gloves, striped_socks, multicolored_socks, boots, very_long_hair
+vocaloid, xingchen, 1girl, blue_hair, purple_hair, yellow_eyes, blue_dress, halter_dress, black_thighhighs, blue_gloves, elbow_gloves, very_long_hair
+vocaloid, yuezheng_ling, 1girl, black_hair, brown_eyes, black_socks, black_thighhighs, braid, very_long_hair
 vocaloid, yuzuki_yukari, 1girl, purple_hair, purple_eyes, purple_dress, purple_thighhighs, rabbit_hood

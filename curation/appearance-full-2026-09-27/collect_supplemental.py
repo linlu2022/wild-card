@@ -26,6 +26,7 @@ def main():
     parser.add_argument("--only-tag", action="append", default=[], help="Search this exact tag even if already a candidate")
     parser.add_argument("--extra-tags", default="", help="Additional Danbooru search terms")
     parser.add_argument("--omit-official-art", action="store_true", help="Use one alternative tag within anonymous two-tag search limit")
+    parser.add_argument("--page", type=int, default=1, help="Danbooru result page for a targeted query")
     args = parser.parse_args()
     if args.interval < 0.3:
         parser.error("--interval must be >= 0.3")
@@ -51,7 +52,7 @@ def main():
         if not log_exists:
             logger.writeheader()
         for number, tag in enumerate(remaining, 1):
-            path = "/posts.json?" + urlencode({"tags": " ".join(part for part in (tag, "" if args.omit_official_art else "official_art", args.extra_tags) if part), "limit": "100"})
+            path = "/posts.json?" + urlencode({"tags": " ".join(part for part in (tag, "" if args.omit_official_art else "official_art", args.extra_tags) if part), "limit": "100", "page": str(args.page)})
             posts = wiki.get_json(path) or []
             matched = 0
             for post in posts:

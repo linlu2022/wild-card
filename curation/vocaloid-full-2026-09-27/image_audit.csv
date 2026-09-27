@@ -1,0 +1,219 @@
+image_type,image_id,status,wiki_titles,label,decision,url,source
+,,appearance_missing,bug_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,dark_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,expo_miku,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,fairy_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,fighting_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,fire_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,flying_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,galaco,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,ghost_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,gumi,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,gumi_(ai_megpoid),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,gumi_(v3_megpoid),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,hachune_miku,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,hatsune_miku_(nt),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,hiramado_miku,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,kagamine_rin_(append),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,kagamine_rin_(vocaloid4),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,lily_(vocaloid),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,magical_mirai_miku,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,mikudayo,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,normal_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,otomachi_una_(sugar),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,otomachi_una_(talkex),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,poison_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,psychic_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,rock_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,seeu,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,sf-a2_miki,,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,steel_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,water_miku_(project_voltage),,coverage_gap_missing_wiki_or_appearance,,
+,,appearance_missing,yuezheng_ling,,coverage_gap_missing_wiki_or_appearance,,
+asset,36339150,asset_no_post_tags,mayu_(vocaloid),,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/36339150,
+asset,42354974,asset_no_post_tags,ia_(vocaloid),CeVIO AI Talk,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/42354974,
+asset,42355179,asset_no_post_tags,ia_(vocaloid),CeVIO AI,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/42355179,
+asset,42986884,asset_no_post_tags,racing_miku,2025,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/42986884,
+asset,48189726,asset_no_post_tags,hatsune_miku_(supreme),,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/48189726,
+asset,49688018,asset_no_post_tags,meiko_(vocaloid),SP,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49688018,
+asset,49805347,asset_no_post_tags,megurine_luka,SP,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49805347,
+asset,49916886,asset_no_post_tags,xingchen,Infinity,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49916886,
+asset,49916894,asset_no_post_tags,xingchen,Infinity,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49916894,
+asset,49916904,asset_no_post_tags,xingchen,[[Minus (synthesizer v)|]],excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49916904,
+asset,49916938,asset_no_post_tags,xingchen,[[Yongye Minus]],excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49916938,
+post,164844,candidate,kagamine_rin,Act1,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/164844,
+post,559804,candidate,kaai_yuki,Vocaloid2,included_supporting_post,https://danbooru.donmai.us/posts/559804,http://www.ah-soft.com/images/products/vocaloid/yuki/yuki-img.jpg
+post,650716,candidate,hatsune_miku_(append),,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/650716,http://www.crypton.co.jp/img/special/vocaloid/img_miku_append_ver03.png
+post,662258,candidate,hatsune_miku,Append,included_supporting_post,https://danbooru.donmai.us/posts/662258,http://www.crypton.co.jp/img/special/vocaloid/img_miku_append_ver04.png
+post,804549,candidate,kagamine_rin,Append,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/804549,http://www.crypton.co.jp/mp/pages/prod/vocaloid/cv02a.jsp
+post,1044893,candidate,yuzuki_yukari,"Default, VOCALOID3/4",included_supporting_post,https://danbooru.donmai.us/posts/1044893,http://www.vocalomakets.com/
+post,1045204,candidate,ia_(vocaloid),,included_supporting_post,https://danbooru.donmai.us/posts/1045204,https://i.pximg.net/img-original/img/2011/11/28/22/15/43/23346358_p0.jpg
+post,1079360,candidate,luo_tianyi,Yayin Gongyu,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1079360,http://openspace.vocaloidproject.com/view-image/416/%E9%9B%85%E9%9F%B3-%E5%AE%AB%E7%BE%BD
+post,1124923,candidate,luo_tianyi;luo_tianyi_(vocaloid3),VOCALOID3,included_supporting_post,https://danbooru.donmai.us/posts/1124923,http://vocaloidproject.com/img/img_charL1.jpg
+post,1358279,candidate,racing_miku,2013,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1358279,
+post,1396592,candidate,ia_(vocaloid),[[Bottle IA]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1396592,https://i.pximg.net/img-original/img/2013/04/14/17/14/23/35005125_p0.png
+post,1426051,candidate,racing_miku,2013,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1426051,http://ev-mirai.com/wp-content/uploads/2013/05/08babde8fc556196ca0302725a7db1ae1.jpg
+post,1482262,candidate,hatsune_miku_(vocaloid3),Japanese,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1482262,http://www.crypton.co.jp/mp/pages/prod/vocaloid/images/img_illust_miku.png
+post,1482524,candidate,hatsune_miku;hatsune_miku_(vocaloid3),Vocaloid3,included_supporting_post,https://danbooru.donmai.us/posts/1482524,http://piapro.net/vocaloid/images/img_illust_mikuv3e.png
+post,1573365,candidate,meiko_(vocaloid3),,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1573365,http://www.crypton.co.jp/mp/pages/prod/vocaloid/images/img_illust_meikov3.png
+post,1611787,candidate,racing_miku,2014,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1611787,http://stat.ameba.jp/user_images/20140207/21/stgt/fd/e1/j/o0600085612838502925.jpg
+post,1620945,candidate,meiko_(vocaloid);meiko_(vocaloid3),VOCALOID3,included_supporting_post,https://danbooru.donmai.us/posts/1620945,http://www.crypton.co.jp/mp/pages/prod/vocaloid/images/meiko.png
+post,1705775,candidate,racing_miku,2014,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1705775,http://stat001.ameba.jp/user_images/20140606/16/stgt/82/44/j/o0800113212964711268.jpg
+post,1745036,candidate,sakura_miku,[[Chuko Miku]] [br] By [[Imoko (imonatsuki)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1745036,https://i.pximg.net/img-original/img/2014/07/24/15/39/13/44900237_p0.png
+post,1757815,candidate,rana_(vocaloid),,included_supporting_post,https://danbooru.donmai.us/posts/1757815,http://www.rana0909.jp/rana/images/rana.png
+post,1866187,candidate,yuzuki_yukari,Onn,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1866187,http://www.vocalomakets.com/yukari_1280_04.png
+post,1884249,candidate,yuzuki_yukari,Lin,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/1884249,http://www.vocalomakets.com/blog/wp-content/uploads/2014/12/yukari_lin.jpg
+post,2003104,candidate,megurine_luka,Vocaloid4,included_supporting_post,https://danbooru.donmai.us/posts/2003104,http://www.crypton.co.jp/mp/pages/prod/vocaloid/lukav4x.jsp
+post,2024591,candidate,racing_miku,2015,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2024591,http://www.goodsmileracing.com/wp-content/uploads/2015/05/thaimiku2015.jpg
+post,2050940,candidate,hatsune_miku,Vocaloid3,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2050940,http://www.j-channel.jp/th/images/stories/2015-05/mago/mn20150504-10.png
+post,2191156,candidate,racing_miku,2015,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2191156,https://twitter.com/goodsmileracing/status/664771602714771456/photo/1
+post,2433899,candidate,otomachi_una,SUGAR,included_supporting_post,https://danbooru.donmai.us/posts/2433899,http://commons.nicovideo.jp/material/nc138051
+post,2433900,candidate,otomachi_una,SPICY,included_supporting_post,https://danbooru.donmai.us/posts/2433900,http://commons.nicovideo.jp/material/nc138056
+post,2518544,candidate,racing_miku,2016,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2518544,http://stat.ameba.jp/user_images/20161009/02/stgt/83/40/j/o0856120013768153141.jpg?caw=800
+post,2534159,candidate,hatsune_miku_(vocaloid4),,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2534159,
+post,2534170,candidate,hatsune_miku;hatsune_miku_(vocaloid4),Vocaloid4,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2534170,
+post,2534175,candidate,hatsune_miku_(vocaloid4),,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2534175,
+post,2534193,candidate,kagamine_rin,Vocaloid4,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2534193,
+post,2569850,candidate,kaai_yuki,Vocaloid4,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2569850,http://static.zerochan.net/Kaai.Yuki.full.1929615.jpg
+post,2722041,candidate,otomachi_una,TalkEx,included_supporting_post,https://danbooru.donmai.us/posts/2722041,http://www.ssw.co.jp/products/talk/una/index_image/pake_f.jpg
+post,2745871,candidate,racing_miku,2017,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2745871,https://images.plurk.com/4jnF1KoUDXwXaGHLfCmi.jpg
+post,2750123,candidate,yuzuki_yukari,[[Okhotsk Yukari]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2750123,http://www.vocalomakets.com/blog/archives/972
+post,2833645,candidate,racing_miku,2017,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2833645,https://stat.ameba.jp/user_images/20170826/11/stgt/5c/1e/j/o1000100014013403392.jpg
+post,2849189,candidate,racing_miku,2010,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2849189,https://twitter.com/shiru/status/903174768102301696
+post,2849193,candidate,racing_miku,2010,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2849193,https://twitter.com/shiru/status/903174768102301696
+post,2860676,candidate,hatsune_miku,Vocaloid4 (Chinese),excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2860676,http://sonicwire.com/product/vocaloid/special/mikuv4c
+post,2940327,candidate,kizuna_akari,Default,included_supporting_post,https://danbooru.donmai.us/posts/2940327,http://www.vocalomakets.com/blog/archives/1003
+post,2963862,candidate,racing_miku,2018,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2963862,https://twitter.com/goodsmileracing/status/944518200791744512
+post,3035205,candidate,racing_miku,2013,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3035205,https://exhentai.org/s/e54ef683d6/1191588-23
+post,3121384,candidate,racing_miku,2017,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3121384,http://suzuka10h.goodsmileracing.com/images/suzuka10h_illust.jpg
+post,3133678,candidate,racing_miku,2018,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3133678,https://twitter.com/goodsmileracing/status/998477760652763137
+post,3226879,candidate,racing_miku,2017,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3226879,https://twitter.com/Tony_T2ARTWORKS/status/821331746813640704
+post,3357653,candidate,racing_miku,2019,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3357653,https://twitter.com/annin_oiko/status/1076429614916919296
+post,3490406,candidate,flower_(vocaloid);flower_(vocaloid4),VOCALOID4,included_supporting_post,https://danbooru.donmai.us/posts/3490406,http://www.gynoid.co.jp/news/view/56/
+post,3921770,candidate,racing_miku,2020,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3921770,https://twitter.com/LENA_Anana/status/1263771839576170496
+post,3921860,candidate,racing_miku,2020,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3921860,http://zoal.jp/gallery/image/201912racingmiku.jpg
+post,4137101,candidate,racing_miku,2009,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4137101,https://twitter.com/GoodSmile_US/status/1312090234394415104
+post,4137132,candidate,racing_miku,2011,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4137132,https://twitter.com/GoodSmile_US/status/1312814854974169088
+post,4254817,candidate,racing_miku,2021,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4254817,https://twitter.com/morikuraen/status/1339775093392568320
+post,4254819,candidate,racing_miku,2021,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4254819,https://twitter.com/morikuraen/status/1339777550067744768
+post,4260815,candidate,yuzuki_yukari,Rei,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4260815,https://vocalomakets.com/wp-content/uploads/2020/12/z13_yukari_rei_cai.jpg
+post,4391493,candidate,flower_(vocaloid4),,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4391493,https://www.gynoid.co.jp/news/view/56/
+post,4391526,candidate,flower_(vocaloid),Gynoid Talk,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4391526,https://www.gynoid.co.jp/news/view/56/
+post,4427252,candidate,hatsune_miku,NT,included_supporting_post,https://danbooru.donmai.us/posts/4427252,https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt
+post,4444951,candidate,racing_miku,2021,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4444951,https://twitter.com/goodsmileracing/status/1376847883387895815
+post,4502850,candidate,luo_tianyi,VOCALOID4,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4502850,http://thstars.com/assets/images/vsinger/lty/carton-new-2018.png
+post,4521668,candidate,racing_miku,2021,included_supporting_post,https://danbooru.donmai.us/posts/4521668,https://twitter.com/goodsmileracing/status/1391691173316546560
+post,4638582,candidate,hatsune_miku,If,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4638582,https://piapro.net/39chronicle/images/contents/ex_mikuif_kei.jpg
+post,4646426,candidate,megurine_luka,VOCALOID2,included_supporting_post,https://danbooru.donmai.us/posts/4646426,https://ec.crypton.co.jp/img/vocaloid/img_illust_luka_min.png
+post,4682274,candidate,yuzuki_yukari,A.I. VOICE,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4682274,https://vocalomakets.com/archives/2582
+post,4735970,candidate,yuzuki_yukari,Shizuku,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4735970,https://vocalomakets.com/aivoice-yukari-shizuku
+post,4864525,candidate,kizuna_akari,A.I. VOICE,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4864525,https://vocalomakets.com/wp-content/uploads/2021/10/z17_akari_avi.jpg
+post,4909467,candidate,kizuna_akari,Tsubomi,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4909467,https://vocalomakets.com/archives/2870
+post,4921833,candidate,kagamine_rin,VOCALOID2 Act2,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/4921833,https://piapro.net/rinlen14thbd/images/img_rinlen.png
+post,5005124,candidate,racing_miku,2022,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5005124,https://twitter.com/neco_person/status/1474713637545988111
+post,5035724,candidate,racing_miku,2020,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5035724,https://twitter.com/LENA_Anana/status/1476070270897393665
+post,5043875,candidate,25-ji_miku,[[Toraware no Marionette (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5043875,https://static.zerochan.net/Hatsune.Miku.full.3104087.png
+post,5043910,candidate,wonderlands_x_showtime_miku,[[Kitto Saikou no Summer! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5043910,https://static.zerochan.net/Hatsune.Miku.full.3428648.png
+post,5138349,candidate,racing_miku,2022,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5138349,https://twitter.com/neco_person/status/1494672203954024450
+post,5138353,candidate,racing_miku,2022,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5138353,https://twitter.com/neco_person/status/1494672203954024450
+post,5266875,candidate,racing_miku,2022,included_supporting_post,https://danbooru.donmai.us/posts/5266875,https://twitter.com/goodsmileracing/status/1513834317759320066
+post,5312060,candidate,flower_(vocaloid),[[Ci flower]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5312060,https://twitter.com/GobouP/status/1519854390714290179
+post,5324521,candidate,yuzuki_yukari,[[Kappougi Yukari]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5324521,https://vocalomakets.com/wp-content/uploads/2015/05/z06_yukari_kappougi-2-1.jpg
+post,5363546,candidate,flower_(vocaloid);flower_(vocaloid3),VOCALOID3,included_supporting_post,https://danbooru.donmai.us/posts/5363546,http://www.v-flower.jp/v3/
+post,5404802,candidate,vivid_bad_squad_meiko,[[Aozora ni Negau Your Happiness! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5404802,https://static.wikia.nocookie.net/projectsekai/images/8/88/To_All_Your_Hard_Work_T.png/revision/latest?cb=20220531030850
+post,5430860,candidate,racing_miku,2018,included_supporting_post,https://danbooru.donmai.us/posts/5430860,https://twitter.com/goodsmileracing/status/966873289673949191
+post,5471078,candidate,25-ji_miku,[[Sekai no Sakura Tsunagaru Omoi (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5471078,https://static.wikia.nocookie.net/projectsekai/images/4/45/The_Petals_Dancing_in_the_Wind_T.png/revision/latest?cb=20220330144412
+post,5471298,candidate,leo/need_miku,[[Kimi to Utau Sakura-mau Sekai de (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5471298,https://static.wikia.nocookie.net/projectsekai/images/e/e4/An_Evolving_Tone_T.png/revision/latest?cb=20210403032010
+post,5553906,candidate,more_more_jump!_miku,[[Inori no Saki Negau Ashita wa (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5553906,https://static.wikia.nocookie.net/projectsekai/images/0/09/The_Top_Idol_of_the_Karuta_World%3F_T.png/revision/latest?cb=20211231153612
+post,5553936,candidate,more_more_jump!_miku,[[Tsunagu Painful Hope (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5553936,https://static.wikia.nocookie.net/projectsekai/images/a/a3/Maybe_Tickling_Would_Help%3F_T.png/revision/latest?cb=20220430142651
+post,5591917,candidate,xingchen,,included_supporting_post,https://danbooru.donmai.us/posts/5591917,https://static.wikia.nocookie.net/vocaloid/images/4/48/Stardust_transparent.png/revision/latest?cb=20210909213727
+post,5684734,candidate,wonderlands_x_showtime_miku,[[Close Game/Offline (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5684734,https://static.wikia.nocookie.net/projectsekai/images/9/9c/MikuMiku%E2%98%86Gunner!.png/revision/latest?cb=20220731002455
+post,5708826,candidate,vivid_bad_squad_meiko,[[Sekai no Sakura Tsunagaru Omoi (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5708826,https://static.wikia.nocookie.net/projectsekai/images/f/f4/Tasting_the_New_Spring_Menu_T.png/revision/latest?cb=20220330144036
+post,5712290,candidate,yuzuki_yukari,Nagi,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5712290,https://vocalomakets.com/archives/3768
+post,5765159,candidate,luo_tianyi,AI,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5765159,https://twitter.com/ideolo/status/1583712511852806144
+post,5780669,candidate,25-ji_miku,[[Majiwaru Senritsu Tomoru Nukumori (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5780669,https://files.yande.re/image/e7e827092372b7ee39738e17600786fe/yande.re%201030452.png
+post,5787946,candidate,wonderlands_x_showtime_miku,[[Curtain Call ni Sekibetsu wo (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5787946,"https://static.wikia.nocookie.net/projectsekai/images/c/c2/Feeling_Down,_Down,_Down~_T.png/revision/latest?cb=20221021071416"
+post,5802787,candidate,kizuna_akari,Moe,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5802787,https://vocalomakets.com/wp-content/uploads/2022/10/z26_akari_moe_aiv.jpg
+post,5906563,candidate,racing_miku,2023,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5906563,https://twitter.com/goodsmileracing/status/1603989293092917248
+post,5975049,candidate,kizuna_akari,[[Shitsuji Megane Akari]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/5975049,https://twitter.com/haino/status/1604437446917120001
+post,6149346,candidate,sakura_miku,,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6149346,https://twitter.com/hirohako_1685/status/1633029729585631234
+post,6214750,candidate,sakura_miku,Rella,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6214750,https://twitter.com/cfm_snowmiku/status/1645260314659770369
+post,6306888,candidate,leo/need_miku,[[Little Bravers! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6306888,https://static.wikia.nocookie.net/projectsekai/images/a/a0/A_Senpai's_Gaze_T.png/revision/latest?cb=20230121080734
+post,6306926,candidate,leo/need_miku,[[Koukyou Suru Machi no Katasumi de (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6306926,https://static.wikia.nocookie.net/projectsekai/images/1/1c/First_Time_on_the_Street!_T.png/revision/latest?cb=20230330050940
+post,6307011,candidate,more_more_jump!_miku,[[Funade no Mae no One Day Trip (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6307011,https://static.wikia.nocookie.net/projectsekai/images/5/5d/A_Foretaste_of_Yokohama_Gourmet_Through_the_Guidebook_♪_T.png/revision/latest?cb=20230511100010
+post,6393676,candidate,yuzuki_yukari,[[Melon Yukari]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6393676,https://www.yubari-melon.or.jp/wp-content/uploads/2023/05/yuduki.png
+post,6495692,candidate,racing_miku,2023,included_supporting_post,https://danbooru.donmai.us/posts/6495692,https://twitter.com/goodsmileracing/status/1671118279480573960
+post,6549225,candidate,hatsune_miku,Vocaloid2 (2007),included_supporting_post,https://danbooru.donmai.us/posts/6549225,https://www.newswire.com/news/graphic-india-announces-new-animated-tv-series-with-hatsune-miku-the-21328800
+post,6577296,candidate,otomachi_una,VOICEPEAK,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6577296,https://commons.nicovideo.jp/works/nc310962
+post,6588618,candidate,vivid_bad_squad_miku,[[On your Feet (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6588618,https://static.wikia.nocookie.net/projectsekai/images/0/02/Glitteringly.png/revision/latest?cb=20230810101218
+post,6588670,candidate,vivid_bad_squad_miku,[[Sekai no Happy New Year! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6588670,https://static.wikia.nocookie.net/projectsekai/images/1/1c/Powerful_Smile_T.png/revision/latest?cb=20220714202344
+post,6816178,candidate,racing_miku,2016,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6816178,https://static.wikia.nocookie.net/74a9f058-f816-4856-8aad-c398aa8a4c81/
+post,6869214,candidate,yuzuki_yukari,A.I. VOICE 2,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6869214,https://vocalomakets.com/archives/4954
+post,6869215,candidate,kizuna_akari,A.I. VOICE 2,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6869215,https://vocalomakets.com/archives/4954
+post,6987127,candidate,racing_miku,2024,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/6987127,https://twitter.com/goodsmileracing/status/1735900088516723113
+post,7242755,candidate,more_more_jump!_miku,[[Kizama Reta Kizu wa Yagate (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7242755,https://static.wikia.nocookie.net/projectsekai/images/1/1a/Traces_Left_Behind_by_the_Scars_T.png/revision/latest?cb=20240220051141&format=original
+post,7365183,candidate,yuzuki_yukari,Mu,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7365183,https://twitter.com/ramdayo1122/status/1208736519143358464
+post,7365623,candidate,vivid_bad_squad_meiko,[[The First Concerto (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7365623,https://static.wikia.nocookie.net/projectsekai/images/7/75/Because_It's_Important_T.png/revision/latest?cb=20240322085445
+post,7613302,candidate,racing_miku,2024,included_supporting_post,https://danbooru.donmai.us/posts/7613302,https://twitter.com/goodsmileracing/status/1792878180195582064
+post,7666192,candidate,sakura_miku,Noodle Stopper,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7666192,https://twitter.com/haru_sugar02/status/1586674275708153856
+post,7760706,candidate,ia_(vocaloid),IA Rocks,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7760706,https://static.wikia.nocookie.net/vocaloid/images/c/c9/IA_ROCKS_full.jpg?format=original
+post,7849089,candidate,vivid_bad_squad_miku,[[Over Rad Squad!! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7849089,https://static.wikia.nocookie.net/projectsekai/images/4/45/Beyond_that_Door_T.png?format=original
+post,7907454,candidate,luo_tianyi,VOCALOID5,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7907454,https://t.bilibili.com/658962456973934633
+post,7922829,candidate,batsu_miku,,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7922829,https://sh-anime.shochiku.co.jp/pjsekai-movie/character/
+post,7936716,candidate,hatsune_miku,SUPER PACK,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7936716,https://twitter.com/iximaxima/status/1818895849323372855
+post,7936744,candidate,kagamine_rin,SUPER PACK,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/7936744,https://sonicwire.com/product/virtualsinger/special/superpack
+post,8080585,candidate,sakura_miku,Noodle Stopper,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8080585,https://twitter.com/FURYU_prize/status/1494491860554985493
+post,8150997,candidate,racing_miku,2012,included_supporting_post,https://danbooru.donmai.us/posts/8150997,https://www.goodsmileracing.com/en/racingmiku2012/
+post,8151044,candidate,racing_miku,2015,included_supporting_post,https://danbooru.donmai.us/posts/8151044,https://www.goodsmileracing.com/en/racingmiku2015/
+post,8172004,candidate,otomachi_una,VOCALOID6 SUGAR,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8172004,file://キャライラスト_V6音街ウナ_Sugar_立ち絵.png
+post,8178746,candidate,otomachi_una,VOCALOID6 SPICY,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8178746,file://キャライラスト_V6音街ウナ_Spicy_立ち絵.png
+post,8383736,candidate,otomachi_una,SV,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8383736,https://www.ssw.co.jp/products/synth_v/otomachiuna/illust.html
+post,8551905,candidate,more_more_jump!_miku,[[Grow Glorious Glow (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8551905,https://static.wikia.nocookie.net/projectsekai/images/d/dd/Discerning_Eyes_T.png?format=original
+post,8563081,candidate,racing_miku,2025,included_supporting_post,https://danbooru.donmai.us/posts/8563081,https://twitter.com/goodsmileracing/status/1867789923035816285
+post,8675387,candidate,vivid_bad_squad_miku,[[Never Give Up Cooking! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8675387,https://static.wikitide.net/projectsekaiwiki/9/99/Miku_32_trained_art.png
+post,8922257,candidate,yuzuki_yukari,VOCALOID 6 AI,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/8922257,https://vocalomakets.com/archives/6200
+post,8926591,candidate,meiko_(vocaloid),VOCALOID (V1),included_supporting_post,https://danbooru.donmai.us/posts/8926591,https://piapro.net/meiko20th/
+post,9640316,candidate,leo/need_miku,[[Echo my Melody (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9640316,https://www.sekaipedia.org/wiki/File:Miku_30_trained_art.png
+post,9654749,candidate,more_more_jump!_miku,[[Cast Spell On You (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9654749,https://www.sekaipedia.org/wiki/File:Miku_22_trained_art.png
+post,9655218,candidate,vivid_bad_squad_meiko,[[Awakening Beat (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9655218,https://www.sekaipedia.org/wiki/File:MEIKO_10_trained_art.png
+post,9661702,candidate,vivid_bad_squad_meiko,[[Itsuka Senaka Awase no Lyric wo (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9661702,https://static.wikitide.net/projectsekaiwiki/5/59/MEIKO_4_art.png
+post,9661830,candidate,vivid_bad_squad_miku,[[Bout for Beside You (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9661830,https://www.sekaipedia.org/wiki/File:Miku_17_trained_art.png
+post,9667535,candidate,wonderlands_x_showtime_miku,[[Mabayui Hikari no Stage de (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9667535,https://www.sekaipedia.org/wiki/File:Miku_24_art.png
+post,9679347,candidate,25-ji_miku,[[Itsuka Zetsubou no Soko Kara (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9679347,https://www.sekaipedia.org/wiki/File:Miku_21_art.png
+post,9885325,candidate,kagamine_rin;kagamine_rin_(nt),NT,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9885325,https://sonicwire.com/images/sp/cv/rinlennt/img_illust_rinlennt.webp
+post,9885404,candidate,kagamine_rin_(nt),Reference sheet,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9885404,https://twitter.com/iximaxima/status/1962010384430485579
+post,9972653,candidate,vivid_bad_squad_miku,[[Aim Higher and Higher! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9972653,https://static.wikia.nocookie.net/projectsekai/images/7/70/Sudden_Crisis_T.png?format=original
+post,10184264,candidate,kizuna_akari,VOCALOID6,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10184264,https://www.ssw.co.jp/products/vocaloid6/kizunaakari/images/v6akari_wbg.png
+post,10205361,candidate,25-ji_miku,[[Colors of Pure Sense (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10205361,https://static.wikia.nocookie.net/projectsekai/images/b/b4/Thank-You_Ice_Cream_T.png?format=original
+post,10267183,candidate,vivid_bad_squad_meiko,[[Break Down the Wall (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10267183,https://www.sekaipedia.org/wiki/File:MEIKO_34_art.png
+post,10422566,candidate,racing_miku,2026,included_supporting_post,https://danbooru.donmai.us/posts/10422566,https://twitter.com/goodsmileracing/status/1999697826163703942
+post,10573353,candidate,leo/need_miku,[[Find the Dream View (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10573353,https://www.sekaipedia.org/wiki/File:Miku_53_trained_art.png
+post,10597056,candidate,25-ji_miku,[[Minasoko ni Kage wo Sagashite (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10597056,https://www.sekaipedia.org/wiki/File:Miku_44_art.png
+post,10662447,candidate,ia_(vocaloid),VOCALOID6,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10662447,https://twitter.com/IA_Rebreath/status/2015001633973764228
+post,10774228,candidate,wonderlands_x_showtime_miku,[[Hashire! Taiikumatsuri! ~Jikkou Iin wa Ooisogashi~ (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10774228,https://www.sekaipedia.org/wiki/File:Miku_10_trained_art.png
+post,10776363,candidate,wonderlands_x_showtime_miku,[[Seinaru Yoru ni Kono Utagoe wo (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10776363,https://www.sekaipedia.org/wiki/File:Miku_11_trained_art.png
+post,10776517,candidate,leo/need_miku,[[Futari Tsukiusagi (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10776517,https://www.sekaipedia.org/wiki/File:Miku_15_trained_art.png
+post,10823927,candidate,vivid_bad_squad_miku,[[Our Golden Days (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10823927,https://static.wikitide.net/projectsekaiwiki/9/98/Miku_60_art.png
+post,10921388,candidate,hatsune_miku;hatsune_miku_(vocaloid6),Vocaloid6,included_supporting_post,https://danbooru.donmai.us/posts/10921388,https://sonicwire.com/product/virtualsinger/special/miku-v6
+post,10921423,candidate,hatsune_miku_(vocaloid6),Reference sheet,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10921423,https://sonicwire.com/product/virtualsinger/special/miku-v6
+post,10986072,candidate,25-ji_miku,[[Amid the Wavering Light (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10986072,https://storage.sekai.best/sekai-jp-assets/character/member/res021_no062/card_after_training.png
+post,11096693,candidate,yuki_miku,"Successive Yuki Miku as of 2025; from left-to-right, top-to-bottom.",excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11096693,https://x.com/ekureea/status/2040735548403585383
+post,11103540,candidate,racing_miku,2026,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11103540,https://x.com/tkri_project/status/2041091290130182396
+post,11189796,candidate,wonderlands_x_showtime_miku,[[Sekai ni Hibike! Your Song (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11189796,https://www.sekaipedia.org/wiki/File:Miku_37_trained_art.png
+post,11192904,candidate,wonderlands_x_showtime_miku,[[Deep Dark for Light (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11192904,https://www.sekaipedia.org/wiki/File:Miku_56_trained_art.png
+post,11198476,candidate,25-ji_miku,Brand New World,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11198476,"https://static.wikitide.net/projectsekaiwiki/2/2d/Hatsune_Miku_V2_(25-ji,_Nightcord_de.).png"
+post,11198580,candidate,25-ji_miku,Original,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11198580,"https://static.wikitide.net/projectsekaiwiki/6/6c/Hatsune_Miku_(25-ji,_Nightcord_de.).png"
+post,11198796,candidate,leo/need_miku,Original,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11198796,https://static.wikitide.net/projectsekaiwiki/1/1e/Hatsune_Miku_(Leoneed).png
+post,11198858,candidate,leo/need_miku,Brand New World,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11198858,https://static.wikitide.net/projectsekaiwiki/8/83/Hatsune_Miku_V2_(Leoneed).png
+post,11198907,candidate,more_more_jump!_miku,Original,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11198907,https://static.wikitide.net/projectsekaiwiki/b/b1/Hatsune_Miku_(MORE_MORE_JUMP!).png
+post,11198957,candidate,more_more_jump!_miku,Brand New World,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11198957,https://static.wikitide.net/projectsekaiwiki/d/db/Hatsune_Miku_V2_(MORE_MORE_JUMP!).png
+post,11199043,candidate,vivid_bad_squad_miku,Original,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11199043,https://static.wikitide.net/projectsekaiwiki/d/d0/Hatsune_Miku_(Vivid_BAD_SQUAD).png
+post,11199092,candidate,vivid_bad_squad_miku,Brand New World,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11199092,https://static.wikitide.net/projectsekaiwiki/e/e6/Hatsune_Miku_V2_(Vivid_BAD_SQUAD).png
+post,11199181,candidate,wonderlands_x_showtime_miku,Original,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11199181,https://static.wikitide.net/projectsekaiwiki/6/63/Hatsune_Miku_(Wonderlands×Showtime).png
+post,11199212,candidate,wonderlands_x_showtime_miku,Brand New World,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11199212,https://static.wikitide.net/projectsekaiwiki/3/31/Hatsune_Miku_V2_(Wonderlands×Showtime).png
+post,11295407,candidate,megurine_luka,[[Project Sekai]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11295407,https://static.wikitide.net/projectsekaiwiki/6/63/Megurine_Luka_V2.png
+post,11295685,candidate,vivid_bad_squad_meiko,Original,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11295685,https://static.wikitide.net/projectsekaiwiki/0/05/MEIKO_(Vivid_BAD_SQUAD).png
+post,11295729,candidate,vivid_bad_squad_meiko,Brand New World,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11295729,https://static.wikitide.net/projectsekaiwiki/3/34/MEIKO_V2_(Vivid_BAD_SQUAD).png
+post,11650134,candidate,hatsune_miku;hatsune_miku_(blue_archive),Blue Archive,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11650134,https://bluearchive.wiki/wiki/File:Hatsune_Miku_00.png
+post,11689697,candidate,more_more_jump!_miku,[[Idol Hanasato Minori ~Yume no Saizensen~ (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/11689697,https://storage.sekai.best/sekai-jp-assets/character/member/res021_no064/card_after_training.png
+post,12089305,candidate,leo/need_miku,[[Mix & Make Party Time!! (project sekai)|]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/12089305,https://storage.sekai.best/sekai-jp-assets/character/member/res021_no066/card_normal.png

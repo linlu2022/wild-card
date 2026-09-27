@@ -1,0 +1,87 @@
+character,decision,reason,manifest_source,source_id,post_id,wiki_title,label,source_tier,candidate_count,url,source
+25-ji_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+batsu_miku,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,7922829,batsu_miku,,source_unverified,1,https://danbooru.donmai.us/posts/7922829,https://sh-anime.shochiku.co.jp/pjsekai-movie/character/
+bug_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+dark_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+expo_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+fairy_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+fighting_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+fire_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+flower_(vocaloid),excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,7986031,flower_(vocaloid),supplemental search,source_unverified,5,https://danbooru.donmai.us/posts/7986031,https://ci-flower.blog.jp/archives/5532366.html
+flower_(vocaloid3),included,included_exact_form_post,legacy_appearance_pack,,5363546,flower_(vocaloid),VOCALOID3,publisher,1,https://danbooru.donmai.us/posts/5363546,http://www.v-flower.jp/v3/
+flower_(vocaloid4),included,included_exact_form_post,legacy_appearance_pack,,3490406,flower_(vocaloid),VOCALOID4,publisher,1,https://danbooru.donmai.us/posts/3490406,http://www.gynoid.co.jp/news/view/56/
+flying_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+galaco,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+ghost_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+gumi,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,3929555,gumi,supplemental search,game_mirror,13,https://danbooru.donmai.us/posts/3929555,https://vignette.wikia.nocookie.net/vocaloid/images/f/fd/Ofcl_boxart_ic_GUMI-_transparent.png/revision/latest?cb=20191219011638
+gumi_(ai_megpoid),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+gumi_(v3_megpoid),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+hachune_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+hatsune_miku,included,included_exact_form_post,legacy_appearance_pack,,6549225,hatsune_miku,Vocaloid2 (2007),source_unverified,39,https://danbooru.donmai.us/posts/6549225,https://www.newswire.com/news/graphic-india-announces-new-animated-tv-series-with-hatsune-miku-the-21328800
+hatsune_miku_(append),included,included_exact_form_post,legacy_appearance_pack,,662258,hatsune_miku,Append,publisher,2,https://danbooru.donmai.us/posts/662258,http://www.crypton.co.jp/img/special/vocaloid/img_miku_append_ver04.png
+hatsune_miku_(blue_archive),excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,11650134,hatsune_miku,Blue Archive,source_unverified,1,https://danbooru.donmai.us/posts/11650134,https://bluearchive.wiki/wiki/File:Hatsune_Miku_00.png
+hatsune_miku_(nt),included,included_exact_form_post,legacy_appearance_pack,,4427252,hatsune_miku,NT,publisher,1,https://danbooru.donmai.us/posts/4427252,https://ec.crypton.co.jp/pages/prod/virtualsinger/mikunt
+hatsune_miku_(supreme),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+hatsune_miku_(vocaloid3),included,included_exact_form_post,legacy_appearance_pack,,1482524,hatsune_miku,Vocaloid3,publisher,3,https://danbooru.donmai.us/posts/1482524,http://piapro.net/vocaloid/images/img_illust_mikuv3e.png
+hatsune_miku_(vocaloid4),excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,2534170,hatsune_miku,Vocaloid4,source_unverified,3,https://danbooru.donmai.us/posts/2534170,
+hatsune_miku_(vocaloid6),included,included_exact_form_post,legacy_appearance_pack,,10921388,hatsune_miku,Vocaloid6,publisher,2,https://danbooru.donmai.us/posts/10921388,https://sonicwire.com/product/virtualsinger/special/miku-v6
+hiramado_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+ia_(vocaloid),included,included_exact_form_post,legacy_appearance_pack,,1045204,ia_(vocaloid),,source_unverified,1,https://danbooru.donmai.us/posts/1045204,https://i.pximg.net/img-original/img/2011/11/28/22/15/43/23346358_p0.jpg
+kaai_yuki,included,included_exact_form_post,legacy_appearance_pack,,559804,kaai_yuki,supplemental search,publisher,18,https://danbooru.donmai.us/posts/559804,http://www.ah-soft.com/images/products/vocaloid/yuki/yuki-img.jpg
+kagamine_rin,included,included_exact_form_post,legacy_appearance_pack,,10499715,kagamine_rin,supplemental search,publisher,42,https://danbooru.donmai.us/posts/10499715,https://blog.piapro.net/2025/12/hs2512261.html
+kagamine_rin_(append),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+kagamine_rin_(nt),excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,9885404,kagamine_rin_(nt),Reference sheet,source_unverified,1,https://danbooru.donmai.us/posts/9885404,https://twitter.com/iximaxima/status/1962010384430485579
+kagamine_rin_(vocaloid4),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+kizuna_akari,included,included_exact_form_post,legacy_appearance_pack,,2940327,kizuna_akari,Default,publisher,1,https://danbooru.donmai.us/posts/2940327,http://www.vocalomakets.com/blog/archives/1003
+leo/need_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+lily_(vocaloid),excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,704595,lily_(vocaloid),supplemental search,source_unverified,2,https://danbooru.donmai.us/posts/704595,
+luo_tianyi,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,11504298,luo_tianyi,supplemental search,source_unverified,56,https://danbooru.donmai.us/posts/11504298,https://www.bilibili.com/opus/1207789540018749465
+luo_tianyi_(vocaloid3),included,included_exact_form_post,legacy_appearance_pack,,1124923,luo_tianyi,VOCALOID3,publisher,1,https://danbooru.donmai.us/posts/1124923,http://vocaloidproject.com/img/img_charL1.jpg
+magical_mirai_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+mayu_(vocaloid),excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,1317059,mayu_(vocaloid),supplemental search,source_unverified,5,https://danbooru.donmai.us/posts/1317059,https://i.pximg.net/img-original/img/2012/12/13/00/59/55/32076010_p0.jpg
+megurine_luka,included,included_exact_form_post,legacy_appearance_pack,,4646426,megurine_luka,VOCALOID2,publisher,18,https://danbooru.donmai.us/posts/4646426,https://ec.crypton.co.jp/img/vocaloid/img_illust_luka_min.png
+megurine_luka_(vocaloid4),included,included_exact_form_post,prior_reviewed_appearance_pack,,2003104,megurine_luka,Vocaloid4,publisher,1,https://danbooru.donmai.us/posts/2003104,http://www.crypton.co.jp/mp/pages/prod/vocaloid/lukav4x.jsp
+meiko_(vocaloid),included,included_exact_form_post,legacy_appearance_pack,,8926591,meiko_(vocaloid),VOCALOID (V1),publisher,9,https://danbooru.donmai.us/posts/8926591,https://piapro.net/meiko20th/
+meiko_(vocaloid3),included,included_exact_form_post,legacy_appearance_pack,,1620945,meiko_(vocaloid),VOCALOID3,publisher,2,https://danbooru.donmai.us/posts/1620945,http://www.crypton.co.jp/mp/pages/prod/vocaloid/images/meiko.png
+mikudayo,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,11249637,mikudayo,supplemental search,source_unverified,1,https://danbooru.donmai.us/posts/11249637,https://x.com/pj_sekai/status/1484360848319868930
+more_more_jump!_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+normal_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+otomachi_una,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,8190321,otomachi_una,supplemental search,source_unverified,6,https://danbooru.donmai.us/posts/8190321,file://キャライラスト_ハロウィン2018_A.png
+otomachi_una_(spicy),included,included_exact_form_post,prior_reviewed_appearance_pack,,2433900,otomachi_una,SPICY,source_unverified,2,https://danbooru.donmai.us/posts/2433900,http://commons.nicovideo.jp/material/nc138056
+otomachi_una_(sugar),included,included_exact_form_post,legacy_appearance_pack,,2433899,otomachi_una,SUGAR,source_unverified,2,https://danbooru.donmai.us/posts/2433899,http://commons.nicovideo.jp/material/nc138051
+otomachi_una_(talkex),included,included_exact_form_post,legacy_appearance_pack,,2722041,otomachi_una,TalkEx,publisher,1,https://danbooru.donmai.us/posts/2722041,http://www.ssw.co.jp/products/talk/una/index_image/pake_f.jpg
+poison_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+psychic_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+racing_miku,excluded,excluded_alias_covered_by_specific_forms,legacy_appearance_pack,,,,,,0,,
+racing_miku_(2009),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,4137101,racing_miku,2009,source_unverified,1,https://danbooru.donmai.us/posts/4137101,https://twitter.com/GoodSmile_US/status/1312090234394415104
+racing_miku_(2010),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,2849193,racing_miku,2010,source_unverified,2,https://danbooru.donmai.us/posts/2849193,https://twitter.com/shiru/status/903174768102301696
+racing_miku_(2011),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,4137132,racing_miku,2011,source_unverified,1,https://danbooru.donmai.us/posts/4137132,https://twitter.com/GoodSmile_US/status/1312814854974169088
+racing_miku_(2012),included,included_exact_form_post,wiki_racing_miku_year_form,,8150997,racing_miku,2012,publisher,1,https://danbooru.donmai.us/posts/8150997,https://www.goodsmileracing.com/en/racingmiku2012/
+racing_miku_(2013),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,3035205,racing_miku,2013,source_unverified,3,https://danbooru.donmai.us/posts/3035205,https://exhentai.org/s/e54ef683d6/1191588-23
+racing_miku_(2014),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,1705775,racing_miku,2014,source_unverified,2,https://danbooru.donmai.us/posts/1705775,http://stat001.ameba.jp/user_images/20140606/16/stgt/82/44/j/o0800113212964711268.jpg
+racing_miku_(2015),included,included_exact_form_post,wiki_racing_miku_year_form,,8151044,racing_miku,2015,publisher,3,https://danbooru.donmai.us/posts/8151044,https://www.goodsmileracing.com/en/racingmiku2015/
+racing_miku_(2016),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,6816178,racing_miku,2016,source_unverified,2,https://danbooru.donmai.us/posts/6816178,https://static.wikia.nocookie.net/74a9f058-f816-4856-8aad-c398aa8a4c81/
+racing_miku_(2017),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,3226879,racing_miku,2017,source_unverified,4,https://danbooru.donmai.us/posts/3226879,https://twitter.com/Tony_T2ARTWORKS/status/821331746813640704
+racing_miku_(2018),included,included_exact_form_post,wiki_racing_miku_year_form,,5430860,racing_miku,2018,publisher,3,https://danbooru.donmai.us/posts/5430860,https://twitter.com/goodsmileracing/status/966873289673949191
+racing_miku_(2019),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,3357653,racing_miku,2019,source_unverified,1,https://danbooru.donmai.us/posts/3357653,https://twitter.com/annin_oiko/status/1076429614916919296
+racing_miku_(2020),excluded,excluded_source_or_visual_evidence_insufficient,wiki_racing_miku_year_form,,5035724,racing_miku,2020,source_unverified,3,https://danbooru.donmai.us/posts/5035724,https://twitter.com/LENA_Anana/status/1476070270897393665
+racing_miku_(2021),included,included_exact_form_post,wiki_racing_miku_year_form,,4521668,racing_miku,2021,publisher,4,https://danbooru.donmai.us/posts/4521668,https://twitter.com/goodsmileracing/status/1391691173316546560
+racing_miku_(2022),included,included_exact_form_post,wiki_racing_miku_year_form,,5266875,racing_miku,2022,publisher,4,https://danbooru.donmai.us/posts/5266875,https://twitter.com/goodsmileracing/status/1513834317759320066
+racing_miku_(2023),included,included_exact_form_post,wiki_racing_miku_year_form,,6495692,racing_miku,2023,publisher,2,https://danbooru.donmai.us/posts/6495692,https://twitter.com/goodsmileracing/status/1671118279480573960
+racing_miku_(2024),included,included_exact_form_post,wiki_racing_miku_year_form,,7613302,racing_miku,2024,publisher,2,https://danbooru.donmai.us/posts/7613302,https://twitter.com/goodsmileracing/status/1792878180195582064
+racing_miku_(2025),included,included_exact_form_post,wiki_racing_miku_year_form,,8563081,racing_miku,2025,publisher,1,https://danbooru.donmai.us/posts/8563081,https://twitter.com/goodsmileracing/status/1867789923035816285
+racing_miku_(2026),included,included_exact_form_post,wiki_racing_miku_year_form,,10422566,racing_miku,2026,publisher,1,https://danbooru.donmai.us/posts/10422566,https://twitter.com/goodsmileracing/status/1999697826163703942
+rana_(vocaloid),included,included_exact_form_post,legacy_appearance_pack,,1757815,rana_(vocaloid),,publisher,7,https://danbooru.donmai.us/posts/1757815,http://www.rana0909.jp/rana/images/rana.png
+rock_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+sakura_miku,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,6149346,sakura_miku,,source_unverified,1,https://danbooru.donmai.us/posts/6149346,https://twitter.com/hirohako_1685/status/1633029729585631234
+seeu,excluded,excluded_source_or_visual_evidence_insufficient,legacy_appearance_pack,,7012266,seeu,supplemental search,source_unverified,10,https://danbooru.donmai.us/posts/7012266,https://characterplanet.net/shop/diasec_l_seeu_renewal_goods/
+sf-a2_miki,included,included_exact_form_post,legacy_appearance_pack,,561376,sf-a2_miki,supplemental search,publisher,5,https://danbooru.donmai.us/posts/561376,http://www.ah-soft.com/images/products/vocaloid/miki/miki-img.jpg
+steel_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+vivid_bad_squad_meiko,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+vivid_bad_squad_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+water_miku_(project_voltage),excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+wonderlands_x_showtime_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+xingchen,included,included_exact_form_post,legacy_appearance_pack,,5591917,xingchen,,game_mirror,1,https://danbooru.donmai.us/posts/5591917,https://static.wikia.nocookie.net/vocaloid/images/4/48/Stardust_transparent.png/revision/latest?cb=20210909213727
+yuezheng_ling,included,included_exact_form_post,legacy_appearance_pack,,1463269,yuezheng_ling,supplemental search,publisher,7,https://danbooru.donmai.us/posts/1463269,http://vocaloidproject.com/img/gallery/sh_L3.jpg
+yuki_miku,excluded,excluded_no_exact_tagged_post,legacy_appearance_pack,,,,,,0,,
+yuzuki_yukari,included,included_exact_form_post,legacy_appearance_pack,,1044893,yuzuki_yukari,"Default, VOCALOID3/4",publisher,1,https://danbooru.donmai.us/posts/1044893,http://www.vocalomakets.com/
