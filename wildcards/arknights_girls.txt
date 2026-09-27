@@ -62,7 +62,7 @@ arknights, ceylon_(arknights), 1girl, pink_hair, orange_eyes, blue_dress, layere
 arknights, ceylon_(holiday)_(arknights), 1girl, pink_hair, yellow_eyes, blue_coat, open_coat, white_shorts, white_shoes, hair_bun, twintails
 arknights, ch'en_(after_storm)_(arknights), 1girl, blue_hair, red_eyes, horns, police_uniform, black_pants, blue_jacket, blue_shirt, collared_shirt, black_shoes, long_hair
 arknights, ch'en_(ageless_afterglow)_(arknights), 1girl, blue_hair, red_eyes, red_dress, black_shorts
-arknights, ch'en_(arknights), 1girl, blue_hair, red_eyes, dragon_tail, horns, black_coat, black_shorts, sleeveless_coat, black_boots, elbow_gloves, fingerless_gloves, ponytail
+arknights, ch'en_(arknights), 1girl, blue_hair, red_eyes, black_jacket, black_shorts
 arknights, ch'en_(summer)_(arknights), 1girl, blue_hair, red_eyes, horns, tail, black_bikini, highleg_bikini, swimsuit, grey_shorts, short_shorts, hat, long_hair
 arknights, click_(arknights), 1girl, grey_hair, blue_eyes, animal_ears, tail, black_skirt, open_jacket, yellow_shirt, black_gloves, black_hat, fingerless_gloves, short_hair
 arknights, click_(grave_thief)_(arknights), 1girl, grey_hair, red_eyes, animal_ears, tail, black_skirt, open_jacket, white_shirt, black_boots, black_hat, top_hat, short_hair

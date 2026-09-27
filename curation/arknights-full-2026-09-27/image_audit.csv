@@ -147,7 +147,7 @@ asset,48779169,asset_no_post_tags,dusk_(arknights),[[Dragon Bean (arknights)|]],
 asset,48779239,asset_no_post_tags,ling_(arknights),[[Dragon Bean (arknights)|]],excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/48779239,
 asset,49488863,asset_no_post_tags,necrass_(arknights),NPC,excluded_asset_without_post_tags,https://danbooru.donmai.us/media_assets/49488863,
 post,3533565,candidate,cardigan_(arknights),Default,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3533565,http://en.rhinelab.org/images/f/fe/Cardigan-0.png
-post,3563808,candidate,ch'en_(arknights),Default,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3563808,https://aceship.github.io/AN-EN-Tags/akhrchars.html?opname=Ch'en
+post,3563808,candidate,ch'en_(arknights),Default,included_supporting_post,https://danbooru.donmai.us/posts/3563808,https://aceship.github.io/AN-EN-Tags/akhrchars.html?opname=Ch'en
 post,3563809,candidate,ch'en_(arknights),Elite II,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3563809,https://aceship.github.io/AN-EN-Tags/akhrchars.html?opname=Ch'en
 post,3563812,candidate,siege_(arknights),Default,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3563812,https://aceship.github.io/AN-EN-Tags/akhrchars.html?opname=Siege
 post,3563813,candidate,siege_(arknights),Elite II,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/3563813,https://aceship.github.io/AN-EN-Tags/akhrchars.html?opname=Siege
@@ -998,7 +998,7 @@ post,10662760,candidate,rosmontis_(arknights);rosmontis_(become_anew)_(arknights
 post,10662813,candidate,pinecone_(arknights);pinecone_(season_of_travel)_(arknights),Season of Travel,included_supporting_post,https://danbooru.donmai.us/posts/10662813,https://media.prts.wiki/e/e4/立绘_松果_skin2.png
 post,10662838,candidate,robin_(arknights);robin_(gift_of_wild)_(arknights),Gift of Wild,included_supporting_post,https://danbooru.donmai.us/posts/10662838,https://media.prts.wiki/b/b6/立绘_罗宾_skin1.png
 post,10702102,candidate,nasti_(arknights),NPC,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10702102,https://media.prts.wiki/1/17/Avg_avg_npc_891_1-1$1.png
-post,10760074,candidate,ch'en_(arknights),Default,included_supporting_post,https://danbooru.donmai.us/posts/10760074,https://raw.githubusercontent.com/PuppiizSunniiz/Arknight-Images/main/characters/char_1050_chen3_1.png
+post,10760074,candidate,ch'en_(arknights),Default,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10760074,https://raw.githubusercontent.com/PuppiizSunniiz/Arknight-Images/main/characters/char_1050_chen3_1.png
 post,10760076,candidate,ch'en_(arknights),Elite II,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10760076,https://raw.githubusercontent.com/PuppiizSunniiz/Arknight-Images/main/characters/char_1050_chen3_2.png
 post,10760294,candidate,dusk_(arknights);dusk_(hazy_jade)_(arknights),Hazy Jade,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/10760294,https://raw.githubusercontent.com/PuppiizSunniiz/Arknight-Images/main/characters/char_2015_dusk_nian%2312.png
 post,10760342,candidate,ling_(a_gallant_dream)_(arknights);ling_(arknights),,included_supporting_post,https://danbooru.donmai.us/posts/10760342,https://raw.githubusercontent.com/PuppiizSunniiz/Arknight-Images/main/characters/char_2023_ling_nian%2312.png

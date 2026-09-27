@@ -28,7 +28,7 @@ genshin_impact, eula_(genshin_impact), 1girl, blue_hair, yellow_eyes, vision_(ge
 genshin_impact, faruzan_(genshin_impact), 1girl, aqua_hair, blue_hair, green_eyes, dress, skirt, twintails, long_hair
 genshin_impact, fischl_(ein_immernachtstraum)_(genshin_impact), 1girl, blonde_hair, red_eyes, purple_dress, white_thighhighs
 genshin_impact, fischl_(genshin_impact), 1girl, blonde_hair, green_eyes, showgirl_skirt, black_boots, black_pantyhose, black_thighhighs, winged_boots, gloves, long_hair
-genshin_impact, furina_(genshin_impact), 1girl, blue_hair, white_hair, blue_eyes, black_shorts, blue_jacket, short_shorts, asymmetrical_gloves, black_gloves, blue_hat, short_hair
+genshin_impact, furina_(genshin_impact), 1girl, blue_hair, blue_eyes, blue_hat, blue_jacket, white_shorts, mismatched_gloves
 genshin_impact, ganyu_(genshin_impact), 1girl, blue_hair, purple_eyes, bodystocking, black_gloves, detached_sleeves
 genshin_impact, ganyu_(twilight_blossom)_(genshin_impact), 1girl, blue_hair, purple_eyes, multicolored_dress, black_gloves, detached_sleeves
 genshin_impact, hu_tao_(cherries_snow-laden)_(genshin_impact), 1girl, brown_hair, red_eyes, red_skirt, white_shirt, brown_thighhighs, white_hat, shoes, very_long_hair

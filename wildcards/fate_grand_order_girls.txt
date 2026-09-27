@@ -44,7 +44,7 @@ fate/grand_order, elizabeth_bathory_(brave)_(fate), 1girl, pink_hair, blue_eyes,
 fate/grand_order, elizabeth_bathory_(cinderella)_(fate), 1girl, pink_hair, blue_eyes, horns, pointy_ears, blue_dress, long_dress, hoop_skirt, showgirl_skirt, blue_shoes, bow_choker, hair_bun
 fate/grand_order, elizabeth_bathory_(fate), 1girl, grey_hair, blue_eyes, horns, pointy_ears, long_hair
 fate/grand_order, elizabeth_of_the_end_(fate), 1girl, red_hair, blue_eyes, dragon_tail, horns, white_dress, fishnets_over_socks, red_shoes, white_headdress, white_thighhighs, long_hair
-fate/grand_order, ereshkigal_(fate), 1girl, blonde_hair, red_eyes, tiara, black_dress, black_gloves, black_shoes, black_thighhighs, fur-trimmed_cape, white_socks, long_hair
+fate/grand_order, ereshkigal_(fate), 1girl, blonde_hair, red_eyes, red_cape, black_thighhighs, black_choker
 fate/grand_order, ereshkigal_(swimsuit_beast)_(fate), 1girl, blonde_hair, red_eyes, white_one-piece_swimsuit, sandals
 fate/grand_order, europa_(fate), 1girl, purple_eyes, crown, frilled_dress, high-low_dress, very_long_hair
 fate/grand_order, euryale_(fate), 1girl, purple_hair, purple_eyes, frilled_dress, long_dress, black_hairband, flower_hairband, choker, twintails, very_long_hair
@@ -73,7 +73,7 @@ fate/grand_order, iyo_(fate), 1girl, brown_hair, grey_eyes, backless_dress, coll
 fate/grand_order, jack_the_ripper_(fate/apocrypha), 1girl, white_hair, green_eyes, black_shirt, black_gloves, black_thighhighs, fingerless_gloves, thigh_boots, short_hair
 fate/grand_order, jacques_de_molay_(foreigner)_(fate), 1girl, white_hair, yellow_eyes, horns, dress, short_hair
 fate/grand_order, jaguarman_(fate), 1girl, orange_hair, orange_eyes, tail, paw_gloves, short_hair
-fate/grand_order, jeanne_d'arc_(ruler)_(fate), 1girl, blonde_hair, blue_eyes, purple_dress, armor, armored_boots, black_gloves, elbow_gloves, purple_capelet, braid, very_long_hair
+fate/grand_order, jeanne_d'arc_(ruler)_(fate), 1girl, blonde_hair, blue_eyes, armor, armored_boots, crown
 fate/grand_order, jeanne_d'arc_(swimsuit_archer)_(first_ascension)_(fate), 1girl, blonde_hair, blue_eyes, black_bikini, blue_jacket, platform_sandals
 fate/grand_order, jeanne_d'arc_(third_ascension)_(fate), 1girl, blonde_hair, blue_eyes, crown, armored_dress, long_dress, armor, armored_boots, fur-trimmed_thighhighs, very_long_hair
 fate/grand_order, jeanne_d'arc_alter_(avenger)_(fate), 1girl, blonde_hair, yellow_eyes, armored_dress, armor, black_thighhighs, cape, short_hair

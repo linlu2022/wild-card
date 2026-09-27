@@ -88,6 +88,7 @@ CONFIG = {
         "mirror_hosts": {"thwiki.cc", "en.touhouwiki.net"},
         "wikia_path": "/touhou/",
         "variant_requires_appearance_context": True,
+        "non_costume_companion_tags": {"konpaku_youmu_(ghost)"},
     },
 }
 REVIEW_FIELDS = [
@@ -280,7 +281,7 @@ def curate(pack):
                 ((context_score(tag, row, config), row) for row in contexts),
                 key=lambda item: item[0],
             )
-            if pack == "vocaloid" and tag in prior and prior[tag]["url"].rsplit("/", 1)[-1] == post_id:
+            if tag in prior and prior[tag]["url"].rsplit("/", 1)[-1] == post_id:
                 match = max(match, 12)
             if match < 0:
                 continue
@@ -289,12 +290,13 @@ def curate(pack):
             if match == 0 and not variant(tag, config) and "official_alternate_costume" in general:
                 continue
             if match == 0 and not variant(tag, config) and any(
-                other != tag and base(other, config) == base(tag, config) and variant(other, config)
+                other != tag and other not in config.get("non_costume_companion_tags", set())
+                and base(other, config) == base(tag, config) and variant(other, config)
                 for other in post["character_tags"].split()
             ):
                 continue
             score = source_score + match + (2 if "solo" in general else 0)
-            if pack == "vocaloid" and tag in prior and prior[tag]["url"].rsplit("/", 1)[-1] == post_id:
+            if tag in prior and prior[tag]["url"].rsplit("/", 1)[-1] == post_id:
                 score += 20
             if "third-party_source" in meta:
                 score -= 1
@@ -327,6 +329,9 @@ def curate(pack):
         }
         if tag in config.get("exclude_redundant_aliases", set()):
             review.append({**common, "status": "redundant_alias", "candidate_count": 0})
+            continue
+        if tag in config.get("non_costume_companion_tags", set()):
+            review.append({**common, "status": "companion_not_scope", "candidate_count": 0})
             continue
         choices = sorted(by_tag.get(tag, []), key=lambda item: (item[0], int(item[1])), reverse=True)
         if not choices:
@@ -393,6 +398,7 @@ def curate(pack):
         else:
             reason = (
                 "excluded_alias_covered_by_specific_forms" if status == "redundant_alias" else
+                "excluded_companion_not_female_character" if status == "companion_not_scope" else
                 "excluded_no_independent_form_tag" if status == "official_name_without_tag" else
                 "excluded_no_exact_tagged_post" if status == "no_exact_tagged_post" else
                 "excluded_source_or_visual_evidence_insufficient"

@@ -310,7 +310,7 @@ post,2096515,candidate,okita_souji_(first_ascension)_(fate);okita_souji_(koha-ac
 post,2097105,candidate,euryale_(fate);stheno_(fate),[[Fate/hollow ataraxia]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2097105,https://typemoon.fandom.com/wiki/File:Stheno.png
 post,2097118,candidate,tohsaka_rin,[[Fate/stay night]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2097118,https://typemoon.fandom.com/wiki/File:Tohsaka_rin.png
 post,2097122,candidate,assassin_(fate/zero),[[Fate/Zero]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2097122,https://typemoon.fandom.com/wiki/File:ZeroAssassin.png
-post,2101681,candidate,jeanne_d'arc_(fate);jeanne_d'arc_(ruler)_(fate),Ruler (First Ascension),excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2101681,
+post,2101681,candidate,jeanne_d'arc_(fate);jeanne_d'arc_(ruler)_(fate),Ruler (First Ascension),included_supporting_post,https://danbooru.donmai.us/posts/2101681,
 post,2113750,candidate,martha_(fate);martha_(rider)_(fate),First Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2113750,https://apps.atlasacademy.io/db/JP/servant/30/assets
 post,2113754,candidate,martha_(fate);martha_(rider)_(fate),Second Ascension,included_supporting_post,https://danbooru.donmai.us/posts/2113754,https://apps.atlasacademy.io/db/JP/servant/30/assets
 post,2113755,candidate,martha_(fate);martha_(rider)_(fate),Third Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/2113755,https://apps.atlasacademy.io/db/JP/servant/30/assets
@@ -806,7 +806,7 @@ post,9112128,candidate,mata_hari_(fate),Third Ascension,excluded_no_qualifying_f
 post,9112186,candidate,carmilla_(assassin)_(fate);carmilla_(fate),First Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9112186,https://apps.atlasacademy.io/db/JP/servant/46/assets
 post,9112187,candidate,carmilla_(assassin)_(fate);carmilla_(fate),Second Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9112187,https://apps.atlasacademy.io/db/JP/servant/46/assets
 post,9112188,candidate,carmilla_(assassin)_(fate);carmilla_(fate),Third Ascension,included_supporting_post,https://danbooru.donmai.us/posts/9112188,https://apps.atlasacademy.io/db/JP/servant/46/assets
-post,9112976,candidate,jeanne_d'arc_(fate);jeanne_d'arc_(ruler)_(fate),Ruler (Second Ascension),included_supporting_post,https://danbooru.donmai.us/posts/9112976,https://apps.atlasacademy.io/db/JP/servant/59/assets
+post,9112976,candidate,jeanne_d'arc_(fate);jeanne_d'arc_(ruler)_(fate),Ruler (Second Ascension),excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9112976,https://apps.atlasacademy.io/db/JP/servant/59/assets
 post,9122608,candidate,tamamo_no_mae_(fate),[[Fate/Grand Order]],excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9122608,https://apps.atlasacademy.io/db/JP/servant/62/assets
 post,9122609,candidate,tamamo_no_mae_(fate),Second Ascension,included_supporting_post,https://danbooru.donmai.us/posts/9122609,https://apps.atlasacademy.io/db/JP/servant/62/assets
 post,9122610,candidate,tamamo_no_mae_(fate);tamamo_no_mae_(third_ascension)_(fate),Third Ascension,included_supporting_post,https://danbooru.donmai.us/posts/9122610,https://apps.atlasacademy.io/db/JP/servant/62/assets
@@ -966,7 +966,7 @@ post,9166460,candidate,circe_(fate),Third Ascension,excluded_no_qualifying_form_
 post,9166527,candidate,nezha_(fate),First Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9166527,https://apps.atlasacademy.io/db/JP/servant/193/assets
 post,9166528,candidate,nezha_(fate),Second Ascension,included_supporting_post,https://danbooru.donmai.us/posts/9166528,https://apps.atlasacademy.io/db/JP/servant/193/assets
 post,9166529,candidate,nezha_(fate),Third Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9166529,https://apps.atlasacademy.io/db/JP/servant/193/assets
-post,9166609,candidate,ereshkigal_(fate),First Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9166609,https://apps.atlasacademy.io/db/JP/servant/196/assets
+post,9166609,candidate,ereshkigal_(fate),First Ascension,included_supporting_post,https://danbooru.donmai.us/posts/9166609,https://apps.atlasacademy.io/db/JP/servant/196/assets
 post,9166610,candidate,ereshkigal_(fate),Second Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9166610,https://apps.atlasacademy.io/db/JP/servant/196/assets
 post,9166611,candidate,ereshkigal_(fate),Third Ascension,excluded_no_qualifying_form_evidence,https://danbooru.donmai.us/posts/9166611,https://apps.atlasacademy.io/db/JP/servant/196/assets
 post,9166656,candidate,altera_(fate);altera_the_santa_(fate),[[Altera the Santa (fate)|]],included_supporting_post,https://danbooru.donmai.us/posts/9166656,https://apps.atlasacademy.io/db/JP/servant/197/assets
