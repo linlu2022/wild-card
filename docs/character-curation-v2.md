@@ -273,4 +273,4 @@ python curation/design-v2/evaluate.py
 
 本次执行结果：34/34 场景、10/10 缺字段检查通过；四种当前取样反例被复现；颜色保留与删除行为、括号解析和重复展开行为被实测。十套 TXT 的基线散列已记录。尚未实施新版全流程、逐行图像审定、生产发布故障注入或 GPU 出图评估。
 
-参考实现：[当前采集器](../.claude/skills/curate-character-wildcards/scripts/draft_danbooru_pack.py)、[当前整理器](../.claude/skills/curate-character-wildcards/scripts/finalize_reviewed_packs.py)、[当前导出器](../.claude/skills/curate-character-wildcards/scripts/csv_to_wildcard.py)、[展开引擎](../wildcard_engine.py)。方案中的新登记结构和审核门槛需要后续实现，这些旧脚本目前仍不能单独提供上述保证。
+本节记录当时的设计反例：[历史采集器](../curation/legacy-frequency-pipeline/draft_danbooru_pack.py)、[历史整理器](../curation/legacy-frequency-pipeline/finalize_reviewed_packs.py)、[导出器](../.claude/skills/curate-character-wildcards/scripts/csv_to_wildcard.py)、[展开引擎](../wildcard_engine.py)。历史脚本已移出当前 skill；新的 [Wiki Appearance 流程](../.claude/skills/curate-character-wildcards/SKILL.md)是后续外观词库的操作入口。

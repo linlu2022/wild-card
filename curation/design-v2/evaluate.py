@@ -110,8 +110,9 @@ def load_module(name: str, path: Path):
 
 
 def actual_probes(comfy_root: Path) -> dict:
-    scripts = ROOT / ".claude/skills/curate-character-wildcards/scripts"
+    scripts = ROOT / "curation/legacy-frequency-pipeline"
     sys.path.insert(0, str(scripts))
+    sys.path.insert(0, str(ROOT / ".claude/skills/curate-character-wildcards/scripts"))
     draft = load_module("design_probe_draft", scripts / "draft_danbooru_pack.py")
     finalizer = load_module("design_probe_finalizer", scripts / "finalize_reviewed_packs.py")
     def posts(tags, general="1girl blue_eyes long_hair", duplicate=False):
@@ -174,7 +175,11 @@ def baseline() -> dict:
     packs = {}
     eye_markers = {"heterochromia", "multicolored_eyes", "two-tone_eyes"}
     eye_colors = {f"{c}_eyes" for c in "black white grey silver brown red orange yellow green blue aqua purple pink".split()}
-    for path in sorted((ROOT / "wildcards").glob("*_women.txt")):
+    legacy_zenless = ROOT / "archive/legacy-wildcards/zenless_women.txt"
+    paths = list((ROOT / "wildcards").glob("*_women.txt"))
+    if legacy_zenless.is_file():
+        paths.append(legacy_zenless)
+    for path in sorted(paths):
         raw = path.read_bytes()
         lines = raw.decode("utf-8").splitlines()
         same_traits = defaultdict(list)
@@ -210,8 +215,8 @@ def main():
         del record[key]
         missing_fields[key] = proposed_gate(record) == "needs_review"
     all_passed = all(c["passed"] for c in scenarios) and all(missing_fields.values())
-    code_files = ["wildcard_engine.py", ".claude/skills/curate-character-wildcards/scripts/draft_danbooru_pack.py",
-                  ".claude/skills/curate-character-wildcards/scripts/finalize_reviewed_packs.py",
+    code_files = ["wildcard_engine.py", "curation/legacy-frequency-pipeline/draft_danbooru_pack.py",
+                  "curation/legacy-frequency-pipeline/finalize_reviewed_packs.py",
                   ".claude/skills/curate-character-wildcards/scripts/csv_to_wildcard.py"]
     result = {"purpose": "Design model consistency and current-code counterexamples; NOT semantic accuracy",
               "design_version": "v2.3", "python": sys.version.split()[0],

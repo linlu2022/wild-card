@@ -21,7 +21,7 @@
 
 十套词库的质量改进设计、审计勘误、场景推演和迁移验收标准见[角色词库 v2 方案](docs/character-curation-v2.md)。该文档为留档方案；当前词库尚未按新版标准迁移。
 
-项目内的 Claude Code skill [curate-character-wildcards](.claude/skills/curate-character-wildcards/SKILL.md) 记录了从角色来源、官图外观筛选、性别与变体复核，到 CSV 导出和运行时验证的流程。需要制作或审查新的角色词库时，可以在 Claude Code 中调用 `/curate-character-wildcards`。其中的 `csv_to_wildcard.py` 可独立使用，把审定的角色 CSV 导出为本项目的 wildcard 格式。
+项目内的 Claude Code skill [curate-character-wildcards](.claude/skills/curate-character-wildcards/SKILL.md) 已改为 Danbooru 角色 Wiki 的 `Appearance` 分形态采集流程：逐图绑定外观标签、保留审查表，再从 CSV 导出并验证。需要制作或审查新的外观词库时，可以在 Claude Code 中调用 `/curate-character-wildcards`。
 
 ## 来源与许可
 

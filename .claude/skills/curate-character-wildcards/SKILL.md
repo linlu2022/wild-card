@@ -1,34 +1,36 @@
 ---
 name: curate-character-wildcards
-description: Build, revise, or audit ComfyUI character wildcard files from Danbooru character data and a reviewed CSV. Use for franchise character prompt sets, official-art appearance curation, gender or variant checks, and CSV-to-wildcard export. Skip for ordinary wildcard expansion or unrelated tag lists.
+description: Build or audit ComfyUI character appearance wildcards from Danbooru character Wiki Appearance entries, their linked post tags, and a traceable per-form CSV. Use for official in-work outfits, default forms, skins, and variants. Skip for name-only packs or ordinary wildcard expansion.
 ---
 
-# Curate character wildcards
+# Curate character appearance wildcards
 
-Produce a traceable character CSV, then export a one-character-per-line wildcard for this project. Keep the source CSV as the reviewable artifact; a plausible-looking wildcard alone is not evidence that the character data is correct.
+Use the [Wiki Appearance → post → per-form CSV procedure](references/wiki-appearance-to-csv.md). One row represents one character in one specific official in-work appearance. Do not pool tags from all posts for a character, rank features by post frequency, or copy a base form's traits into a costume without evidence from that costume.
 
-The [v2 design and audit corrections](../../../docs/character-curation-v2.md) record the September 2026 follow-up findings, recommended evidence model, and executable design exercises. Consult its corrections when auditing these packs. Production migration is not implemented; the existing drafting and finalizing scripts do not establish semantic approval. The design exercise's passing cases are not a measured character-recognition accuracy.
+The [2026-09-27 Zenless batch](../../../docs/zenless-girls-2026-09-27.md) is the worked example. Its [`collect.py`](../../../curation/zenless-appearance-2026-09-27/collect.py), [`inventory.csv`](../../../curation/zenless-appearance-2026-09-27/inventory.csv), [`build.py`](../../../curation/zenless-appearance-2026-09-27/build.py), [`reviewed.csv`](../../../curation/zenless-appearance-2026-09-27/reviewed.csv), and [`audit.csv`](../../../curation/zenless-appearance-2026-09-27/audit.csv) show the exact evidence and decisions. The example scripts are tied to Zenless Zone Zero; adapt them to another franchise rather than copying their character choices.
 
-## Start with the requested scope
+## 1. Fix the requested scope
 
-Determine the franchise copyright tag, character inclusion rule, gender policy, treatment of skins/aliases, desired wildcard name, and whether the user supplied a CSV. Use the user's choices from the current conversation; ask only about unresolved product decisions that change the output. If a vetted CSV is supplied, start at export and audit rather than fetching again.
+Read the current conversation before asking anything: franchise copyright tag, female/other inclusion rule, official server and date cutoff, whether all official in-work outfits are separate entries, output name, and what to do with any existing pack. Ask only when a missing product choice changes the output. If the user supplies a vetted roster or CSV, reuse it. Keep a partial first batch labeled as partial; do not imply complete franchise coverage.
 
-Use paths relative to this repository. Put final wildcard files under `wildcards/`. Store source CSVs and temporary caches outside the package unless the user wants them committed. Do not put credentials or raw API responses in the repository.
+Write active wildcard files under `wildcards/`. If replacing a pack, archive its former file outside active wildcard roots and check for another copy in Impact Pack or configured wildcard folders. Preserve unrelated workspace changes.
 
-## Source and curate
+## 2. Inventory Wiki appearances
 
-For a new dataset, follow [the source-to-CSV procedure](references/source-to-csv.md). Its main distinction is essential: derive **appearance from posts depicting the target as the single subject**, favoring copyright-matched official art, and assess **gender from broader character-associated evidence**. Base and form tags or confirmed aliases may co-tag one subject. A group illustration can contain `1girl` while the target is not the girl; a pet co-tagged with a girl is also not the girl. Treat sparse official-art coverage, unknown gender, conflicting traits, and aliases as review items, not silent facts.
+Start from the project's name pack, a franchise Wiki roster, or another documented roster. Fetch each canonical Danbooru character Wiki page and parse its `Appearance` entries (`!post #…` and `!asset #…`). Follow outfit links to the form Wiki page where available. Record the Wiki title, update time, form label, image ID, post URL, original image source, copyright/character/general/meta tags, and any missing data. Deduplicate image IDs while keeping every Wiki page that cited them. The reusable public-API inventory command is `scripts/collect_wiki_appearance.py`; read its help before running. Use bounded queries and do not commit credentials or whole API responses.
 
-Use an approved data source and bounded queries. Reuse cached responses, record query/provenance and denominators, and stop/report when coverage is insufficient. Accept credentials through the configured tool or an explicit environment variable; never search local application settings for keys.
+An `asset` has no post general tags. Search for an exact matching post or another clearly linked official image; otherwise mark it deferred. A Wiki page with no `Appearance` is a coverage gap, not proof that the character or outfit does not exist.
 
-For a large Danbooru batch, `scripts/draft_danbooru_pack.py` can generate a draft CSV and a per-character audit JSON using the public endpoints and an external cache directory. Inspect the audit, apply explicit review decisions, and only then export final files. The dated [curation decisions](../../../curation/character-packs-2026-09-26.json) and `scripts/finalize_reviewed_packs.py` show how this project's nine packs were finished; they are an example, not default exclusions for other franchises.
+## 3. Decide per form and per tag
 
-## Export and verify
+For each candidate, check the exact character/form tag in the linked post, the requested franchise copyright, the subject shown, and evidence that this is an official in-work appearance. A form Wiki label, `official_art`, `official_alternate_costume`, `1girl`, or `solo` helps locate evidence but cannot prove those facts alone. Prefer an original official source; mark third-party mirrors and uncertain release status in the audit. Co-tagged pets, props, printed characters, and groups require subject attribution before taking any general tag.
 
-The reviewed CSV has columns `character,copyright,trigger,core_tags,url`. `core_tags` is a comma-separated list of human-readable Danbooru tags; the wildcard line uses their original underscore form. Read [the CSV/export contract](references/csv-and-export.md) when creating or changing that format.
+Select a short list of visible identity, clothing, and accessory tags **from that form's linked image**. Exclude composition, pose, expression, background, image quality, source metadata, and other subjects. Check conflicts within one form; never average default and costume tags together. Keep exact Danbooru character tags where they exist. If a form lacks enough evidence, defer it with a reason instead of fabricating its appearance. A form may have only a few strong tags.
 
-Run `scripts/csv_to_wildcard.py --csv <reviewed.csv> --output wildcards/<name>.txt` from the repository root. Add `--required-tag 1girl` for a female-only pack. Use `--check` to compare an existing wildcard to the CSV without rewriting it. The script verifies schema, duplicate characters, row content, UTF-8 without BOM, and LF line endings.
+Maintain an inventory of all candidates and an audit decision for each unique image or form (`included`, `deferred`, `excluded`, or `alias/reference`) with a concrete reason. Keep source URLs and any exceptions. An automated assertion that tags occur on a post verifies provenance only; it does not mean the image, identity, or release status was visually verified.
 
-Before calling a pack complete, check row-level CSV ↔ wildcard equality, unique character names, intended copyright and gender scope, suspect variants, and the reported official-art fallback count. Then load the file through this project's wildcard loader (and Impact Pack if compatibility was requested), expand `__<name>__` with fixed seeds, and confirm that the returned text contains a complete single entry. If the running ComfyUI instance is unavailable, state that runtime expansion was not verified.
+## 4. Export and verify
 
-Report the row count, source coverage, fallback/review cases, any unresolved identity or tag conflicts, export result, and runtime test result. Do not turn an unresolved review item into an automatic exclusion.
+Use the [CSV and wildcard contract](references/csv-and-export.md). The reviewed CSV columns are `character,copyright,trigger,core_tags,url`; `url` must point to the exact supporting post for that row. Put `1girl` first in `core_tags` only after female subject scope has been checked. Use `scripts/csv_to_wildcard.py --csv <reviewed.csv> --output wildcards/<name>.txt --required-tag 1girl`, then repeat with `--check` to compare exact bytes. Keep CSV, inventory, audit, and selection logic with the project when traceability is requested.
+
+Check row count, unique form tags, correct copyright, selected tag membership in the specific post, duplicate source images, unresolved conflicts, and UTF-8/LF output. Load `__<name>__` through this project's wildcard engine with several fixed seeds and verify complete deterministic strings. If runtime ComfyUI or Impact Pack compatibility was requested, test it there too; otherwise report that it was not tested. Report coverage as included identities/forms versus discovered candidates, all deferred reasons, source-tier exceptions, and verification results. Do not present community Wiki or Danbooru labels as independent proof of official release.

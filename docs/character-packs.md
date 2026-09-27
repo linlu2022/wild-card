@@ -20,4 +20,4 @@
 
 这批每套最多检查 500 个高关联候选，低频角色和官图证据不足的角色未保证覆盖。自动筛选结果经过异常复核；未逐张人工核验全部图片。宠物、召唤物、外作联动人物和重复身份的具体剔除项记录在[审定配置](../curation/character-packs-2026-09-26.json)。`magical_mirai_miku` 和 `racing_miku` 缺少可隔离的单主体图，显式继承初音未来的稳定外观标签；服装细节未添加。65 行里同时出现的多个颜色标签在无双色标记时保留频率较高的一项，具体移除项写入生成时的 `review_summary.json`。
 
-生成脚本与流程见[项目 skill](../.claude/skills/curate-character-wildcards/SKILL.md)。审定 CSV、逐角色审计 JSON 和 API 缓存保存在本次生成时指定的外部数据目录，未打包进运行时节点。
+这九套旧词库由归档在 [`legacy-frequency-pipeline`](../curation/legacy-frequency-pipeline/) 的采集与整理脚本生成；当前[项目 skill](../.claude/skills/curate-character-wildcards/SKILL.md)已改为 Wiki `Appearance` 分形态流程，不再指导使用旧方法。旧批次的审定 CSV、逐角色审计 JSON 和 API 缓存保存在当时指定的外部数据目录，未打包进运行时节点。
