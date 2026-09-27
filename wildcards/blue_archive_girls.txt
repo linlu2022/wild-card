@@ -1,11 +1,339 @@
+blue_archive, airi_(band)_(blue_archive), 1girl, brown_hair, aqua_eyes, white_halo, blue_jacket, open_jacket, pleated_skirt, white_shirt, white_skirt, long_hair
+blue_archive, airi_(blue_archive), 1girl, brown_hair, green_eyes, halo, blue_sailor_collar, frilled_skirt, green_bowtie, pleated_skirt, school_uniform, long_hair
+blue_archive, airi_(halloween)_(blue_archive), 1girl, brown_hair, green_eyes, halo, black_gloves, black_shirt, brown_boots, green_jacket, green_pants, long_hair
+blue_archive, akane_(blue_archive), 1girl, brown_hair, grey_eyes, yellow_halo, black_dress, blue_necktie, frilled_apron, long_dress, maid_apron, long_hair
+blue_archive, akane_(bunny)_(blue_archive), 1girl, brown_hair, brown_eyes, rabbit_ears, halo, aqua_bowtie, brown_scarf, highleg_leotard, plaid_scarf, strapless_leotard, very_long_hair
+blue_archive, akane_(school_uniform)_(blue_archive), 1girl, brown_hair, brown_eyes, halo, blue_bowtie, pleated_skirt, school_uniform, white_shirt, shoes, long_hair
+blue_archive, akari_(blue_archive), 1girl, blonde_hair, blue_eyes, blue_halo, black_dress, black_gloves, black_thighhighs, frilled_gloves, two-sided_dress, braid, very_long_hair
+blue_archive, akari_(new_year)_(blue_archive), 1girl, blonde_hair, blue_eyes, halo, black_boots, gloves, kimono, twintails, long_hair
+blue_archive, akemi_(blue_archive), 1girl, blonde_hair, grey_eyes, red_halo, fingerless_gloves, long_skirt, pleated_skirt, red_gloves, red_jacket, long_hair
+blue_archive, ako_(blue_archive), 1girl, blue_hair, blue_eyes, blue_halo, black_skirt, black_thighhighs, blue_gloves, blue_hairband, blue_jacket, medium_hair
+blue_archive, ako_(dress)_(blue_archive), 1girl, blue_hair, blue_halo, backless_dress, blue_dress, sideless_dress, sleeveless_dress, short_hair
+blue_archive, ako_(track)_(blue_archive), 1girl, blue_hair, blue_eyes, blue_halo, gym_uniform, open_jacket, red_hairband, red_jacket, track_jacket, long_hair
+blue_archive, anna_(blue_archive), 1girl, grey_hair, grey_eyes, purple_halo, black_boots, black_pantyhose, hat, long_hair
+blue_archive, aoba_(blue_archive), 1girl, blonde_hair, red_eyes, yellow_halo, black_hat, white_skirt, jacket, twintails, long_hair
+blue_archive, aoi_(blue_archive), 1girl, blue_hair, blue_eyes, blue_halo, pointy_ears, adjusting_gloves, blue_necktie, cropped_jacket, long_skirt, ribbed_skirt, short_hair
+blue_archive, aris_(armed)_(blue_archive), 1girl, blue_hair, blue_eyes, halo, very_long_hair
 blue_archive, aris_(blue_archive), 1girl, blue_hair, blue_eyes, school_uniform, black_hairband, jacket, necktie
+blue_archive, aris_(maid)_(blue_archive), 1girl, black_hair, blue_hair, blue_eyes, aqua_halo, blue_necktie, frilled_apron, maid_apron, maid_headdress, white_apron, ponytail
 blue_archive, aris_(winter)_(blue_archive), 1girl, blue_eyes, brown_coat, blue_scarf, earmuffs, white_skirt, black_pantyhose
+blue_archive, arona_(blue_archive), 1girl, blue_hair, pink_hair, blue_eyes, blue_halo, blue_shirt, bow_hairband, pleated_skirt, school_uniform, white_choker, braid
+blue_archive, aru_(blue_archive), 1girl, red_hair, orange_eyes, red_halo, black_skirt, collared_shirt, fur-trimmed_coat, high-waist_skirt, pencil_skirt, long_hair
+blue_archive, aru_(dress)_(blue_archive), 1girl, orange_hair, red_hair, pink_halo, red_dress, strapless_dress, long_hair
+blue_archive, aru_(new_year)_(blue_archive), 1girl, pink_hair, yellow_eyes, halo, black_gloves, floral_print_kimono, fur-trimmed_kimono, lace_gloves, red_kimono, hair_bun, short_hair
 blue_archive, asuna_(blue_archive), 1girl, brown_hair, blue_eyes, black_dress, frilled_apron, maid_headdress, blue_choker
 blue_archive, asuna_(bunny)_(blue_archive), 1girl, blonde_hair, blue_eyes, rabbit_ears, black_pantyhose, blue_bowtie
+blue_archive, asuna_(school_uniform)_(blue_archive), 1girl, grey_hair, blue_eyes, blue_halo, black_choker, black_socks, blue_bowtie, blue_skirt, collared_shirt, very_long_hair
+blue_archive, atsuko_(blue_archive), 1girl, purple_hair, red_eyes, halo, black_boots, black_gloves, frilled_socks, hooded_jacket, lace-up_boots, braid
+blue_archive, atsuko_(leotard)_(blue_archive), 1girl, purple_hair, red_eyes, white_halo, black_leotard, turtleneck_leotard, white_socks, long_hair
+blue_archive, atsuko_(swimsuit)_(blue_archive), 1girl, purple_hair, red_eyes, halo, frilled_bikini, open_dress, sun_hat, white_bikini, white_dress, long_hair
+blue_archive, ayane_(blue_archive), 1girl, black_hair, yellow_eyes, pointy_ears, red_halo, black_skirt, black_socks, blue_jacket, blue_necktie, collared_shirt, braid
+blue_archive, ayane_(idol)_(blue_archive), 1girl, black_hair, yellow_eyes, pointy_ears, red_halo, black_boots, black_gloves, black_hat, black_jacket, black_shorts, short_hair
+blue_archive, ayane_(swimsuit)_(blue_archive), 1girl, black_hair, yellow_eyes, pointy_ears, red_halo, blue_bikini, open_hoodie, short_shorts, striped_bikini, white_hoodie, braid
+blue_archive, ayumu_(blue_archive), 1girl, blonde_hair, green_eyes, yellow_halo, blue_dress, blue_necktie, collared_dress, half_gloves, multicolored_dress, very_long_hair
+blue_archive, azusa_(blue_archive), 1girl, white_hair, purple_eyes, yellow_halo, black_dress, black_sailor_collar, black_socks, frilled_dress, frilled_sailor_collar, long_hair
+blue_archive, azusa_(swimsuit)_(blue_archive), 1girl, white_hair, purple_eyes, yellow_halo, bow_bikini, frilled_bikini, ruffle_bikini, strapless_bikini, swimsuit, very_long_hair
+blue_archive, beatrice_(blue_archive), 1girl, black_bowtie, black_gloves, black_jacket, black_necktie, black_pants
+blue_archive, cherino_(blue_archive), 1girl, white_hair, blue_eyes, blue_halo, black_pantyhose, black_shirt, collared_shirt, fur-trimmed_boots, fur-trimmed_coat, very_long_hair
+blue_archive, cherino_(hot_spring)_(blue_archive), 1girl, grey_hair, blue_eyes, blue_halo, open_kimono, pink_kimono, school_swimsuit, striped_kimono, white_one-piece_swimsuit, braid, long_hair
+blue_archive, chiaki_(blue_archive), 1girl, black_hair, purple_eyes, pointy_ears, yellow_halo, black_boots, black_choker, black_skirt, pencil_skirt, red_necktie, very_long_hair
+blue_archive, chiaki_(swimsuit)_(blue_archive), 1girl, black_hair, red_eyes, pointy_ears, red_halo, white_bikini, swimsuit, hair_bun, long_hair
+blue_archive, chihiro_(blue_archive), 1girl, black_hair, green_eyes, blue_halo, mechanical_halo, black_skirt, black_socks, blue_necktie, collared_shirt, open_jacket, short_hair
+blue_archive, chinatsu_(blue_archive), 1girl, brown_hair, yellow_eyes, pointy_ears, red_halo, black_boots, black_hairband, black_skirt, collared_shirt, high-waist_skirt
+blue_archive, chinatsu_(hot_spring)_(blue_archive), 1girl, brown_hair, yellow_eyes, pointy_ears, red_halo, black_hairband, white_kimono, long_hair
+blue_archive, chise_(blue_archive), 1girl, blue_hair, pink_eyes, blue_halo, black_socks, blue_bowtie, short_kimono, sleeveless_kimono, white_kimono, braid, twintails
+blue_archive, chise_(swimsuit)_(blue_archive), 1girl, blue_hair, red_eyes, blue_halo, pointy_ears, blue_bikini, loose_bikini, sailor_bikini, striped_bikini, wet_swimsuit, side_ponytail
+blue_archive, eimi_(armed)_(blue_archive), 1girl, pink_hair, pink_eyes, halo, grey_boots, grey_gloves, very_long_hair
+blue_archive, eimi_(blue_archive), 1girl, pink_hair, purple_eyes, pink_halo, black_bikini, black_jacket, black_socks, dress_shirt, open_jacket, very_long_hair
+blue_archive, eimi_(swimsuit)_(blue_archive), 1girl, pink_hair, purple_eyes, pink_halo, black_bikini, down_jacket, jacket_over_swimsuit, open_jacket, pink_jacket, ponytail, very_long_hair
+blue_archive, eri_(blue_archive), 1girl, grey_hair, orange_eyes, halo, black_jacket, black_skirt, black_socks, collared_shirt, diagonal-striped_bowtie, braid, very_long_hair
+blue_archive, erika_(blue_archive), 1girl, white_hair, blue_eyes, white_halo, black_gloves, black_jacket, black_shirt, black_skirt, collared_shirt, short_hair
+blue_archive, erina_(blue_archive), 1girl, brown_hair, purple_halo, red_halo, black_gloves, black_hat, black_necktie, lab_coat, red_scarf, long_hair
+blue_archive, fubuki_(blue_archive), 1girl, blue_hair, grey_hair, red_eyes, halo, black_pantyhose, blue_hat, blue_necktie, police_hat, police_uniform, twintails
+blue_archive, fubuki_(swimsuit)_(blue_archive), 1girl, blue_hair, white_hair, pink_eyes, pink_halo, old_school_swimsuit, white_jacket, white_one-piece_swimsuit, hair_bun
+blue_archive, fuuka_(blue_archive), 1girl, purple_hair, red_eyes, red_halo, frilled_apron, frilled_dress, purple_dress, red_socks, two-tone_necktie, twintails, long_hair
+blue_archive, fuuka_(casual)_(blue_archive), 1girl, black_hair, red_eyes, red_halo, ankle_socks, blue_dress, short_dress, sleeveless_dress, white_hat, very_long_hair
+blue_archive, fuuka_(new_year)_(blue_archive), 1girl, black_hair, red_eyes, halo, white_kimono, hair_bun
+blue_archive, fuyu_(blue_archive), 1girl, green_hair, green_eyes, halo, black_boots, black_choker, blue_jacket, blue_necktie, knee_boots, short_hair
+blue_archive, general_student_council_president_(blue_archive), 1girl, aqua_hair, blue_eyes, halo, lace-up_boots, school_uniform, white_shirt, white_skirt, braid, very_long_hair
+blue_archive, hanae_(blue_archive), 1girl, purple_hair, blue_eyes, pink_halo, black_dress, frilled_dress, impossible_dress, open_jacket, pink_bowtie, twintails, long_hair
+blue_archive, hanae_(christmas)_(blue_archive), 1girl, purple_hair, blue_eyes, halo, brown_boots, fur-trimmed_boots, plaid_skirt, red_sweater, ribbed_sweater, twintails, very_long_hair
+blue_archive, hanako_(blue_archive), 1girl, pink_hair, green_eyes, pink_halo, blue_sailor_collar, pink_bowtie, pleated_skirt, school_uniform, white_shirt, braid, very_long_hair
+blue_archive, hanako_(swimsuit)_(blue_archive), 1girl, pink_hair, green_eyes, pink_halo, collared_shirt, oversized_shirt, pink_bikini, see-through_shirt, wet_shirt, braid, very_long_hair
+blue_archive, hare_(blue_archive), 1girl, grey_hair, green_eyes, yellow_halo, blue_dress, hooded_dress, lab_coat, open_coat, short_dress, ponytail, long_hair
+blue_archive, hare_(camp)_(blue_archive), 1girl, grey_hair, green_eyes, halo, black_scarf, open_jacket, white_hat, pantyhose, ponytail, long_hair
+blue_archive, haruka_(blue_archive), 1girl, purple_hair, purple_eyes, purple_halo, black_boots, black_hat, black_jacket, black_skirt, knee_boots, long_hair
+blue_archive, haruka_(dress)_(blue_archive), 1girl, black_hair, purple_hair, purple_eyes, purple_halo, black_dress, purple_dress, short_dress, pantyhose, long_hair
+blue_archive, haruka_(new_year)_(blue_archive), 1girl, purple_hair, purple_eyes, purple_halo, floral_print_kimono, frilled_kimono, purple_hairband, purple_kimono, short_kimono, medium_hair
+blue_archive, haruka_(suit)_(blue_archive), 1girl, black_hair, purple_hair, purple_eyes, purple_halo, black_jacket, black_pants, collared_shirt, purple_necktie, suit_jacket
+blue_archive, haruna_(blue_archive), 1girl, grey_hair, red_eyes, demon_wings, halo, black_coat, black_hat, black_necktie, black_pantyhose, black_skirt, braid
+blue_archive, haruna_(new_year)_(blue_archive), 1girl, grey_hair, red_eyes, halo, fur-trimmed_kimono, purple_kimono, braid, hair_bun
+blue_archive, haruna_(track)_(blue_archive), 1girl, white_hair, demon_wings, red_halo, gym_shirt, gym_uniform, red_shorts, track_jacket, white_shirt, braid, long_hair
+blue_archive, hasumi_(blue_archive), 1girl, black_hair, red_eyes, red_halo, black_choker, black_gloves, black_shirt, black_skirt, black_thighhighs, very_long_hair
+blue_archive, hasumi_(swimsuit)_(blue_archive), 1girl, black_hair, red_eyes, red_halo, black_bikini, black_choker, highleg_bikini, swimsuit, hair_bun, ponytail
+blue_archive, hasumi_(track)_(blue_archive), 1girl, black_hair, red_eyes, red_halo, bike_shorts, black_choker, blue_jacket, blue_shorts, gym_shorts, ponytail, very_long_hair
+blue_archive, hatsune_miku_(blue_archive), 1girl, blue_hair, blue_eyes, blue_halo, blue_sailor_collar, blue_skirt, frilled_shirt, frilled_skirt, high-waist_skirt, twintails, very_long_hair
+blue_archive, hibiki_(blue_archive), 1girl, black_hair, blue_eyes, yellow_halo, animal_ears, black_boots, black_pantyhose, black_shirt, black_shorts, fishnet_pantyhose, twintails
+blue_archive, hibiki_(cheer_squad)_(blue_archive), 1girl, black_hair, blue_eyes, yellow_halo, animal_ears, blue_skirt, two-tone_skirt, white_skirt, white_shoes, ponytail, long_hair
+blue_archive, hifumi_(blue_archive), 1girl, brown_hair, yellow_eyes, halo, school_uniform, pantyhose, shoes, twintails
+blue_archive, hifumi_(swimsuit)_(blue_archive), 1girl, blonde_hair, yellow_eyes, yellow_halo, frilled_bikini, ribbon-trimmed_bikini, ruffle_bikini, white_bikini, swimsuit, twintails, long_hair
+blue_archive, hikari_(blue_archive), 1girl, green_hair, yellow_eyes, pointy_ears, halo, blue_boots, blue_hat, blue_jacket, blue_skirt, military_hat, very_long_hair
+blue_archive, himari_(armed)_(blue_archive), 1girl, grey_hair, pointy_ears, halo, cropped_jacket, open_jacket, twintails, very_long_hair
+blue_archive, himari_(blue_archive), 1girl, white_hair, purple_eyes, pointy_ears, halo, black_gloves, striped_hairband, white_jacket, shoes
 blue_archive, hina_(blue_archive), 1girl, purple_eyes, blue_jacket, black_skirt, purple_thighhighs, black_gloves
 blue_archive, hina_(dress)_(blue_archive), 1girl, purple_eyes, purple_dress, purple_gloves, purple_pantyhose, high_ponytail
+blue_archive, hina_(pajamas)_(blue_archive), 1girl, white_hair, purple_eyes, demon_wings, purple_halo, yellow_coat, very_long_hair
+blue_archive, hina_(swimsuit)_(blue_archive), 1girl, white_hair, purple_eyes, demon_wings, purple_halo, adjusting_swimsuit, blue_one-piece_swimsuit, school_swimsuit, very_long_hair
+blue_archive, hinata_(blue_archive), 1girl, black_hair, red_eyes, yellow_halo, black_dress, brown_boots, high_heel_boots, nun_headdress, turtleneck_shirt, very_long_hair
+blue_archive, hinata_(swimsuit)_(blue_archive), 1girl, black_hair, red_eyes, yellow_halo, black_bikini, black_choker, casual_one-piece_swimsuit, cross-laced_bikini, layered_swimsuit, braid, very_long_hair
+blue_archive, hiyori_(blue_archive), 1girl, blue_hair, green_eyes, halo, black_hat, black_socks, black_sweater, white_cape, white_scarf, side_ponytail, long_hair
+blue_archive, hiyori_(swimsuit)_(blue_archive), 1girl, aqua_hair, halo, orange_bikini, swimsuit, side_ponytail, long_hair
+blue_archive, hoshino_(armed)_(blue_archive), 1girl, pink_hair, blue_eyes, yellow_eyes, pink_halo, black_gloves, black_skirt, blue_necktie, collared_shirt, plaid_skirt, ponytail
 blue_archive, hoshino_(blue_archive), 1girl, pink_hair, yellow_eyes, school_uniform, plaid_skirt, fingerless_gloves, halo
+blue_archive, hoshino_(first_year)_(blue_archive), 1girl, pink_hair, blue_eyes, orange_eyes, pink_halo, black_gloves, black_skirt, blue_necktie, collared_shirt, fingerless_gloves, short_hair
+blue_archive, hoshino_(second_year)_(blue_archive), 1girl, pink_hair, blue_eyes, orange_eyes, pink_halo, black_pantyhose, black_skirt, blue_coat, blue_necktie, blue_scarf, ponytail
+blue_archive, hoshino_(swimsuit)_(blue_archive), 1girl, pink_hair, blue_eyes, yellow_eyes, pink_halo, blue_jacket, frilled_bikini, white_bikini, swimsuit, twintails, long_hair
+blue_archive, hoshino_terror_(blue_archive), 1girl, pink_hair, halo, black_dress, black_gloves, black_pantyhose, black_shoes, short_hair
+blue_archive, ibuki_(blue_archive), 1girl, blonde_hair, yellow_eyes, demon_wings, yellow_halo, black_coat, black_hat, blue_dress, collared_shirt, military_hat, medium_hair
+blue_archive, ibuki_(dress)_(blue_archive), 1girl, blonde_hair, yellow_eyes, demon_wings, pointy_ears, black_dress, black_gloves, cocktail_dress, pantyhose, long_hair
+blue_archive, ibuki_(swimsuit)_(blue_archive), 1girl, blonde_hair, yellow_eyes, pointy_ears, yellow_halo, casual_one-piece_swimsuit, pink_one-piece_swimsuit, print_swimsuit, braid, long_hair
+blue_archive, ichika_(blue_archive), 1girl, black_hair, grey_eyes, red_halo, black_choker, black_gloves, black_sailor_collar, black_shirt, black_skirt, long_hair
+blue_archive, ichika_(suit)_(blue_archive), 1girl, black_hair, red_halo, black_boots, black_shirt, knee_boots, suit_pants, white_gloves, ponytail, long_hair
+blue_archive, ichika_(swimsuit)_(blue_archive), 1girl, black_hair, grey_eyes, red_halo, bikini_bottom_under_shorts, black_bikini, o-ring_bikini, open_jacket, swimsuit, long_hair
+blue_archive, iori_(blue_archive), 1girl, grey_hair, red_eyes, pointy_ears, purple_halo, black_boots, black_gloves, black_necktie, black_skirt, black_socks, twintails
+blue_archive, iori_(swimsuit)_(blue_archive), 1girl, white_hair, red_eyes, pointy_ears, halo, black_bikini, black_gloves, choker, swimsuit, twintails, very_long_hair
+blue_archive, iroha_(blue_archive), 1girl, red_hair, blue_halo, purple_halo, black_boots, black_hat, military_hat, pencil_skirt, red_necktie, long_hair
+blue_archive, iroha_(swimsuit)_(blue_archive), 1girl, red_hair, blue_eyes, blue_halo, frilled_one-piece_swimsuit, pink_one-piece_swimsuit, straw_hat, sun_hat, long_hair
+blue_archive, izumi_(blue_archive), 1girl, grey_hair, yellow_eyes, yellow_halo, black_coat, black_gloves, collared_shirt, grey_coat, multicolored_coat, twintails, long_hair
+blue_archive, izumi_(new_year)_(blue_archive), 1girl, grey_hair, yellow_eyes, halo, floral_print_kimono, red_kimono, white_socks, long_hair
+blue_archive, izumi_(swimsuit)_(blue_archive), 1girl, white_hair, yellow_eyes, halo, o-ring_bikini, red_bikini, straw_hat, yellow_hat, swimsuit, very_long_hair
+blue_archive, izumi_(track)_(blue_archive), 1girl, grey_hair, yellow_eyes, yellow_halo, gym_uniform, open_jacket, red_jacket, track_jacket, white_shirt, twintails, long_hair
+blue_archive, izuna_(blue_archive), 1girl, brown_hair, yellow_eyes, fox_ears, pink_halo, black_gloves, black_socks, black_thighhighs, blue_skirt, fishnet_thighhighs, short_hair
+blue_archive, izuna_(dress)_(blue_archive), 1girl, brown_hair, orange_eyes, fox_ears, pink_halo, frilled_dress, fur_capelet, pink_choker, pink_dress, long_hair
+blue_archive, izuna_(swimsuit)_(blue_archive), 1girl, brown_hair, brown_eyes, yellow_eyes, fox_ears, pink_halo, blue_shorts, denim_shorts, highleg_bikini, micro_shorts, string_bikini
+blue_archive, junko_(blue_archive), 1girl, red_hair, purple_eyes, demon_wings, pointy_ears, black_boots, pleated_skirt, school_uniform, necktie, twintails, very_long_hair
+blue_archive, junko_(new_year)_(blue_archive), 1girl, red_hair, purple_eyes, demon_wings, pointy_ears, black_boots, hakama_skirt, meiji_schoolgirl_uniform, open_kimono, yellow_kimono, twintails
+blue_archive, juri_(blue_archive), 1girl, pink_hair, green_eyes, blue_halo, pointy_ears, black_pantyhose, blue_jacket, blue_skirt, frilled_apron, pleated_skirt, very_long_hair
+blue_archive, juri_(part-time)_(blue_archive), 1girl, pink_hair, green_eyes, pointy_ears, halo, black_dress, black_pantyhose, frilled_dress, maid_apron, black_shoes
+blue_archive, justice_task_force_member_(blue_archive), 1girl, black_hair, red_halo, white_socks, hat, shirt, shorts, long_hair
+blue_archive, justice_task_force_member_(maid)_(blue_archive), 1girl, black_hair, red_eyes, cat_ears, red_halo, maid_apron, maid_headdress, pink_dress, waist_apron, white_apron, very_long_hair
+blue_archive, kaede_(blue_archive), 1girl, brown_hair, yellow_eyes, animal_ears, halo, hakama_short_skirt, hakama_skirt, red_sailor_collar, ribbon-trimmed_thighhighs, school_uniform, hair_bun
+blue_archive, kaho_(blue_archive), 1girl, blonde_hair, yellow_eyes, fox_ears, yellow_halo, sideless_kimono, sleeveless_kimono, two-tone_kimono, yellow_hairband, very_long_hair
+blue_archive, kanna_(blue_archive), 1girl, blonde_hair, blue_halo, animal_ears, black_jacket, pencil_skirt, police_uniform, necktie, pantyhose, long_hair
+blue_archive, kanna_(swimsuit)_(blue_archive), 1girl, blonde_hair, blue_eyes, blue_halo, animal_ears, blue_jacket, competition_swimsuit, cropped_jacket, highleg_one-piece_swimsuit, open_jacket, ponytail
+blue_archive, kanoe_(blue_archive), 1girl, grey_hair, white_hair, brown_eyes, halo, black_dress, black_pantyhose, grey_dress, white_shirt, black_shoes, very_long_hair
+blue_archive, karin_(blue_archive), 1girl, black_hair, purple_hair, yellow_eyes, purple_halo, black_dress, frilled_apron, frilled_dress, maid_apron, maid_headdress, very_long_hair
+blue_archive, karin_(bunny)_(blue_archive), 1girl, black_hair, purple_hair, yellow_eyes, purple_halo, rabbit_ears, black_leotard, black_pantyhose, blue_bowtie, fishnet_pantyhose, highleg_leotard
+blue_archive, karin_(school_uniform)_(blue_archive), 1girl, black_hair, purple_hair, black_halo, black_socks, blue_bowtie, blue_skirt, blue_sweater, collared_shirt, very_long_hair
+blue_archive, kasumi_(blue_archive), 1girl, brown_hair, yellow_eyes, white_halo, black_shorts, collared_shirt, lab_coat, red_shirt, short_shorts, long_hair
+blue_archive, kasumi_(swimsuit)_(blue_archive), 1girl, black_hair, yellow_eyes, red_halo, black_bikini, lab_coat, striped_bikini, swimsuit, twintails, very_long_hair
+blue_archive, kaya_(blue_archive), 1girl, pink_hair, yellow_halo, blue_dress, blue_necktie, collared_jacket, half_gloves, multicolored_dress, braid, hair_bun
+blue_archive, kaya_(prison)_(blue_archive), 1girl, pink_hair, yellow_halo, green_pants, green_shirt, white_shirt, green_shoes, long_hair
+blue_archive, kayoko_(blue_archive), 1girl, black_hair, white_hair, red_eyes, demon_wings, white_halo, black_choker, black_shirt, black_sweater, hooded_sweater, plaid_skirt
+blue_archive, kayoko_(dress)_(blue_archive), 1girl, black_hair, grey_hair, red_eyes, demon_wings, halo, black_choker, black_dress, o-ring_dress, pendant_choker, short_dress
+blue_archive, kayoko_(new_year)_(blue_archive), 1girl, black_hair, white_hair, red_eyes, halo, choker, kimono, long_hair
+blue_archive, kazusa_(band)_(blue_archive), 1girl, black_hair, pink_hair, pink_eyes, cat_ears, pink_halo, black_choker, black_jacket, black_socks, pleated_skirt, print_shirt
+blue_archive, kazusa_(blue_archive), 1girl, pink_eyes, cat_ears, halo, black_choker, black_jacket, black_pantyhose, green_sailor_collar, hooded_jacket, short_hair
+blue_archive, kazusa_(halloween)_(blue_archive), 1girl, black_hair, cat_ears, halo, black_skirt, black_socks, fur-trimmed_gloves, fur-trimmed_socks, fur_scarf, short_hair
+blue_archive, kei_(aris)_(blue_archive), 1girl, black_hair, blue_eyes, red_eyes, halo, black_hairband, school_uniform, jacket, necktie, long_hair
+blue_archive, kei_(orange_robot)_(blue_archive), 1girl, black_hair, blue_eyes, aqua_halo, blue_halo, black_hairband, white_jacket, long_hair
+blue_archive, kei_(student)_(blue_archive), 1girl, white_hair, pink_eyes, pink_halo, black_boots, black_hairband, black_jacket, black_skirt, black_thighhighs, very_long_hair
+blue_archive, kikyou_(blue_archive), 1girl, black_eyes, blue_halo, cat_ears, black_sailor_collar, medium_skirt, pleated_skirt, ribbon_choker, school_uniform, short_hair
+blue_archive, kikyou_(swimsuit)_(blue_archive), 1girl, cat_ears, halo, black_choker, bikini, swimsuit
+blue_archive, kirara_(blue_archive), 1girl, pink_hair, red_eyes, pink_halo, black_choker, black_hairband, black_skirt, high-waist_skirt, pencil_skirt, hair_bun, very_long_hair
+blue_archive, kirino_(blue_archive), 1girl, white_hair, blue_eyes, halo, ankle_boots, black_pantyhose, school_uniform, white_boots, white_gloves, braid, twintails
+blue_archive, kirino_(swimsuit)_(blue_archive), 1girl, white_hair, blue_eyes, blue_halo, purple_bikini, tied_shirt, white_shirt, swimsuit, braid, long_hair
+blue_archive, kisaki_(blue_archive), 1girl, black_hair, grey_eyes, halo, black_dress, black_gloves, grey_coat, pinstripe_jacket, print_dress, braid, hair_bun
+blue_archive, kisaki_(kiki)_(blue_archive), 1girl, black_hair, halo, black_bikini, o-ring_bikini, swimsuit, braid, very_long_hair
+blue_archive, kisaki_(kindergarten_swimsuit)_(blue_archive), 1girl, black_hair, grey_eyes, halo, one-piece_swimsuit, swimsuit_skirt, twintails, very_long_hair
+blue_archive, kisaki_(kindergarten_uniform)_(blue_archive), 1girl, black_hair, grey_eyes, halo, blue_skirt, kindergarten_uniform, pink_shirt, pleated_skirt, school_hat, twintails, very_long_hair
+blue_archive, kisaki_(swimsuit)_(blue_archive), 1girl, black_hair, grey_eyes, halo, black_bikini, swimsuit, braid, long_hair
+blue_archive, koharu_(blue_archive), 1girl, pink_hair, pink_eyes, pink_halo, black_hat, black_shirt, loose_socks, oversized_shirt, pleated_skirt, twintails, long_hair
+blue_archive, koharu_(swimsuit)_(blue_archive), 1girl, pink_hair, pink_eyes, pink_halo, black_bikini, floral_print_bikini, hat, swimsuit, twintails, long_hair
+blue_archive, kokona_(blue_archive), 1girl, black_hair, grey_hair, orange_eyes, blue_halo, animal_ears, black_dress, black_jacket, striped_dress
+blue_archive, kokoro_(blue_archive), 1girl, pink_hair, red_eyes, blue_halo, brown_gloves
+blue_archive, konoka_(blue_archive), 1girl, grey_hair, grey_eyes, halo, black_socks, blue_shirt, blue_skirt, floral_print_shirt, grey_jacket, long_hair
+blue_archive, kotama_(blue_archive), 1girl, blonde_hair, purple_eyes, purple_halo, black_boots, black_choker, black_coat, black_gloves, blue_necktie, braid, long_hair
+blue_archive, kotama_(camp)_(blue_archive), 1girl, purple_eyes, halo, winter_coat, gloves, pantyhose, scarf, shoes, ponytail, very_long_hair
+blue_archive, kotone_(blue_archive), 1girl, grey_hair, halo, black_choker, white_one-piece_swimsuit, grey_shoes, socks, short_hair
+blue_archive, kotori_(blue_archive), 1girl, blonde_hair, red_eyes, yellow_halo, black_coat, black_skirt, blue_necktie, collared_shirt, fur-trimmed_coat, braid, short_hair
+blue_archive, kotori_(cheer_squad)_(blue_archive), 1girl, blonde_hair, red_eyes, halo, loose_socks, white_socks, shoes
+blue_archive, koyuki_(blue_archive), 1girl, pink_hair, halo, blue_skirt, fingerless_gloves, school_uniform, white_jacket, white_thighhighs, twintails, very_long_hair
+blue_archive, koyuki_(pajamas)_(blue_archive), 1girl, pink_hair, halo, twintails, very_long_hair
+blue_archive, kurumi_(blue_archive), 1girl, blonde_hair, green_eyes, fox_ears, halo, black_choker, black_gloves, black_sailor_collar, black_skirt, black_socks, very_long_hair
+blue_archive, maki_(blue_archive), 1girl, red_hair, blue_eyes, red_halo, black_jacket, black_socks, black_sweater, blue_necktie, collared_shirt, hair_bun, short_hair
+blue_archive, maki_(camp)_(blue_archive), 1girl, red_hair, blue_eyes, red_halo, white_shirt, braid, long_hair
+blue_archive, makina_(blue_archive), 1girl, blue_hair, yellow_eyes, blue_halo, blue_bikini, blue_sailor_collar, cropped_shirt, lowleg_bikini, micro_bikini, short_hair
+blue_archive, makoto_(blue_archive), 1girl, grey_hair, aqua_eyes, black_halo, pink_halo, black_boots, black_necktie, black_skirt, brown_pantyhose, collared_shirt, very_long_hair
+blue_archive, makoto_(dress)_(blue_archive), 1girl, black_hair, grey_hair, grey_eyes, black_halo, pointy_ears, black_dress, black_gloves, elbow_gloves, halter_dress, black_shoes
+blue_archive, makoto_(swimsuit)_(blue_archive), 1girl, grey_hair, blue_eyes, pointy_ears, purple_halo, frilled_bikini, o-ring_bikini, off-shoulder_bikini, white_bikini, white_choker, ponytail
+blue_archive, malkuth_(blue_archive), 1girl, white_hair, yellow_eyes, yellow_halo, large_hat, white_dress, white_hat, white_shoes, very_long_hair
+blue_archive, mari_(blue_archive), 1girl, orange_hair, blue_eyes, yellow_halo, animal_ears, black_coat, long_dress, nun_headdress, white_dress, white_sailor_collar, braid
+blue_archive, mari_(idol)_(blue_archive), 1girl, orange_hair, blue_eyes, fox_ears, yellow_halo, black_dress, frilled_choker, mini_hat, mini_top_hat, sleeveless_dress, twintails
+blue_archive, mari_(track)_(blue_archive), 1girl, orange_hair, blue_eyes, cat_ears, yellow_halo, black_jacket, black_shorts, gym_shorts, gym_uniform, short_shorts, ponytail
+blue_archive, marina_(blue_archive), 1girl, blonde_hair, yellow_eyes, red_halo, knee_boots, lace-up_boots, white_boots, white_gloves, white_jacket, short_hair
+blue_archive, marina_(qipao)_(blue_archive), 1girl, blonde_hair, halo, sleeveless_dress, white_gloves, short_hair
+blue_archive, mashiro_(blue_archive), 1girl, black_hair, purple_eyes, red_halo, black_choker, black_gloves, black_sailor_collar, black_shirt, black_skirt, short_hair
+blue_archive, mashiro_(swimsuit)_(blue_archive), 1girl, black_hair, purple_eyes, red_halo, black_bikini, black_choker, frilled_bikini, open_jacket, pink_jacket, short_hair
+blue_archive, megu_(blue_archive), 1girl, red_hair, halo, ribbed_shirt, white_thighhighs, jacket, ponytail
+blue_archive, megu_(swimsuit)_(blue_archive), 1girl, red_hair, blue_eyes, red_halo, red_bikini, straw_hat, swimsuit, long_hair
+blue_archive, meru_(blue_archive), 1girl, green_hair, halo, black_pantyhose, fur-trimmed_coat, sailor_collar, shoes
+blue_archive, michiru_(blue_archive), 1girl, grey_hair, pink_halo, animal_ears, black_pantyhose, black_scarf, blue_skirt, pleated_skirt, school_uniform, twintails, long_hair
+blue_archive, michiru_(dress)_(blue_archive), 1girl, grey_hair, green_eyes, yellow_eyes, animal_ears, halo, elbow_gloves, high_heel_boots, purple_boots, purple_dress, sleeveless_dress
+blue_archive, midori_(armed)_(blue_archive), 1girl, blonde_hair, green_eyes, animal_ears, halo, green_socks, white_boots, white_coat, white_gloves
+blue_archive, midori_(blue_archive), 1girl, blonde_hair, green_eyes, cat_ears, halo, black_shorts, black_thighhighs, blue_necktie, collared_shirt, green_boots, short_hair
+blue_archive, midori_(maid)_(blue_archive), 1girl, blonde_hair, cat_ears, halo, black_boots, maid_headdress, white_apron, pantyhose, shoes
+blue_archive, midori_(winter)_(blue_archive), 1girl, blonde_hair, green_eyes, cat_ears, halo, blue_coat, fur_boots, green_gloves, grey_boots, grey_pantyhose, short_hair
+blue_archive, mika_(blue_archive), 1girl, pink_hair, white_dress, hair_bun, long_hair
+blue_archive, mika_(swimsuit)_(blue_archive), 1girl, blue_hair, pink_hair, yellow_eyes, angel_wings, blue_halo, frilled_bikini, highleg_bikini, string_bikini, white_bikini, white_choker
+blue_archive, mika_(track)_(blue_archive), 1girl, pink_hair, yellow_eyes, angel_wings, pink_halo, gym_shorts, gym_uniform, short_shorts, track_jacket, shoes, hair_bun
+blue_archive, mimori_(blue_archive), 1girl, pink_hair, blue_eyes, halo, hakama_skirt, red_sailor_collar, school_uniform, socks_over_pantyhose, cape, braid, hair_bun
+blue_archive, mimori_(swimsuit)_(blue_archive), 1girl, pink_hair, purple_eyes, pink_halo, white_bikini, swimsuit, braid, hair_bun
+blue_archive, mina_(blue_archive), 1girl, aqua_hair, grey_hair, red_eyes, halo, black_boots, black_gloves, black_necktie, green_scarf, high-waist_pants, braid
+blue_archive, mine_(blue_archive), 1girl, blue_hair, green_eyes, pointy_ears, halo, white_gloves, hat, pantyhose, braid, long_hair
+blue_archive, mine_(idol)_(blue_archive), 1girl, blue_hair, green_eyes, pointy_ears, yellow_halo, black_boots, black_dress, black_gloves, black_hat, black_thighhighs, very_long_hair
+blue_archive, minori_(blue_archive), 1girl, black_hair, green_eyes, halo, grey_shirt, hard_hat, white_jacket, white_scarf, white_shirt, long_hair
+blue_archive, misaki_(blue_archive), 1girl, black_hair, red_eyes, halo, black_hoodie, black_pants, torn_pants, white_coat, boots, short_hair
+blue_archive, misaki_(swimsuit)_(blue_archive), 1girl, black_hair, brown_eyes, pink_eyes, red_halo, black_bikini, black_choker, brown_shirt, striped_shirt, vertical-striped_shirt, short_hair
+blue_archive, miyako_(blue_archive), 1girl, white_hair, purple_eyes, rabbit_ears, halo, multicolored_gloves, studded_gloves, tactical_school_uniform, two-tone_gloves, boots, braid
+blue_archive, miyako_(swimsuit)_(blue_archive), 1girl, white_hair, blue_eyes, blue_halo, blue_one-piece_swimsuit, casual_one-piece_swimsuit, frilled_one-piece_swimsuit, off-shoulder_one-piece_swimsuit, two-tone_one-piece_swimsuit, ponytail, very_long_hair
+blue_archive, miyo_(blue_archive), 1girl, grey_hair, yellow_eyes, halo, diagonal-striped_bowtie, green_jacket, plaid_skirt, striped_bowtie, white_shirt, braid, long_hair
+blue_archive, miyu_(blue_archive), 1girl, black_hair, red_eyes, rabbit_ears, halo, animal_ear_hairband, black_gloves, blue_shirt, blue_skirt, pleated_skirt, long_hair
+blue_archive, miyu_(swimsuit)_(blue_archive), 1girl, black_hair, red_eyes, halo, straw_hat, black_shoes, bikini, swimsuit, braid, long_hair
+blue_archive, moe_(blue_archive), 1girl, brown_hair, yellow_eyes, rabbit_ears, yellow_halo, blue_sweater, cropped_sweater, school_uniform, pantyhose, twintails, long_hair
+blue_archive, moe_(swimsuit)_(blue_archive), 1girl, brown_hair, yellow_eyes, yellow_halo, black_bikini, blue_hoodie, cropped_hoodie, swimsuit, twintails
+blue_archive, momiji_(blue_archive), 1girl, green_hair, blue_halo, coat_dress, fur-trimmed_coat, hooded_coat, white_coat, boots, twintails, long_hair
+blue_archive, momoi_(armed)_(blue_archive), 1girl, blonde_hair, red_eyes, pink_halo, animal_ears, pink_socks, white_boots, white_coat, white_gloves, white_pantyhose, short_hair
+blue_archive, momoi_(blue_archive), 1girl, blonde_hair, red_eyes, cat_ears, pink_halo, black_skirt, black_thighhighs, blue_necktie, collared_shirt, frilled_coat, short_hair
+blue_archive, momoi_(maid)_(blue_archive), 1girl, blonde_hair, pink_eyes, cat_ears, halo, black_dress, black_pantyhose, white_apron, black_shoes, twintails
+blue_archive, momoi_(winter)_(blue_archive), 1girl, blonde_hair, red_eyes, cat_ears, pink_halo, black_pantyhose, fur_boots, grey_boots, hooded_coat, lace-up_boots, short_hair
+blue_archive, momoka_(blue_archive), 1girl, pink_hair, blue_eyes, pointy_ears, halo, blue_necktie, jacket, socks, uniform, shoes, twintails
+blue_archive, mutsuki_(blue_archive), 1girl, grey_hair, purple_eyes, pointy_ears, red_halo, black_boots, black_jacket, cropped_jacket, frilled_skirt, high-waist_skirt, side_ponytail
+blue_archive, mutsuki_(dress)_(blue_archive), 1girl, white_hair, purple_eyes, pointy_ears, red_halo, black_hairband, bow_choker, cocktail_dress, fishnet_pantyhose, red_dress, long_hair
+blue_archive, mutsuki_(new_year)_(blue_archive), 1girl, white_hair, pink_eyes, pink_halo, pointy_ears, floral_print_kimono, fur-trimmed_kimono, white_kimono, white_socks, hair_bun, long_hair
+blue_archive, mutsuki_(suit)_(blue_archive), 1girl, white_hair, purple_eyes, pointy_ears, red_halo, black_jacket, black_shorts, collared_shirt, red_necktie, suit_jacket, ponytail
+blue_archive, nagisa_(blue_archive), 1girl, brown_hair, angel_wings, halo, black_pantyhose, school_uniform, white_capelet, white_sailor_collar, white_shoes, long_hair
+blue_archive, nagisa_(swimsuit)_(blue_archive), 1girl, halo, black_one-piece_swimsuit, ponytail, very_long_hair
+blue_archive, nagusa_(blue_archive), 1girl, white_hair, white_eyes, halo, blue_bowtie, long_skirt, school_uniform, white_sailor_collar, very_long_hair
+blue_archive, nagusa_(swimsuit)_(blue_archive), 1girl, white_hair, white_eyes, white_halo, white_bikini, swimsuit, braid, very_long_hair
+blue_archive, natsu_(band)_(blue_archive), 1girl, pink_hair, red_eyes, pink_halo, black_skirt, open_jacket, pleated_skirt, print_shirt, white_shirt, hair_bun, medium_hair
+blue_archive, natsu_(blue_archive), 1girl, pink_hair, red_eyes, pink_halo, black_skirt, black_thighhighs, pleated_skirt, white_shirt, sailor_collar, side_ponytail, long_hair
+blue_archive, natsu_(halloween)_(blue_archive), 1girl, pink_hair, red_eyes, pink_halo, black_jacket, black_sweater, open_jacket, side_ponytail, long_hair
+blue_archive, neru_(blue_archive), 1girl, orange_hair, red_eyes, black_halo, black_skirt, collared_shirt, frilled_apron, maid_headdress, open_jacket, braid, medium_hair
+blue_archive, neru_(bunny)_(blue_archive), 1girl, orange_hair, red_eyes, black_halo, rabbit_ears, animal_ear_hairband, black_jacket, floral_print_jacket, open_jacket, red_bowtie, braid
+blue_archive, neru_(school_uniform)_(blue_archive), 1girl, red_hair, red_eyes, halo, black_jacket, black_shirt, blue_skirt, open_shirt, white_shirt, braid, long_hair
+blue_archive, niko_(blue_archive), 1girl, pink_hair, blue_eyes, fox_ears, halo, tactical_school_uniform, pantyhose, shoes, medium_hair
+blue_archive, niya_(blue_archive), 1girl, black_hair, white_halo, black_skirt, pleated_skirt, sideless_kimono, sleeveless_kimono, white_kimono, short_hair
+blue_archive, noa_(blue_archive), 1girl, grey_hair, white_hair, purple_eyes, mechanical_halo, white_halo, black_pantyhose, blue_necktie, collared_shirt, high_heel_boots, open_jacket
+blue_archive, noa_(pajamas)_(blue_archive), 1girl, grey_hair, purple_eyes, mechanical_halo, long_dress, purple_scarf, white_dress, ponytail, very_long_hair
+blue_archive, nodoka_(blue_archive), 1girl, blonde_hair, red_eyes, halo, black_pantyhose, blue_socks, collared_shirt, fur-trimmed_boots, fur-trimmed_coat, braid, very_long_hair
+blue_archive, nodoka_(hot_spring)_(blue_archive), 1girl, blonde_hair, pink_hair, pink_eyes, red_eyes, halo, grey_kimono, striped_kimono, vertical-striped_kimono, white_socks, hair_bun
+blue_archive, nonomi_(blue_archive), 1girl, brown_hair, green_eyes, halo, ankle_socks, black_gloves, black_skirt, black_socks, collared_shirt, long_hair
+blue_archive, nonomi_(first_year)_(blue_archive), 1girl, blonde_hair, green_eyes, halo, black_pantyhose, black_skirt, blue_jacket, blue_necktie, collared_shirt, long_hair
+blue_archive, nonomi_(middle_school)_(blue_archive), 1girl, blonde_hair, green_eyes, halo, black_pantyhose, white_scarf, winter_coat, grey_shoes, long_hair
+blue_archive, nonomi_(swimsuit)_(blue_archive), 1girl, brown_hair, green_eyes, halo, see-through_jacket, string_bikini, sun_hat, white_hat, yellow_bikini, very_long_hair
+blue_archive, nozomi_(blue_archive), 1girl, green_hair, yellow_eyes, pointy_ears, halo, blue_boots, blue_hat, blue_jacket, blue_shorts, military_hat, twintails
+blue_archive, otogi_(blue_archive), 1girl, green_eyes, fox_ears, halo, bike_shorts, bike_shorts_under_skirt, black_shorts, combat_boots, tactical_school_uniform, short_hair
+blue_archive, pina_(blue_archive), 1girl, blonde_hair, blue_eyes, halo, black_skirt, pleated_skirt, ribbon-trimmed_thighhighs, short_kimono, white_thighhighs, ponytail, long_hair
+blue_archive, pina_(guide)_(blue_archive), 1girl, blonde_hair, blue_eyes, halo, black_hat, black_jacket, black_skirt, collared_shirt, pencil_skirt, very_long_hair
+blue_archive, plana_(blue_archive), 1girl, pink_hair, white_hair, black_eyes, red_halo, black_choker, black_coat, black_hairband, black_pantyhose, black_sailor_collar, braid
+blue_archive, professor_niyaniya_(blue_archive), 1girl, blonde_hair, green_eyes, yellow_halo, black_boots, black_coat, black_hat, black_pantyhose
+blue_archive, rabu_(blue_archive), 1girl, red_hair, red_eyes, halo, fingerless_gloves, long_skirt, school_uniform, boots, very_long_hair
+blue_archive, rei_(blue_archive), 1girl, red_hair, pink_eyes, halo, black_socks, blue_hat, open_jacket, white_hoodie, shoes
+blue_archive, reijo_(blue_archive), 1girl, red_hair, red_eyes, halo, black_choker, black_jacket, black_socks, floral_print_dress, floral_print_jacket, hair_bun
+blue_archive, reisa_(blue_archive), 1girl, blue_hair, pink_hair, purple_eyes, halo, grey_jacket, school_uniform, sailor_collar, twintails, long_hair
+blue_archive, reisa_(magical)_(blue_archive), 1girl, pink_hair, purple_hair, purple_eyes, halo, purple_bowtie, purple_pantyhose, striped_pantyhose, white_gloves, white_pantyhose, drill_hair
+blue_archive, rena_(blue_archive), 1girl, brown_hair, yellow_halo, ankle_socks, black_skirt, bobby_socks, collared_shirt, white_shirt, twintails, long_hair
+blue_archive, renge_(blue_archive), 1girl, red_hair, red_halo, pleated_skirt, red_sailor_collar, short_shorts, sideless_leotard, sideless_shirt, ponytail
+blue_archive, renge_(swimsuit)_(blue_archive), 1girl, red_hair, red_eyes, red_halo, blue_shorts, micro_shorts, orange_bikini, swimsuit, very_long_hair
+blue_archive, rin_(blue_archive), 1girl, black_hair, blue_eyes, pointy_ears, halo, half_gloves, white_coat, white_gloves, necktie, pantyhose, very_long_hair
+blue_archive, rin_(casual)_(blue_archive), 1girl, black_hair, blue_hair, blue_eyes, blue_halo, pointy_ears, ankle_boots, black_boots, black_pantyhose, brown_jacket, grey_skirt
+blue_archive, rio_(armed)_(blue_archive), 1girl, black_hair, red_eyes, black_halo, red_halo, ponytail, very_long_hair
+blue_archive, rio_(blue_archive), 1girl, black_hair, red_eyes, halo, black_jacket, black_pantyhose, black_skirt, pleated_skirt, taut_sweater, very_long_hair
+blue_archive, ritsu_(blue_archive), 1girl, green_hair, green_eyes, aqua_halo, black_necktie, collared_shirt, diagonal-striped_necktie, grey_jacket, open_jacket
+blue_archive, rumi_(blue_archive), 1girl, brown_hair, white_hair, purple_eyes, animal_ears, halo, ankle_boots, black_boots, black_pantyhose, black_skirt, lace-up_boots
+blue_archive, rumi_(small)_(blue_archive), 1girl, brown_hair, purple_eyes, fox_ears, red_halo, red_dress, white_socks, skirt, shoes, braid
+blue_archive, saki_(blue_archive), 1girl, purple_hair, blue_eyes, animal_ears, halo, black_boots, black_gloves, black_shirt, blue_sailor_collar, blue_shirt, short_hair
+blue_archive, saki_(swimsuit)_(blue_archive), 1girl, halo, bucket_hat, cropped_jacket, swimsuit
+blue_archive, sakurako_(blue_archive), 1girl, grey_hair, purple_eyes, yellow_halo, black_boots, black_dress, black_gloves, black_thighhighs, nun_headdress, very_long_hair
+blue_archive, sakurako_(idol)_(blue_archive), 1girl, grey_hair, purple_eyes, white_halo, black_dress, black_gloves, black_hairband, black_hat, black_pantyhose, very_long_hair
+blue_archive, sakurako_(justina_uniform)_(blue_archive), 1girl, grey_hair, purple_eyes, yellow_halo, black_boots, black_leotard, black_thighhighs, highleg_leotard, latex_leotard, very_long_hair
+blue_archive, saori_(blue_archive), 1girl, black_hair, blue_hair, blue_eyes, blue_halo, black_boots, black_hat, black_pants, open_coat, white_coat, long_hair
+blue_archive, saori_(dress)_(blue_archive), 1girl, black_hair, blue_hair, blue_eyes, blue_halo, elbow_gloves, long_dress, strapless_dress, white_bowtie, white_choker, ponytail
+blue_archive, saori_(swimsuit)_(blue_archive), 1girl, blue_eyes, blue_halo, aqua_jacket, denim_shorts, white_hat, ponytail, long_hair
+blue_archive, satsuki_(blue_archive), 1girl, pink_hair, orange_eyes, red_halo, black_boots, black_cape, black_gloves, black_skirt, fold-over_boots, long_hair
+blue_archive, satsuki_(swimsuit)_(blue_archive), 1girl, pink_hair, orange_eyes, red_halo, red_bikini, swimsuit, ponytail, long_hair
+blue_archive, saya_(blue_archive), 1girl, blue_hair, grey_hair, red_eyes, blue_halo, animal_ears, black_pantyhose, black_shorts, blue_dress, short_dress, short_shorts
+blue_archive, saya_(casual)_(blue_archive), 1girl, grey_hair, red_eyes, blue_halo, animal_ears, black_hat, black_shirt, black_socks, black_thighhighs, blue_shorts, long_hair
+blue_archive, seia_(blue_archive), 1girl, blonde_hair, orange_eyes, yellow_eyes, fox_ears, yellow_halo, sleeveless_dress, striped_pantyhose, vertical-striped_pantyhose, white_dress, white_pantyhose
+blue_archive, seia_(swimsuit)_(blue_archive), 1girl, blonde_hair, fox_ears, halo, highleg_one-piece_swimsuit, turtleneck_one-piece_swimsuit, white_one-piece_swimsuit, yellow_jacket, side_ponytail, long_hair
+blue_archive, sena_(blue_archive), 1girl, white_hair, yellow_eyes, halo, blue_dress, hat, braid, short_hair
+blue_archive, sena_(casual)_(blue_archive), 1girl, white_hair, yellow_eyes, halo, sun_hat, white_dress, white_hat, short_hair
+blue_archive, serika_(blue_archive), 1girl, black_hair, red_eyes, cat_ears, halo, school_uniform, gloves, necktie, socks, shoes, very_long_hair
+blue_archive, serika_(idol)_(blue_archive), 1girl, black_hair, red_eyes, cat_ears, pink_halo, ankle_boots, black_boots, black_gloves, black_hat, black_shorts, very_long_hair
+blue_archive, serika_(new_year)_(blue_archive), 1girl, black_hair, red_eyes, cat_ears, pink_halo, white_kimono, white_socks, ponytail, very_long_hair
+blue_archive, serika_(swimsuit)_(blue_archive), 1girl, black_hair, red_eyes, cat_ears, pink_halo, bikini_skirt, black_bikini, frilled_bikini, off-shoulder_bikini, swimsuit, twintails
+blue_archive, serika_(waitress)_(blue_archive), 1girl, black_hair, red_eyes, cat_ears, pink_halo, black_shirt, black_socks, blue_apron, collared_shirt, waist_apron, twintails
+blue_archive, serina_(blue_archive), 1girl, pink_hair, pink_eyes, yellow_halo, asymmetrical_shirt, black_boots, black_skirt, lace-up_boots, pleated_skirt, short_hair
+blue_archive, serina_(christmas)_(blue_archive), 1girl, pink_hair, halo, red_dress, santa_hat, white_boots, gloves, pantyhose
+blue_archive, serina_(nurse)_(blue_archive), 1girl, pink_hair, brown_eyes, yellow_halo, pink_dress, pink_hat, short_dress, shoes, medium_hair
+blue_archive, shigure_(blue_archive), 1girl, white_hair, green_eyes, pink_eyes, animal_ears, halo, fur-trimmed_boots, fur-trimmed_coat, fur_hat, grey_coat, grey_gloves
+blue_archive, shigure_(hot_spring)_(blue_archive), 1girl, blue_halo, animal_ears, grey_kimono
+blue_archive, shimiko_(blue_archive), 1girl, blonde_hair, orange_hair, blue_eyes, yellow_halo, pleated_skirt, school_uniform, white_jacket, white_skirt, white_socks, very_long_hair
+blue_archive, shimiko_(magical)_(blue_archive), 1girl, orange_hair, blue_eyes, yellow_halo, black_gloves, black_leotard, black_thighhighs, half_gloves, high_heel_boots, braid, long_hair
 blue_archive, shiroko_(blue_archive), 1girl, grey_hair, wolf_ears, school_uniform, pleated_skirt, green_gloves
+blue_archive, shiroko_(cycling)_(blue_archive), 1girl, grey_hair, blue_eyes, blue_halo, wolf_ears, blue_bike_shorts, green_gloves, multicolored_shirt, white_socks, blue_shoes, short_hair
 blue_archive, shiroko_(swimsuit)_(blue_archive), 1girl, grey_hair, wolf_ears, black_one-piece_swimsuit, black_sandals, jacket
+blue_archive, shiroko_(young)_(blue_archive), 1girl, grey_hair, blue_eyes, blue_halo, wolf_ears, black_skirt, blue_jacket, blue_necktie, blue_scarf, plaid_skirt, short_hair
+blue_archive, shiroko_terror_(blue_archive), 1girl, blue_eyes, wolf_ears, halo, black_choker, black_dress, black_gloves, grey_shoes, very_long_hair
+blue_archive, shizuko_(blue_archive), 1girl, brown_hair, purple_eyes, pink_halo, black_skirt, floral_print_kimono, frilled_apron, frilled_kimono, frilled_skirt, very_long_hair
+blue_archive, shizuko_(swimsuit)_(blue_archive), 1girl, brown_hair, purple_eyes, animal_ears, halo, bikini_skirt, maid_headdress, ruffle_bikini, swimsuit, twintails, very_long_hair
+blue_archive, shun_(blue_archive), 1girl, black_hair, blue_hair, green_eyes, blue_halo, animal_ears, black_coat, black_dress, fur_coat, long_dress, sleeveless_dress
+blue_archive, shun_(small)_(blue_archive), 1girl, black_hair, green_eyes, blue_halo, animal_ears, black_dress, short_dress, white_thighhighs, black_shoes, long_hair
+blue_archive, shun_(small)_(swimsuit)_(blue_archive), 1girl, black_hair, green_eyes, blue_halo, animal_ears, black_bikini, green_one-piece_swimsuit, ponytail, twintails
+blue_archive, shun_(swimsuit)_(blue_archive), 1girl, black_hair, green_eyes, blue_halo, animal_ears, black_bikini, green_one-piece_swimsuit, ponytail, twintails
+blue_archive, shuro_(blue_archive), 1girl, grey_hair, purple_eyes, pointy_ears, purple_halo, black_kimono, grey_jacket, short_kimono, sideless_kimono, long_hair
+blue_archive, sora_(blue_archive), 1girl, blonde_hair, blue_eyes, white_halo, blue_apron, white_shirt, white_socks, white_shoes, very_long_hair
+blue_archive, subaru_(blue_archive), 1girl, black_hair, purple_eyes, purple_halo, grey_shirt, open_jacket, purple_necktie, white_jacket, short_hair
+blue_archive, sumire_(blue_archive), 1girl, black_hair, purple_eyes, purple_halo, green_choker, cross-laced_shoes, multicolored_shoes, ponytail, very_long_hair
+blue_archive, sumire_(part-time)_(blue_archive), 1girl, black_hair, halo, black_socks, white_shorts, cross-laced_shoes, white_shoes, hat, ponytail, very_long_hair
+blue_archive, suzumi_(blue_archive), 1girl, grey_hair, red_eyes, white_halo, collared_shirt, frilled_skirt, grey_jacket, white_shirt, thighhighs, very_long_hair
+blue_archive, suzumi_(magical)_(blue_archive), 1girl, white_hair, red_eyes, white_halo, frilled_dress, pink_dress, strapless_dress, cross-laced_shoes, thighhighs, very_long_hair
+blue_archive, takane_(blue_archive), 1girl, red_hair, yellow_eyes, red_halo, black_gloves, black_hairband, pleated_dress, black_shoes, very_long_hair
+blue_archive, toki_(abi-eshuh)_(blue_archive), 1girl, blonde_hair, halo, blue_leotard, maid_headdress, hair_bun
+blue_archive, toki_(armed)_(blue_archive), 1girl, blonde_hair, blue_eyes, halo, black_gloves, hooded_jacket, white_jacket, very_long_hair
+blue_archive, toki_(blue_archive), 1girl, blonde_hair, blue_eyes, blue_halo, fingerless_gloves, frilled_apron, high_heel_boots, long_skirt, maid_apron, short_hair
+blue_archive, toki_(bunny)_(blue_archive), 1girl, blonde_hair, blue_eyes, blue_halo, mechanical_halo, aqua_bowtie, blue_hairband, blue_leotard, highleg_leotard, strapless_leotard, long_hair
+blue_archive, toki_(school_uniform)_(blue_archive), 1girl, blonde_hair, blue_eyes, blue_halo, blue_skirt, collared_shirt, pleated_skirt, white_shirt, white_socks, braid, long_hair
+blue_archive, tomoe_(blue_archive), 1girl, purple_hair, purple_eyes, pink_halo, black_gloves, black_pantyhose, black_shirt, collared_shirt, fur-trimmed_coat, braid, twintails
+blue_archive, tomoe_(qipao)_(blue_archive), 1girl, pink_hair, pink_eyes, halo, white_dress, hair_bun, long_hair
+blue_archive, tsubaki_(blue_archive), 1girl, black_hair, black_eyes, red_halo, animal_ears, elbow_gloves, red_gloves, red_sailor_collar, red_skirt, short_hair
+blue_archive, tsubaki_(guide)_(blue_archive), 1girl, black_hair, animal_ears, halo, black_jacket, black_pantyhose, black_skirt, pencil_skirt, red_bowtie, short_hair
+blue_archive, tsukuyo_(blue_archive), 1girl, purple_eyes, rabbit_ears, halo, long_skirt, school_uniform, scarf, shoes, long_hair
+blue_archive, tsukuyo_(dress)_(blue_archive), 1girl, blonde_hair, purple_hair, purple_eyes, halo, kimono_dress, white_socks
+blue_archive, tsurugi_(blue_archive), 1girl, black_hair, red_eyes, red_halo, black_boots, black_shirt, black_skirt, lace-up_boots, long_skirt, very_long_hair
+blue_archive, tsurugi_(dress)_(blue_archive), 1girl, black_hair, red_eyes, red_halo, bow_choker, pleated_dress, wedding_dress, white_choker, white_dress, long_hair
+blue_archive, tsurugi_(swimsuit)_(blue_archive), 1girl, black_hair, red_eyes, red_halo, black_bikini, swimsuit, very_long_hair
+blue_archive, ui_(blue_archive), 1girl, black_hair, purple_eyes, halo, black_pantyhose, long_skirt, pleated_skirt, purple_hairband, school_uniform, very_long_hair
+blue_archive, ui_(swimsuit)_(blue_archive), 1girl, black_hair, blue_eyes, yellow_halo, black_bikini, blue_hairband, swimsuit, ponytail, very_long_hair
+blue_archive, umika_(blue_archive), 1girl, grey_hair, brown_eyes, animal_ears, halo, white_apron, long_hair
+blue_archive, utaha_(blue_archive), 1girl, purple_hair, purple_eyes, pink_halo, black_gloves, black_pantyhose, black_sweater, collared_shirt, open_coat, very_long_hair
+blue_archive, utaha_(cheer_squad)_(blue_archive), 1girl, purple_hair, purple_eyes, halo, boots, gloves, pants, ponytail
+blue_archive, wakamo_(blue_archive), 1girl, black_hair, yellow_eyes, fox_ears, red_halo, black_boots, black_gloves, black_kimono, black_sailor_collar, fingerless_gloves, long_hair
+blue_archive, wakamo_(swimsuit)_(blue_archive), 1girl, brown_hair, red_hair, yellow_eyes, fox_ears, red_halo, flower_bikini, string_bikini, white_bikini, swimsuit, ponytail
+blue_archive, wakamo_(valentine)_(blue_archive), 1girl, black_hair, red_hair, yellow_eyes, fox_ears, red_halo, floral_print_kimono, multicolored_kimono, pink_hairband, pink_kimono, white_kimono
+blue_archive, yakumo_(blue_archive), 1girl, green_hair, green_eyes, blue_halo, animal_ears, brown_hat, brown_jacket, open_jacket, wide-leg_pants, coat, medium_hair
+blue_archive, yoshimi_(band)_(blue_archive), 1girl, blonde_hair, black_eyes, yellow_halo, open_jacket, pink_skirt, pleated_skirt, red_jacket, white_shirt, twintails
+blue_archive, yoshimi_(blue_archive), 1girl, blonde_hair, brown_eyes, yellow_halo, black_thighhighs, hooded_jacket, red_jacket, track_jacket, white_shoes, twintails, long_hair
+blue_archive, yoshimi_(halloween)_(blue_archive), 1girl, blonde_hair, green_eyes, halo, long_hair
+blue_archive, yukari_(blue_archive), 1girl, purple_hair, purple_eyes, purple_halo, blue_skirt, school_uniform, white_sailor_collar, white_socks, very_long_hair
+blue_archive, yukari_(swimsuit)_(blue_archive), 1girl, purple_eyes, purple_halo, black_bikini, o-ring_bikini, open_shirt, white_shirt, swimsuit, very_long_hair
+blue_archive, yukino_(blue_archive), 1girl, black_hair, fox_ears, halo, black_thighhighs, school_uniform, gloves, shoes, very_long_hair
+blue_archive, yume_(blue_archive), 1girl, aqua_hair, yellow_eyes, yellow_halo, aqua_necktie, black_gloves, black_skirt, collared_shirt, pleated_skirt, very_long_hair
 blue_archive, yuuka_(blue_archive), 1girl, blue_hair, blue_eyes, black_jacket, black_skirt, blue_necktie
+blue_archive, yuuka_(pajamas)_(blue_archive), 1girl, purple_hair, blue_eyes, halo, white_hairband, shorts, long_hair
 blue_archive, yuuka_(track)_(blue_archive), 1girl, blue_hair, blue_eyes, gym_uniform, blue_jacket, black_shirt
+blue_archive, yuzu_(armed)_(blue_archive), 1girl, red_hair, purple_eyes, halo, red_gloves, ponytail, very_long_hair
+blue_archive, yuzu_(blue_archive), 1girl, red_hair, blue_eyes, halo, hooded_coat, white_coat, braid, very_long_hair
+blue_archive, yuzu_(maid)_(blue_archive), 1girl, red_hair, yellow_halo, black_dress, blue_bowtie, maid_apron, maid_headdress, white_apron, ponytail, long_hair
+blue_archive, yuzu_(winter)_(blue_archive), 1girl, blue_eyes, halo, black_pantyhose, brown_boots, fur-trimmed_coat, fur_boots, grey_skirt, braid
