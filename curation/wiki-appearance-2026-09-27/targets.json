@@ -1,0 +1,88 @@
+{
+  "blue_archive": [
+    "aris_(blue_archive)",
+    "asuna_(blue_archive)",
+    "hoshino_(blue_archive)",
+    "shiroko_(blue_archive)",
+    "yuuka_(blue_archive)",
+    "hina_(blue_archive)",
+    "mika_(blue_archive)",
+    "toki_(blue_archive)",
+    "ako_(blue_archive)",
+    "iroha_(blue_archive)"
+  ],
+  "azur_lane": [
+    "enterprise_(azur_lane)",
+    "belfast_(azur_lane)",
+    "atago_(azur_lane)",
+    "akagi_(azur_lane)",
+    "taihou_(azur_lane)"
+  ],
+  "genshin_impact": [
+    "amber_(genshin_impact)",
+    "barbara_(genshin_impact)",
+    "jean_(genshin_impact)",
+    "keqing_(genshin_impact)",
+    "raiden_shogun",
+    "furina_(genshin_impact)",
+    "navia_(genshin_impact)",
+    "arlecchino_(genshin_impact)",
+    "ganyu_(genshin_impact)",
+    "hu_tao_(genshin_impact)"
+  ],
+  "honkai_star_rail": [
+    "march_7th_(honkai:_star_rail)",
+    "kafka_(honkai:_star_rail)",
+    "acheron_(honkai:_star_rail)",
+    "firefly_(honkai:_star_rail)",
+    "robin_(honkai:_star_rail)",
+    "herta_(honkai:_star_rail)",
+    "ruan_mei_(honkai:_star_rail)",
+    "silver_wolf_(honkai:_star_rail)",
+    "black_swan_(honkai:_star_rail)",
+    "castorice_(honkai:_star_rail)"
+  ],
+  "arknights": [
+    "amiya_(arknights)",
+    "exusiai_(arknights)",
+    "texas_(arknights)",
+    "surtr_(arknights)",
+    "skadi_(arknights)",
+    "kal'tsit_(arknights)",
+    "mudrock_(arknights)",
+    "ch'en_(arknights)"
+  ],
+  "fate_grand_order": [
+    "artoria_pendragon_(fate)",
+    "mash_kyrielight",
+    "jeanne_d'arc_(fate)",
+    "scathach_(fate)",
+    "ishtar_(fate)",
+    "ereshkigal_(fate)",
+    "nero_claudius_(fate)",
+    "morgan_le_fay_(fate)"
+  ],
+  "vocaloid": [
+    "hatsune_miku",
+    "kagamine_rin",
+    "megurine_luka",
+    "meiko_(vocaloid)",
+    "gumi",
+    "otomachi_una",
+    "yuzuki_yukari",
+    "kizuna_akari",
+    "ia_(vocaloid)"
+  ],
+  "touhou": [
+    "hakurei_reimu",
+    "kirisame_marisa",
+    "izayoi_sakuya",
+    "remilia_scarlet",
+    "flandre_scarlet",
+    "konpaku_youmu",
+    "saigyouji_yuyuko",
+    "patchouli_knowledge",
+    "kochiya_sanae",
+    "yakumo_yukari"
+  ]
+}

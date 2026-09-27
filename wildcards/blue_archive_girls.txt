@@ -1,0 +1,11 @@
+blue_archive, aris_(blue_archive), 1girl, blue_hair, blue_eyes, school_uniform, black_hairband, jacket, necktie
+blue_archive, aris_(winter)_(blue_archive), 1girl, blue_eyes, brown_coat, blue_scarf, earmuffs, white_skirt, black_pantyhose
+blue_archive, asuna_(blue_archive), 1girl, brown_hair, blue_eyes, black_dress, frilled_apron, maid_headdress, blue_choker
+blue_archive, asuna_(bunny)_(blue_archive), 1girl, blonde_hair, blue_eyes, rabbit_ears, black_pantyhose, blue_bowtie
+blue_archive, hina_(blue_archive), 1girl, purple_eyes, blue_jacket, black_skirt, purple_thighhighs, black_gloves
+blue_archive, hina_(dress)_(blue_archive), 1girl, purple_eyes, purple_dress, purple_gloves, purple_pantyhose, high_ponytail
+blue_archive, hoshino_(blue_archive), 1girl, pink_hair, yellow_eyes, school_uniform, plaid_skirt, fingerless_gloves, halo
+blue_archive, shiroko_(blue_archive), 1girl, grey_hair, wolf_ears, school_uniform, pleated_skirt, green_gloves
+blue_archive, shiroko_(swimsuit)_(blue_archive), 1girl, grey_hair, wolf_ears, black_one-piece_swimsuit, black_sandals, jacket
+blue_archive, yuuka_(blue_archive), 1girl, blue_hair, blue_eyes, black_jacket, black_skirt, blue_necktie
+blue_archive, yuuka_(track)_(blue_archive), 1girl, blue_hair, blue_eyes, gym_uniform, blue_jacket, black_shirt

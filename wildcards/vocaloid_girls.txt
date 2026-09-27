@@ -1,0 +1,14 @@
+vocaloid, hatsune_miku, 1girl, aqua_hair, aqua_eyes, aqua_necktie, black_skirt, black_thighhighs, twintails
+vocaloid, hatsune_miku_(append), 1girl, aqua_hair, long_hair, detached_sleeves, necktie, twintails
+vocaloid, hatsune_miku_(nt), 1girl, aqua_hair, aqua_eyes, black_skirt, white_shirt, aqua_ribbon
+vocaloid, hatsune_miku_(vocaloid3), 1girl, green_hair, blue_eyes, skirt, necktie, twintails
+vocaloid, hatsune_miku_(vocaloid6), 1girl, aqua_hair, aqua_eyes, black_skirt, grey_shirt, aqua_necktie
+vocaloid, ia_(vocaloid), 1girl, grey_hair, blue_eyes, skirt, thighhighs
+vocaloid, kizuna_akari, 1girl, white_hair, blue_eyes, black_coat, orange_pantyhose
+vocaloid, megurine_luka, 1girl, pink_hair, blue_eyes, black_skirt, black_thighhighs, gold_boots
+vocaloid, megurine_luka_(vocaloid4), 1girl, pink_hair, aqua_eyes, black_skirt, black_thighhighs
+vocaloid, meiko_(vocaloid), 1girl, brown_hair, brown_eyes, red_jacket, red_skirt, brown_boots
+vocaloid, meiko_(vocaloid3), 1girl, brown_hair, brown_eyes, red_shirt, red_skirt, brown_boots
+vocaloid, otomachi_una_(spicy), 1girl, blue_hair, blue_eyes, blonde_hair, jacket, red_necktie
+vocaloid, otomachi_una_(sugar), 1girl, blue_hair, blue_eyes, frilled_dress, red_necktie
+vocaloid, yuzuki_yukari, 1girl, purple_hair, purple_eyes, purple_dress, purple_thighhighs, rabbit_hood

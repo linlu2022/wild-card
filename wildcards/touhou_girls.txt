@@ -1,0 +1,4 @@
+touhou, flandre_scarlet, 1girl, blonde_hair, red_eyes, red_skirt, white_hat, white_shirt
+touhou, hakurei_reimu, 1girl, black_hair, red_eyes, red_shirt, red_skirt, red_bow, detached_sleeves
+touhou, kirisame_marisa, 1girl, blonde_hair, red_eyes, black_hat, black_skirt, white_apron
+touhou, kochiya_sanae, 1girl, green_hair, green_eyes, blue_skirt, frog_hair_ornament, snake_hair_ornament

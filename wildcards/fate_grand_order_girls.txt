@@ -1,0 +1,11 @@
+fate/grand_order, ereshkigal_(fate), 1girl, blonde_hair, red_eyes, red_cape, black_thighhighs, black_choker
+fate/grand_order, ereshkigal_(swimsuit_beast)_(fate), 1girl, blonde_hair, red_eyes, white_one-piece_swimsuit, sandals
+fate/grand_order, ishtar_(first_ascension)_(fate), 1girl, black_hair, red_eyes, black_thighhighs, gold_earrings, white_skirt
+fate/grand_order, ishtar_(swimsuit_rider)_(fate), 1girl, black_hair, red_eyes, white_one-piece_swimsuit, pink_jacket, gold_earrings
+fate/grand_order, jeanne_d'arc_(ruler)_(fate), 1girl, blonde_hair, blue_eyes, armor, armored_boots, crown
+fate/grand_order, jeanne_d'arc_(swimsuit_archer)_(first_ascension)_(fate), 1girl, blonde_hair, blue_eyes, black_bikini, blue_jacket, platform_sandals
+fate/grand_order, mash_kyrielight_(chaldea_uniform), 1girl, purple_hair, purple_eyes, white_jacket, black_skirt, white_necktie
+fate/grand_order, morgan_le_fay_(first_ascension)_(fate), 1girl, white_hair, blue_eyes, black_dress, blue_choker, black_boots
+fate/grand_order, morgan_le_fay_(second_ascension)_(fate), 1girl, grey_hair, blue_eyes, black_dress, blue_choker
+fate/grand_order, scathach_(lancer)_(fate), 1girl, purple_hair, red_eyes, purple_bodysuit, shoulder_armor
+fate/grand_order, scathach_(swimsuit_assassin)_(fate), 1girl, purple_hair, red_eyes, bikini, bikini_skirt, hair_flower

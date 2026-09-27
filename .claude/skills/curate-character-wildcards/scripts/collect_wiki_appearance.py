@@ -6,7 +6,12 @@ subject attribution, or which general tags should enter a prompt.
 
 import argparse
 import csv
+import hashlib
+import json
 import re
+import tempfile
+import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import quote
@@ -16,6 +21,10 @@ import requests
 
 BASE = "https://danbooru.donmai.us"
 HEADERS = {"User-Agent": "wild-card-curation/1.0 (personal research)"}
+CACHE_DIR = Path(tempfile.gettempdir()) / "wild-card-danbooru-wiki-cache"
+MIN_INTERVAL = 0.65
+RATE_LOCK = threading.Lock()
+LAST_REQUEST = 0.0
 ENTRY = re.compile(r"^\s*\*\s*!(post|asset)\s*#(\d+)([^\r\n]*)", re.M | re.I)
 LINK = re.compile(r"\[\[([^]|]+)(?:\|([^]]*))?\]\]")
 FIELDS = [
@@ -27,11 +36,32 @@ FIELDS = [
 
 
 def get_json(path):
-    response = requests.get(BASE + path, headers=HEADERS, timeout=25)
-    if response.status_code == 404:
-        return None
-    response.raise_for_status()
-    return response.json()
+    global LAST_REQUEST
+    cache_path = CACHE_DIR / (hashlib.sha256(path.encode("utf-8")).hexdigest() + ".json")
+    if cache_path.is_file():
+        return json.loads(cache_path.read_text(encoding="utf-8"))
+    for attempt in range(5):
+        with RATE_LOCK:
+            remaining = LAST_REQUEST + MIN_INTERVAL - time.monotonic()
+            if remaining > 0:
+                time.sleep(remaining)
+            LAST_REQUEST = time.monotonic()
+        response = requests.get(BASE + path, headers=HEADERS, timeout=25)
+        if response.status_code == 404:
+            return None
+        if response.status_code == 429:
+            retry_after = response.headers.get("Retry-After", "")
+            delay = min(30.0, float(retry_after)) if retry_after.replace(".", "", 1).isdigit() else min(30.0, 2.0 * (2 ** attempt))
+            time.sleep(delay)
+            continue
+        response.raise_for_status()
+        result = response.json()
+        CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        temporary = cache_path.with_suffix(f".{threading.get_ident()}.tmp")
+        temporary.write_text(json.dumps(result, ensure_ascii=False), encoding="utf-8")
+        temporary.replace(cache_path)
+        return result
+    raise RuntimeError(f"Danbooru rate limit persisted after 5 attempts: {path}")
 
 
 def wiki_url(title):
@@ -126,15 +156,22 @@ def read_image(key):
 
 
 def main():
+    global CACHE_DIR, MIN_INTERVAL
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--names", type=Path, required=True, help="One Wiki title per line, or name-pack lines starting with the title")
     parser.add_argument("--output", type=Path, required=True, help="Candidate inventory CSV")
     parser.add_argument("--max-pages", type=int, default=500, help="Maximum number of Wiki pages to request (default: 500)")
     parser.add_argument("--workers", type=int, default=4, help="Concurrent requests, 1 to 4 (default: 4)")
+    parser.add_argument("--request-interval", type=float, default=0.65, help="Minimum seconds between uncached requests (default: 0.65)")
+    parser.add_argument("--cache-dir", type=Path, default=CACHE_DIR, help="External cache for successful API responses")
     parser.add_argument("--refresh", action="store_true", help="Replace an existing inventory with new API data")
     args = parser.parse_args()
     if not 1 <= args.workers <= 4 or not 1 <= args.max_pages <= 5000:
         parser.error("--workers must be 1..4 and --max-pages must be 1..5000")
+    if args.request_interval < 0.3:
+        parser.error("--request-interval must be at least 0.3 seconds")
+    CACHE_DIR = args.cache_dir
+    MIN_INTERVAL = args.request_interval
     if args.output.exists() and not args.refresh:
         parser.error(f"{args.output} already exists; reuse it or pass --refresh")
 

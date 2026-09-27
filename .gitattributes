@@ -1,6 +1,14 @@
 /.gitattributes text eol=lf
 /README.md text eol=lf
 wildcards/*_girls_name.txt text eol=lf
+wildcards/*_girls.txt text eol=lf
+curation/wiki-appearance-2026-09-27/*.csv text eol=lf
+curation/wiki-appearance-2026-09-27/*.txt text eol=lf
+curation/wiki-appearance-2026-09-27/*.json text eol=lf
+curation/wiki-appearance-2026-09-27/*.py text eol=lf
+docs/nine-franchise-girls-2026-09-27.md text eol=lf
+docs/character-packs.md text eol=lf
+.claude/skills/curate-character-wildcards/scripts/collect_wiki_appearance.py text eol=lf
 curation/name-packs-2026-09-26/*.csv text eol=lf
 curation/name-packs-2026-09-26/*.json text eol=lf
 curation/name-packs-2026-09-26/*.py text eol=lf

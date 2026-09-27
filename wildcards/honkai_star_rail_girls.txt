@@ -1,0 +1,16 @@
+honkai:_star_rail, acheron_(honkai:_star_rail), 1girl, purple_hair, long_hair, black_boots, short_shorts
+honkai:_star_rail, black_swan_(honkai:_star_rail), 1girl, purple_hair, veil, black_gloves, purple_sleeves
+honkai:_star_rail, castorice_(gossamer_flutter)_(honkai:_star_rail), 1girl, purple_hair, purple_eyes, purple_dress, butterfly_hair_ornament
+honkai:_star_rail, castorice_(honkai:_star_rail), 1girl, purple_hair, purple_eyes, white_dress, white_thighhighs
+honkai:_star_rail, firefly_(honkai:_star_rail), 1girl, grey_hair, green_eyes, green_dress, black_thighhighs, black_headband
+honkai:_star_rail, firefly_(spring_missive)_(honkai:_star_rail), 1girl, grey_hair, green_hair, grey_skirt, white_shirt, white_thighhighs
+honkai:_star_rail, march_7th_(hunt)_(honkai:_star_rail), 1girl, pink_hair, pink_eyes, black_dress, red_jacket, black_gloves
+honkai:_star_rail, march_7th_(nascent_spring)_(honkai:_star_rail), 1girl, pink_hair, blue_eyes, blue_dress, white_thighhighs, blue_bowtie
+honkai:_star_rail, march_7th_(preservation)_(honkai:_star_rail), 1girl, blue_eyes, blue_jacket, blue_skirt, black_choker, black_gloves
+honkai:_star_rail, robin_(honkai:_star_rail), 1girl, long_hair, purple_dress, white_gloves, halo
+honkai:_star_rail, robin_(summeretto)_(honkai:_star_rail), 1girl, blue_hair, green_eyes, white_bikini, sandals, halo
+honkai:_star_rail, ruan_mei_(honkai:_star_rail), 1girl, black_hair, green_eyes, green_gloves, hair_intakes
+honkai:_star_rail, ruan_mei_(plumblossom_letter)_(honkai:_star_rail), 1girl, black_hair, grey_eyes, blue_dress, blue_gloves, hair_flower
+honkai:_star_rail, silver_wolf_(honkai:_star_rail), 1girl, grey_hair, grey_eyes, black_jacket, black_gloves, short_shorts
+honkai:_star_rail, silver_wolf_(lv.999)_(honkai:_star_rail), 1girl, grey_hair, grey_eyes, black_jacket, black_shorts, holographic_wings
+honkai:_star_rail, the_herta_(honkai:_star_rail), 1girl, brown_hair, purple_eyes, black_dress, witch_hat, detached_sleeves
