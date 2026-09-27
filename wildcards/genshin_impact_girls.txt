@@ -1,9 +1,106 @@
+genshin_impact, aino_(genshin_impact), 1girl, pink_hair, grey_eyes, black_dress, halter_dress, lab_coat, open_coat, black_choker, mismatched_socks, very_long_hair
+genshin_impact, alice_(genshin_impact), 1girl, blonde_hair, orange_eyes, pointy_ears, vision_(genshin_impact), nontraditional_witch_hat, very_long_hair
 genshin_impact, amber_(100%_outrider)_(genshin_impact), 1girl, brown_hair, brown_eyes, red_jacket, red_shorts, red_ribbon
 genshin_impact, amber_(genshin_impact), 1girl, brown_hair, orange_eyes, red_jacket, brown_shorts, red_hairband
+genshin_impact, anastasya_feodorovna_snezhnaya, 1girl, tiara, blue_robe, white_dress, elbow_gloves, white_gloves
+genshin_impact, arlecchino_(genshin_impact), 1girl, black_hair, red_hair, black_eyes, black_pants, white_coat, fingernail_gloves, ponytail, very_long_hair
 genshin_impact, barbara_(genshin_impact), 1girl, blonde_hair, blue_eyes, white_dress, mini_hat, white_pantyhose
-genshin_impact, furina_(genshin_impact), 1girl, blue_hair, blue_eyes, blue_hat, blue_jacket, white_shorts, mismatched_gloves
+genshin_impact, barbara_(summertime_sparkle)_(genshin_impact), 1girl, blonde_hair, blue_eyes, twintails
+genshin_impact, beidou_(genshin_impact), 1girl, black_hair, red_eyes, vision_(genshin_impact), black_leotard, black_gloves, black_thighhighs, fingerless_gloves, high_heel_boots, red_capelet, long_hair
+genshin_impact, candace_(genshin_impact), 1girl, blue_hair, purple_hair, blue_eyes, short_hair
+genshin_impact, charlotte_(genshin_impact), 1girl, pink_hair, aqua_eyes, red_hat, white_gloves, medium_hair
+genshin_impact, charlotte_(hurlock_variations)_(genshin_impact), 1girl, pink_hair, aqua_eyes, aqua_skirt, black_gloves, brown_shoes, white_socks, capelet, hat, medium_hair
+genshin_impact, chasca_(genshin_impact), 1girl, purple_hair, red_hair, blue_eyes, pointy_ears, black_pants, black_shirt, sleeveless_shirt, asymmetrical_gloves, black_gloves, black_hat, very_long_hair
+genshin_impact, chevreuse_(genshin_impact), 1girl, purple_hair, strapless_dress, black_hat, white_gloves, white_thighhighs, very_long_hair
+genshin_impact, chiori_(genshin_impact), 1girl, blonde_hair, brown_hair, red_eyes, grey_kimono, short_kimono, pleated_skirt, yellow_skirt, black_gloves, black_pantyhose, ponytail, long_hair
+genshin_impact, citlali_(genshin_impact), 1girl, pink_hair, blue_eyes, vision_(genshin_impact), halter_leotard, asymmetrical_gloves, black_gloves, sarong, braid
+genshin_impact, citlali_(whispers_of_stars_and_smoke)_(genshin_impact), 1girl, pink_hair, blue_eyes, fingerless_gloves, purple_gloves, purple_socks, long_hair
+genshin_impact, clorinde_(genshin_impact), 1girl, blue_hair, purple_eyes, vision_(genshin_impact), black_skirt, pencil_skirt, taut_shirt, white_shirt, high_heel_boots, white_gloves, ponytail, very_long_hair
+genshin_impact, collei_(genshin_impact), 1girl, green_hair, purple_eyes, vision_(genshin_impact), black_boots, brown_thighhighs, green_capelet, high_heel_boots, tassel-trimmed_capelet
+genshin_impact, columbina_(genshin_impact), 1girl, black_hair, purple_hair, wings, off-shoulder_dress, white_dress, very_long_hair
+genshin_impact, dehya_(genshin_impact), 1girl, black_hair, blonde_hair, blue_eyes, vision_(genshin_impact), shoulder_armor, black_shorts, short_shorts, black_boots, black_gloves, elbow_gloves, braid
+genshin_impact, diona_(genshin_impact), 1girl, pink_hair, green_eyes, cat_ears, cat_tail, hat
+genshin_impact, dori_(genshin_impact), 1girl, pink_hair, orange_eyes, vision_(genshin_impact), harem_pants, black_shoes, purple_hat
+genshin_impact, dunyarzad_(genshin_impact), 1girl, brown_hair, brown_eyes, dress, brown_shoes, hairband, long_hair
+genshin_impact, emilie_(genshin_impact), 1girl, blonde_hair, pink_eyes, vision_(genshin_impact), black_shirt, green_skirt, sleeveless_shirt, black_bowtie, black_corset, black_gloves, short_hair
+genshin_impact, escoffier_(genshin_impact), 1girl, blonde_hair, blue_eyes, tail, black_skirt, chef_hat, red_choker, white_hat, white_thighhighs, long_hair
+genshin_impact, eula_(genshin_impact), 1girl, blue_hair, yellow_eyes, vision_(genshin_impact), black_bodysuit, black_leotard, impossible_leotard, black_boots, black_gloves, black_hairband, medium_hair
+genshin_impact, faruzan_(genshin_impact), 1girl, aqua_hair, blue_hair, green_eyes, dress, skirt, twintails, long_hair
+genshin_impact, fischl_(ein_immernachtstraum)_(genshin_impact), 1girl, blonde_hair, red_eyes, purple_dress, white_thighhighs
+genshin_impact, fischl_(genshin_impact), 1girl, blonde_hair, green_eyes, showgirl_skirt, black_boots, black_pantyhose, black_thighhighs, winged_boots, gloves, long_hair
+genshin_impact, furina_(genshin_impact), 1girl, blue_hair, white_hair, blue_eyes, black_shorts, blue_jacket, short_shorts, asymmetrical_gloves, black_gloves, blue_hat, short_hair
 genshin_impact, ganyu_(genshin_impact), 1girl, blue_hair, purple_eyes, bodystocking, black_gloves, detached_sleeves
 genshin_impact, ganyu_(twilight_blossom)_(genshin_impact), 1girl, blue_hair, purple_eyes, multicolored_dress, black_gloves, detached_sleeves
+genshin_impact, hu_tao_(cherries_snow-laden)_(genshin_impact), 1girl, brown_hair, red_eyes, red_skirt, white_shirt, brown_thighhighs, white_hat, shoes, very_long_hair
+genshin_impact, hu_tao_(genshin_impact), 1girl, brown_hair, red_eyes, black_shorts, brown_shirt, short_shorts, black_hat, brown_shoes, white_socks, twintails, very_long_hair
+genshin_impact, iansan_(genshin_impact), 1girl, grey_hair, green_eyes, pointy_ears, multicolored_boots, thighhighs, very_long_hair
+genshin_impact, ineffa_(genshin_impact), 1girl, blue_hair, blue_eyes, leotard, cape, hat, short_hair
+genshin_impact, istaroth_(genshin_impact), 1girl, white_hair, dress, open-toe_shoes, braid, very_long_hair
+genshin_impact, jahoda_(genshin_impact), 1girl, blonde_hair, yellow_eyes, black_shorts, short_shorts, black_boots, black_gloves, black_hat, torn_thighhighs, braid, short_hair
 genshin_impact, jean_(genshin_impact), 1girl, blonde_hair, blue_eyes, white_shirt, black_gloves, black_capelet
+genshin_impact, jean_(gunnhildr's_legacy)_(genshin_impact), 1girl, blonde_hair, blue_eyes, white_pants, thigh_boots
+genshin_impact, jean_(sea_breeze_dandelion)_(genshin_impact), 1girl, blonde_hair, blue_eyes, shorts
+genshin_impact, kamisato_ayaka, 1girl, blue_hair, blue_eyes, armored_dress, japanese_armor, black_gloves, elbow_gloves, ponytail, long_hair
+genshin_impact, kamisato_ayaka_(springbloom_missive), 1girl, blue_hair, dress, boater_hat, brown_boots, brown_hat, lace-up_boots, white_pantyhose
 genshin_impact, keqing_(genshin_impact), 1girl, purple_hair, purple_eyes, cone_hair_bun, black_pantyhose, purple_gloves
 genshin_impact, keqing_(opulent_splendor)_(genshin_impact), 1girl, purple_hair, pink_eyes, multicolored_dress, brown_pantyhose, cone_hair_bun
+genshin_impact, kirara_(genshin_impact), 1girl, brown_hair, green_eyes, tail, blue_skirt, waist_cape, ponytail
+genshin_impact, kirara_(phantom_in_boots)_(genshin_impact), 1girl, blonde_hair, green_eyes, cat_tail, aqua_skirt, high-waist_skirt, black_boots, brown_gloves, thigh_boots, hat, very_long_hair
+genshin_impact, klee_(blossoming_starlight)_(genshin_impact), 1girl, blonde_hair, orange_eyes, pointy_ears, red_skirt, white_shirt, black_gloves, black_shoes, red_bowtie, red_hat, long_hair
+genshin_impact, klee_(genshin_impact), 1girl, blonde_hair, red_eyes, pointy_ears, brown_boots, brown_gloves, knee_boots, hat, twintails
+genshin_impact, kujou_sara, 1girl, purple_hair, yellow_eyes, vision_(genshin_impact), black_gloves, medium_hair
+genshin_impact, kuki_shinobu, 1girl, green_hair, purple_eyes, shoulder_armor, black_shirt, open_jacket, purple_jacket, black_thighhighs, ponytail, short_hair
+genshin_impact, lan_yan_(genshin_impact), 1girl, black_hair, purple_eyes, green_dress, halter_dress, hairband, very_long_hair
+genshin_impact, lauma_(genshin_impact), 1girl, blue_hair, green_eyes, horns, pointy_ears, aqua_dress, very_long_hair
+genshin_impact, layla_(genshin_impact), 1girl, blue_hair, yellow_eyes, pointy_ears, white_shirt, black_gloves, gold_shoes, white_pantyhose, drill_hair, very_long_hair
+genshin_impact, linnea_(genshin_impact), 1girl, pink_hair, pink_eyes, pointy_ears, wings, black_boots, red_socks, medium_hair
+genshin_impact, lisa_(a_sobriquet_under_shade)_(genshin_impact), 1girl, brown_hair, green_eyes, vision_(genshin_impact), akademiya_uniform, green_dress, black_shoes, green_hat, braid, long_hair
+genshin_impact, lisa_(genshin_impact), 1girl, brown_hair, green_eyes, vision_(genshin_impact), dress, black_gloves, black_shoes, black_thighhighs, purple_corset, purple_hat, long_hair
+genshin_impact, lumine_(genshin_impact), 1girl, blonde_hair, yellow_eyes, high-low_dress, short_dress, white_armor, brown_gloves, thigh_boots, white_boots, long_hair
+genshin_impact, lynette_(genshin_impact), 1girl, white_hair, purple_eyes, cat_ears, cat_tail, black_dress, leotard, skirt, boots, cape, corset, ponytail
+genshin_impact, mavuika_(genshin_impact), 1girl, blonde_hair, orange_hair, orange_eyes, black_bodysuit, black_gloves, very_long_hair
+genshin_impact, mona_(genshin_impact), 1girl, black_hair, purple_hair, green_eyes, vision_(genshin_impact), leotard, black_choker, black_gloves, black_pantyhose, fur-trimmed_cape, large_hat, twintails
+genshin_impact, mona_(pact_of_stars_and_moon)_(genshin_impact), 1girl, vision_(genshin_impact), black_gloves, capelet, twintails, very_long_hair
+genshin_impact, mualani_(genshin_impact), 1girl, grey_hair, orange_eyes, blue_hairband, shoes, long_hair
+genshin_impact, nahida_(genshin_impact), 1girl, green_hair, white_hair, green_eyes, pointy_ears, sleeveless_dress, white_dress, side_ponytail, long_hair
+genshin_impact, navia_(genshin_impact), 1girl, blonde_hair, blue_eyes, black_gloves, black_hat, drill_hair, very_long_hair
+genshin_impact, nefer_(genshin_impact), 1girl, green_hair, green_eyes, white_skirt, short_hair
+genshin_impact, nicole_(genshin_impact), 1girl, blonde_hair, blue_eyes, pointy_ears, white_dress, white_hat, white_pantyhose, white_shoes, very_long_hair
+genshin_impact, nilou_(breeze_of_sabaa)_(genshin_impact), 1girl, red_hair, aqua_eyes, blue_dress, hair_bun, very_long_hair
+genshin_impact, nilou_(genshin_impact), 1girl, red_hair, aqua_eyes, horns, skirt, twintails, very_long_hair
+genshin_impact, ningguang_(genshin_impact), 1girl, white_hair, orange_eyes, very_long_hair
+genshin_impact, ningguang_(orchid's_evening_gown)_(genshin_impact), 1girl, white_hair, red_eyes, black_dress, long_hair
+genshin_impact, noelle_(genshin_impact), 1girl, grey_hair, green_eyes, maid, maid_headdress, armored_dress, armor, armored_boots, maid_apron, short_hair
+genshin_impact, odette_(genshin_impact), 1girl, blue_hair, purple_eyes, blue_dress, white_pantyhose, gloves, medium_hair
+genshin_impact, paimon_(genshin_impact), 1girl, white_hair, halo, white_dress, long_hair
+genshin_impact, qiqi_(genshin_impact), 1girl, purple_hair, red_eyes, vision_(genshin_impact), hat, thighhighs, braid, long_hair
+genshin_impact, raiden_shogun, 1girl, purple_hair, purple_eyes, purple_kimono, black_thighhighs, braid, long_hair
+genshin_impact, ronova_(genshin_impact), 1girl, white_hair, yellow_eyes, wings, very_long_hair
+genshin_impact, rosaria_(genshin_impact), 1girl, red_hair, vision_(genshin_impact), black_pantyhose, elbow_gloves, fishnet_pantyhose, nun_headdress, white_gloves, short_hair
+genshin_impact, rosaria_(to_the_church's_free_spirit)_(genshin_impact), 1girl, red_hair, red_eyes, elbow_gloves, white_gloves, pantyhose, short_hair
+genshin_impact, sandrone_(genshin_impact), 1girl, brown_hair, blue_eyes, long_hair
+genshin_impact, sangonomiya_kokomi, 1girl, pink_hair, white_gloves, white_thighhighs, very_long_hair
+genshin_impact, sayu_(genshin_impact), 1girl, grey_hair, pink_eyes, animal_ears, tail, black_gloves, fingerless_gloves, short_hair
+genshin_impact, shenhe_(frostflower_dew)_(genshin_impact), 1girl, grey_hair, black_dress, black_shoes, long_hair
+genshin_impact, shenhe_(genshin_impact), 1girl, aqua_hair, grey_hair, blue_eyes, purple_eyes, bodysuit, open-toe_boots, braid, very_long_hair
+genshin_impact, sigewinne_(genshin_impact), 1girl, blue_hair, pink_eyes, blue_dress, blue_shoes, pink_bowtie, white_apron, white_gloves, white_hat, medium_hair
+genshin_impact, skirk_(genshin_impact), 1girl, white_hair, pink_eyes, white_dress, very_long_hair
+genshin_impact, sucrose_(genshin_impact), 1girl, green_hair, brown_eyes, vision_(genshin_impact), blue_dress, grey_thighhighs, white_boots, white_gloves, hat, ponytail, very_long_hair
+genshin_impact, varesa_(genshin_impact), 1girl, aqua_hair, pink_hair, purple_eyes, horns, animal_ears, black_skirt, pleated_skirt, black_hairband, white_thighhighs, braid, very_long_hair
+genshin_impact, vesna_(genshin_impact), 1girl, blonde_hair, wings, short_dress, strapless_dress, high_heel_boots, knee_boots, white_gloves, white_pantyhose, ponytail, very_long_hair
+genshin_impact, vodyanitsa_(genshin_impact), 1girl, aqua_hair, blue_eyes, white_dress, very_long_hair
+genshin_impact, xiangling_(genshin_impact), 1girl, blue_hair, yellow_eyes, animal_ears, dress, black_boots, black_gloves, fingerless_gloves, braid
+genshin_impact, xiangling_(new_year's_cheer)_(genshin_impact), 1girl, blue_hair, yellow_eyes, vision_(genshin_impact), animal_ears, black_shorts, fur-trimmed_jacket, red_jacket, short_shorts, animal_hat, bear_hat, braid
+genshin_impact, xianyun_(genshin_impact), 1girl, black_hair, blue_hair, aqua_eyes, black_dress, black_gloves, black_pantyhose, very_long_hair
+genshin_impact, xilonen_(genshin_impact), 1girl, blonde_hair, green_eyes, animal_ears, tail, black_shorts, high-waist_shorts, long_hair
+genshin_impact, xinyan_(genshin_impact), 1girl, brown_hair, orange_hair, yellow_eyes, vision_(genshin_impact), white_shorts, black_shoes, open-toe_shoes, braid, twintails
+genshin_impact, yae_miko, 1girl, pink_hair, fox_ears, very_long_hair
+genshin_impact, yanfei_(genshin_impact), 1girl, pink_hair, green_eyes, red_skirt, red_hat, very_long_hair
+genshin_impact, yaoyao_(genshin_impact), 1girl, brown_hair, brown_eyes, brown_dress, green_jacket, fur-trimmed_boots, white_boots, braid, medium_hair
+genshin_impact, yaoyao_(rainlit_bamboo_reverie)_(genshin_impact), 1girl, brown_hair, brown_eyes, green_shirt, black_shoes, short_hair
+genshin_impact, yelan_(genshin_impact), 1girl, blue_hair, green_eyes, backless_dress, halter_dress, high_heel_boots, gloves
+genshin_impact, yelan_(tranquil_banquet)_(genshin_impact), 1girl, blue_hair, green_eyes, blue_dress, halter_dress, black_gloves, short_hair
+genshin_impact, yoimiya_(genshin_impact), 1girl, blonde_hair, yellow_eyes, vision_(genshin_impact), fingerless_gloves, red_choker
+genshin_impact, yumemizuki_mizuki, 1girl, blue_hair, purple_eyes, pointy_ears, pink_kimono, black_choker, frilled_hairband, white_apron, white_socks, very_long_hair
+genshin_impact, yun_jin_(genshin_impact), 1girl, purple_hair, red_eyes, purple_dress, pink_capelet, purple_pantyhose, hat, long_hair
+genshin_impact, zibai_(genshin_impact), 1girl, white_hair, yellow_eyes, short_dress, white_dress, green_shirt, white_thighhighs, braid, ponytail
