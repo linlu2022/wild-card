@@ -29,10 +29,11 @@ CONFIG = {
     "honkai_star_rail": {
         "dir": "star-rail-full-2026-09-27", "copyright": "honkai:_star_rail",
         "suffix": "_(honkai:_star_rail)", "release": ("official_update",),
-        "publisher_hosts": {"hsr.hoyoverse.com", "act.hoyoverse.com", "act.mihoyo.com"},
+        "publisher_hosts": {"hsr.hoyoverse.com", "act.hoyoverse.com", "act.mihoyo.com", "act-webstatic.hoyoverse.com"},
         "publisher_accounts": {"honkaistarrail", "honkaistarrail_en"},
-        "mirror_hosts": {"honkai-star-rail.fandom.com", "star-rail.fandom.com", "homdgcat.wiki"},
+        "mirror_hosts": {"honkai-star-rail.fandom.com", "houkai-star-rail.fandom.com", "star-rail.fandom.com", "homdgcat.wiki", "hsr20.hakush.in", "hsr.gachabase.net", "act-upload.mihoyo.com"},
         "wikia_path": "/honkai-star-rail/",
+        "variant_requires_appearance_context": True,
     },
     "arknights": {
         "dir": "arknights-full-2026-09-27", "copyright": "arknights",
@@ -119,6 +120,8 @@ def source_tier(row, config):
     wikia_paths = {config["wikia_path"]}
     if config["copyright"] == "genshin_impact":
         wikia_paths.add("/gensin-impact/")
+    if config["copyright"] == "honkai:_star_rail":
+        wikia_paths.add("/houkai-star-rail/")
     if host in {"static.wikia.nocookie.net", "vignette.wikia.nocookie.net"} and any(path in source.casefold() for path in wikia_paths):
         return "game_mirror", 5
     return "source_unverified", 1
@@ -197,6 +200,10 @@ def curate(pack):
         for tag in post["character_tags"].split():
             record = manifest.get(tag)
             if not record or record["is_danbooru_tag"] != "True":
+                continue
+            if config.get("variant_requires_appearance_context") and variant(tag, config) and all(
+                row.get("label") == "supplemental search" for row in contexts
+            ):
                 continue
             if config.get("legacy_variant_requires_game_record") and variant(tag, config) and not any(term in record["source"] for term in config["release"]):
                 continue

@@ -135,6 +135,7 @@ def read_form(title):
     if page is None:
         return {"form_wiki_url": url, "form_wiki_status": "missing"}
     description = re.split(r"(?m)^h[1-6]\.\s+", page.get("body", ""), maxsplit=1)[0].strip()
+    description = "\n".join(line.rstrip() for line in description.splitlines())
     return {
         "form_wiki_url": url,
         "form_wiki_status": "found",

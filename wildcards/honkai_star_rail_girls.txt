@@ -1,16 +1,63 @@
 honkai:_star_rail, acheron_(honkai:_star_rail), 1girl, purple_hair, long_hair, black_boots, short_shorts
+honkai:_star_rail, aglaea_(honkai:_star_rail), 1girl, blonde_hair, green_eyes, white_dress, short_hair
+honkai:_star_rail, asta_(honkai:_star_rail), 1girl, pink_hair, blue_eyes, braid, medium_hair
+honkai:_star_rail, bailu_(honkai:_star_rail), 1girl, purple_hair, green_eyes, dragon_tail, horns, braid
 honkai:_star_rail, black_swan_(honkai:_star_rail), 1girl, purple_hair, veil, black_gloves, purple_sleeves
+honkai:_star_rail, bronya_rand, 1girl, grey_hair, grey_eyes, white_dress, black_boots, brown_pantyhose, thigh_boots, long_hair
 honkai:_star_rail, castorice_(gossamer_flutter)_(honkai:_star_rail), 1girl, purple_hair, purple_eyes, purple_dress, butterfly_hair_ornament
 honkai:_star_rail, castorice_(honkai:_star_rail), 1girl, purple_hair, purple_eyes, white_dress, white_thighhighs
+honkai:_star_rail, cerydra_(honkai:_star_rail), 1girl, white_hair, crown, wings, blue_dress, sleeveless_dress, black_boots, black_thighhighs, blue_cape, fur-trimmed_cape, ponytail, long_hair
+honkai:_star_rail, cipher_(atticus)_(honkai:_star_rail), 1girl, grey_hair, blue_eyes, cat_ears, cat_tail, black_gloves, fingerless_gloves, choker, short_hair
+honkai:_star_rail, cipher_(honkai:_star_rail), 1girl, grey_hair, blue_eyes, cat_ears, cat_tail, black_gloves, fingerless_gloves, gold_boots, high_heel_boots
+honkai:_star_rail, clara_(honkai:_star_rail), 1girl, white_hair, fur-trimmed_coat, red_coat, long_hair
+honkai:_star_rail, cyrene_(demiurge)_(honkai:_star_rail), 1girl, blue_hair, pink_hair, purple_eyes, pointy_ears, halo, layered_dress, white_dress, very_long_hair
+honkai:_star_rail, cyrene_(honkai:_star_rail), 1girl, pink_hair, white_hair, purple_eyes, white_dress, very_long_hair
+honkai:_star_rail, cyrene_(philia093)_(honkai:_star_rail), 1girl, pink_hair, blue_eyes, purple_coat, medium_hair
+honkai:_star_rail, evanescia_(honkai:_star_rail), 1girl, pink_hair, purple_eyes, fox_ears, dress, black_skirt, cropped_jacket, pleated_skirt, white_jacket, white_shirt, long_hair
+honkai:_star_rail, evernight_(honkai:_star_rail), 1girl, pink_hair, red_eyes, black_dress, layered_dress, black_coat, white_shirt, black_boots, black_gloves, long_hair
+honkai:_star_rail, feixiao_(honkai:_star_rail), 1girl, white_hair, aqua_eyes, blue_eyes, fox_ears, wings, black_shorts, blue_shirt, open_coat, white_coat, black_boots, knee_boots
 honkai:_star_rail, firefly_(honkai:_star_rail), 1girl, grey_hair, green_eyes, green_dress, black_thighhighs, black_headband
 honkai:_star_rail, firefly_(spring_missive)_(honkai:_star_rail), 1girl, grey_hair, green_hair, grey_skirt, white_shirt, white_thighhighs
+honkai:_star_rail, fu_xuan_(honkai:_star_rail), 1girl, pink_hair, yellow_eyes, sleeveless_dress, brown_shoes, white_thighhighs, very_long_hair
+honkai:_star_rail, fugue_(honkai:_star_rail), 1girl, brown_hair, green_eyes, fox_ears, black_shoes, long_hair
+honkai:_star_rail, herta_(honkai:_star_rail), 1girl, brown_hair, purple_eyes, black_dress, black_boots, high_heel_boots, witch_hat, very_long_hair
+honkai:_star_rail, herta_(puppet)_(honkai:_star_rail), 1girl, brown_hair, ankle_boots, black_boots, black_hat, very_long_hair
+honkai:_star_rail, himeko_(honkai:_star_rail), 1girl, red_hair, brown_eyes, yellow_eyes, white_dress, black_coat, black_choker, black_gloves, long_hair
+honkai:_star_rail, huohuo_(honkai:_star_rail), 1girl, green_hair, blue_eyes, fox_ears, black_hat, zhuang_hat, long_hair
+honkai:_star_rail, hyacine_(honkai:_star_rail), 1girl, pink_hair, green_eyes, layered_dress, red_dress, black_shoes, red_hat, white_pantyhose, drill_hair
+honkai:_star_rail, hysilens_(honkai:_star_rail), 1girl, purple_hair, purple_dress, asymmetrical_gloves, black_gloves, black_thighhighs, lace-trimmed_thighhighs, very_long_hair
+honkai:_star_rail, jade_(honkai:_star_rail), 1girl, purple_hair, blue_eyes, blue_dress, two-tone_dress, black_gloves, black_hat, long_hair
+honkai:_star_rail, jingliu_(honkai:_star_rail), 1girl, blue_hair, red_eyes, black_boots, black_gloves, knee_boots, ponytail, long_hair
+honkai:_star_rail, kafka_(honkai:_star_rail), 1girl, purple_hair, pink_eyes, long_hair
+honkai:_star_rail, lingsha_(honkai:_star_rail), 1girl, black_hair, orange_eyes, pointy_ears, long_hair
+honkai:_star_rail, lynx_landau, 1girl, blonde_hair, blue_eyes, blue_scarf
 honkai:_star_rail, march_7th_(hunt)_(honkai:_star_rail), 1girl, pink_hair, pink_eyes, black_dress, red_jacket, black_gloves
 honkai:_star_rail, march_7th_(nascent_spring)_(honkai:_star_rail), 1girl, pink_hair, blue_eyes, blue_dress, white_thighhighs, blue_bowtie
 honkai:_star_rail, march_7th_(preservation)_(honkai:_star_rail), 1girl, blue_eyes, blue_jacket, blue_skirt, black_choker, black_gloves
+honkai:_star_rail, nihilux_(blurry_qr_colt)_(honkai:_star_rail), 1girl, white_hair, purple_eyes, grey_shirt, white_jacket, black_hat, very_long_hair
+honkai:_star_rail, pearl_(honkai:_star_rail), 1girl, blonde_hair, green_hair, purple_eyes, tiara, blue_dress, frilled_dress, long_hair
+honkai:_star_rail, pela_(honkai:_star_rail), 1girl, blue_hair, blue_eyes, ankle_boots, black_hat, black_pantyhose, high_heel_boots
+honkai:_star_rail, qingque_(honkai:_star_rail), 1girl, brown_hair, green_eyes, turtleneck_sweater, braid, ponytail
+honkai:_star_rail, rappa_(honkai:_star_rail), 1girl, pink_hair, green_eyes, black_shorts, cropped_shirt, short_shorts, black_boots, black_hat
 honkai:_star_rail, robin_(honkai:_star_rail), 1girl, long_hair, purple_dress, white_gloves, halo
 honkai:_star_rail, robin_(summeretto)_(honkai:_star_rail), 1girl, blue_hair, green_eyes, white_bikini, sandals, halo
 honkai:_star_rail, ruan_mei_(honkai:_star_rail), 1girl, black_hair, green_eyes, green_gloves, hair_intakes
 honkai:_star_rail, ruan_mei_(plumblossom_letter)_(honkai:_star_rail), 1girl, black_hair, grey_eyes, blue_dress, blue_gloves, hair_flower
+honkai:_star_rail, seele_(honkai:_star_rail), 1girl, purple_hair, purple_eyes, black_boots, long_hair
+honkai:_star_rail, serval_landau, 1girl, blonde_hair, blue_hair, blue_eyes, black_shorts, short_shorts, white_jacket, black_boots, black_choker, black_gloves, long_hair
 honkai:_star_rail, silver_wolf_(honkai:_star_rail), 1girl, grey_hair, grey_eyes, black_jacket, black_gloves, short_shorts
 honkai:_star_rail, silver_wolf_(lv.999)_(honkai:_star_rail), 1girl, grey_hair, grey_eyes, black_jacket, black_shorts, holographic_wings
+honkai:_star_rail, sparkle_(honkai:_star_rail), 1girl, black_hair, pink_eyes, red_eyes, red_dress, shoes, twintails, long_hair
+honkai:_star_rail, sparxie_(honkai:_star_rail), 1girl, white_hair, purple_eyes, dress, red_shirt, white_skirt, black_shoes, braid, twintails
+honkai:_star_rail, stelle_(honkai:_star_rail), 1girl, grey_hair, yellow_eyes, black_coat, black_skirt, open_coat, white_shirt, ankle_boots, black_boots
+honkai:_star_rail, sushang_(honkai:_star_rail), 1girl, brown_hair, brown_eyes, braid, twintails
+honkai:_star_rail, the_dahlia_(honkai:_star_rail), 1girl, black_hair, purple_eyes, horns, tail, white_dress, asymmetrical_gloves, black_gloves, sun_hat, white_hat, white_shoes, very_long_hair
 honkai:_star_rail, the_herta_(honkai:_star_rail), 1girl, brown_hair, purple_eyes, black_dress, witch_hat, detached_sleeves
+honkai:_star_rail, tingyun_(harmony)_(honkai:_star_rail), 1girl, black_hair, fox_tail, brown_dress, short_dress
+honkai:_star_rail, topaz_(honkai:_star_rail), 1girl, red_hair, white_hair, blue_eyes, green_eyes, collared_shirt, white_shirt, medium_hair
+honkai:_star_rail, tribbie_(honkai:_star_rail), 1girl, red_hair, pointy_ears, white_dress, black_gloves, black_hairband, short_hair
+honkai:_star_rail, tribios_(honkai:_star_rail), 1girl, red_hair, pointy_ears, sleeveless_dress, white_dress, very_long_hair
+honkai:_star_rail, xueyi_(honkai:_star_rail), 1girl, black_hair, red_eyes, white_shirt, black_shoes, white_pantyhose, short_hair
+honkai:_star_rail, yao_guang_(honkai:_star_rail), 1girl, white_hair, blue_dress, two-tone_dress, open-toe_shoes, long_hair
+honkai:_star_rail, yukong_(honkai:_star_rail), 1girl, blue_hair, red_eyes, fox_ears, fox_tail, asymmetrical_gloves, black_gloves, long_hair
+honkai:_star_rail, yunli_(honkai:_star_rail), 1girl, pleated_dress, short_dress, medium_hair
