@@ -1,11 +1,27 @@
 arknights:_endfield, akekuri_(arknights), 1girl, red_hair, blue_eyes, animal_ears, fingerless_gloves
+arknights:_endfield, arcane_(arknights), 1girl, grey_hair, blue_eyes, animal_ears, wings, asymmetrical_gloves, black_cape, black_gloves, red_thighhighs, long_hair
 arknights:_endfield, arclight_(arknights), 1girl, blue_hair, aqua_eyes, horse_ears, hoodie
+arknights:_endfield, ardelia_(arknights), 1girl, brown_hair, red_eyes, horns, animal_ears, white_coat, fingerless_gloves, shoes, socks, ponytail
 arknights:_endfield, avywenna_(arknights), 1girl, grey_hair, aqua_eyes, rabbit_ears, armor
 arknights:_endfield, chen_qianyu_(arknights), 1girl, black_hair, red_eyes, white_skirt, blue_capelet
 arknights:_endfield, ember_(arknights), 1girl, blue_hair, orange_eyes, armor, halo
 arknights:_endfield, estella_(arknights), 1girl, blue_eyes, cat_tail, white_hat, fingerless_gloves
 arknights:_endfield, female_endministrator_(arknights), 1girl, black_hair, black_jacket, white_sweater, black_pantyhose
+arknights:_endfield, fluorite_(arknights), 1girl, green_hair, green_eyes, yellow_eyes, tail, black_bodysuit, hooded_jacket, white_jacket, fingerless_gloves, white_boots, ponytail, long_hair
+arknights:_endfield, gilberta_(arknights), 1girl, brown_hair, brown_eyes, fox_ears, fox_tail, short_dress, red_jacket, black_boots, black_gloves, black_thighhighs, twintails, very_long_hair
+arknights:_endfield, laevatain_(arknights), 1girl, red_hair, purple_eyes, horns, skirt, long_hair
 arknights:_endfield, last_rite_(arknights), 1girl, blue_hair, red_eyes, pointy_ears, blue_gloves
+arknights:_endfield, liino_(arknights), 1girl, blonde_hair, purple_eyes, horns, pointy_ears, blue_dress, cropped_jacket, white_jacket, blue_gloves, long_hair
+arknights:_endfield, m3_(arknights), 1girl, white_hair, green_eyes, cat_ears, braid, medium_hair
+arknights:_endfield, mi_fu_(arknights), 1girl, pink_hair, green_eyes, dragon_tail, horns, fingerless_gloves, green_thighhighs, red_gloves, long_hair
+arknights:_endfield, nefarith_(arknights), 1girl, purple_hair, red_eyes, pointy_ears, tail, braid
 arknights:_endfield, perlica_(arknights), 1girl, grey_hair, aqua_eyes, white_dress, white_jacket, bird_ears
+arknights:_endfield, purrchena_(arknights), 1girl, white_hair, cat_ears, cat_tail, red_capelet, red_scarf, braid
+arknights:_endfield, rossi_(arknights), 1girl, blonde_hair, yellow_eyes, wolf_ears, tail, a-line_dress, white_dress, black_boots, black_gloves, fingerless_gloves, knee_boots, long_hair
+arknights:_endfield, si_(arknights), 1girl, green_hair, horns, hair_bun, long_hair
+arknights:_endfield, snowshine_(arknights), 1girl, white_hair, blue_eyes, animal_ears, white_pants, paw_shoes, white_shoes, short_hair
+arknights:_endfield, tangtang_(arknights), 1girl, black_hair, blue_eyes, animal_ears, tail, black_jacket, black_shorts, short_shorts, white_shirt, black_gloves, black_socks, short_hair
+arknights:_endfield, typhoeus_(arknights), 1girl, purple_hair, horns, tail, black_gloves, grey_thighhighs, drill_hair, long_hair
 arknights:_endfield, xaihi_(arknights), 1girl, aqua_hair, aqua_eyes, black_dress, black_pantyhose
 arknights:_endfield, yvonne_(arknights), 1girl, pink_hair, black_gloves, black_boots, hair_intakes
+arknights:_endfield, zhuang_fangyi_(arknights), 1girl, black_hair, green_hair, green_eyes, dragon_tail, horns, black_gloves, long_hair

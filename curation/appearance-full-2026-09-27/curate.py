@@ -46,8 +46,8 @@ CONFIG = {
     "endfield": {
         "dir": "endfield-full-2026-09-27", "copyright": "arknights:_endfield",
         "suffix": "_(arknights)", "release": (),
-        "publisher_hosts": {"endfield.hypergryph.com", "endfield.gryphline.com"},
-        "publisher_accounts": {"arknightsendfield"},
+        "publisher_hosts": {"endfield.hypergryph.com", "endfield.gryphline.com", "web-static.hg-cdn.com"},
+        "publisher_accounts": {"arknightsendfield", "akendfieldjp"},
         "mirror_hosts": {"endfield.wiki.gg"},
         "wikia_path": "/arknights-endfield/",
     },
