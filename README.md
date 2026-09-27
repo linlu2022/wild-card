@@ -11,7 +11,7 @@
 - `reproduce`：使用预览文本一次，然后恢复 `populate`。保存的工作流会保留当次结果。
 - `seed`：相同种子与相同词库得到相同结果；“生成后控制”由 ComfyUI 提供。
 
-支持 Impact Pack 的 `{a|b}`、权重、多选及 `__name__` 等 wildcard 语法。本仓库的 `wildcards/` 包含原有的 `color`、`flower`、`jewel`、`jima`、`position`、`samples/flower`、`zenless_women`，以及九套[作品女角色外观词库](docs/character-packs.md)。
+支持 Impact Pack 的 `{a|b}`、权重、多选及 `__name__` 等 wildcard 语法。本仓库的 `wildcards/` 包含原有的 `color`、`flower`、`jewel`、`jima`、`position`、`samples/flower`，以及九套[作品女角色外观词库](docs/character-packs.md)。绝区零首批新版外观词库使用 `__zenless_girls__`，现有 37 条默认及官方服装形态，来源与未收录项见[采集记录](docs/zenless-girls-2026-09-27.md)。本仓库的旧版 `zenless_women.txt` 已移至 `archive/legacy-wildcards/`。本机相邻 Impact Pack 目录仍有一份同名旧版，因兼容读取顺序仍可用 `__zenless_women__` 调用；请使用新名称获取新版。
 
 十套独立的[作品女角色名称词库](docs/name-packs-2026-09-26.md)使用 `__作品名_girls_name__`，每次只输出一个 `角色名, 作品名`，例如 `__blue_archive_girls_name__` 或 `__zenless_zone_zero_girls_name__`。它们是截至 2026-09-26 的一次性数据快照，不需要节点在运行时联网。逐行来源、官方名称回退项与覆盖边界见链接中的说明。
 
