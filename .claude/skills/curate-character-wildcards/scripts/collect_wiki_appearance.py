@@ -14,7 +14,7 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, urlencode
 
 import requests
 
@@ -40,19 +40,31 @@ def get_json(path):
     cache_path = CACHE_DIR / (hashlib.sha256(path.encode("utf-8")).hexdigest() + ".json")
     if cache_path.is_file():
         return json.loads(cache_path.read_text(encoding="utf-8"))
+    last_error = None
     for attempt in range(5):
         with RATE_LOCK:
             remaining = LAST_REQUEST + MIN_INTERVAL - time.monotonic()
             if remaining > 0:
                 time.sleep(remaining)
             LAST_REQUEST = time.monotonic()
-        response = requests.get(BASE + path, headers=HEADERS, timeout=25)
+        try:
+            response = requests.get(BASE + path, headers=HEADERS, timeout=25)
+        except requests.RequestException as exc:
+            last_error = exc
+            time.sleep(min(30.0, 2.0 * (2 ** attempt)))
+            continue
         if response.status_code == 404:
+            CACHE_DIR.mkdir(parents=True, exist_ok=True)
+            cache_path.write_text("null", encoding="utf-8")
             return None
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After", "")
             delay = min(30.0, float(retry_after)) if retry_after.replace(".", "", 1).isdigit() else min(30.0, 2.0 * (2 ** attempt))
             time.sleep(delay)
+            continue
+        if 500 <= response.status_code < 600:
+            last_error = RuntimeError(f"HTTP {response.status_code}")
+            time.sleep(min(30.0, 2.0 * (2 ** attempt)))
             continue
         response.raise_for_status()
         result = response.json()
@@ -61,7 +73,7 @@ def get_json(path):
         temporary.write_text(json.dumps(result, ensure_ascii=False), encoding="utf-8")
         temporary.replace(cache_path)
         return result
-    raise RuntimeError(f"Danbooru rate limit persisted after 5 attempts: {path}")
+    raise RuntimeError(f"Danbooru request failed after 5 attempts: {path}: {last_error}")
 
 
 def wiki_url(title):
@@ -131,16 +143,7 @@ def read_form(title):
     }
 
 
-def read_image(key):
-    kind, image_id = key
-    if kind == "asset":
-        item = get_json(f"/media_assets/{image_id}.json")
-        return {
-            "status": "asset_no_post_tags" if item else "asset_missing",
-            "md5": item.get("md5", "") if item else "",
-            "url": BASE + f"/media_assets/{image_id}",
-        }
-    item = get_json(f"/posts/{image_id}.json")
+def post_metadata(image_id, item):
     if item is None:
         return {"status": "post_missing", "url": BASE + f"/posts/{image_id}"}
     return {
@@ -155,6 +158,19 @@ def read_image(key):
     }
 
 
+def read_post_batch(image_ids):
+    tags = "id:" + ",".join(image_ids) + " order:custom"
+    path = "/posts.json?" + urlencode({
+        "tags": tags, "limit": str(len(image_ids)),
+        "only": "id,source,tag_string_character,tag_string_copyright,tag_string_general,tag_string_meta,md5",
+    })
+    items = get_json(path)
+    if not isinstance(items, list):
+        raise RuntimeError(f"Danbooru post batch returned unexpected data: {image_ids[:3]}")
+    by_id = {str(item["id"]): item for item in items}
+    return {image_id: post_metadata(image_id, by_id.get(image_id)) for image_id in image_ids}
+
+
 def main():
     global CACHE_DIR, MIN_INTERVAL
     parser = argparse.ArgumentParser(description=__doc__)
@@ -164,12 +180,16 @@ def main():
     parser.add_argument("--workers", type=int, default=4, help="Concurrent requests, 1 to 4 (default: 4)")
     parser.add_argument("--request-interval", type=float, default=0.65, help="Minimum seconds between uncached requests (default: 0.65)")
     parser.add_argument("--cache-dir", type=Path, default=CACHE_DIR, help="External cache for successful API responses")
+    parser.add_argument("--skip-form-wikis", action="store_true", help="Keep form titles but skip separate form-Wiki requests")
+    parser.add_argument("--post-batch-size", type=int, default=50, help="Post IDs per tag-only API request (default: 50)")
     parser.add_argument("--refresh", action="store_true", help="Replace an existing inventory with new API data")
     args = parser.parse_args()
     if not 1 <= args.workers <= 4 or not 1 <= args.max_pages <= 5000:
         parser.error("--workers must be 1..4 and --max-pages must be 1..5000")
     if args.request_interval < 0.3:
         parser.error("--request-interval must be at least 0.3 seconds")
+    if not 1 <= args.post_batch_size <= 100:
+        parser.error("--post-batch-size must be 1..100")
     CACHE_DIR = args.cache_dir
     MIN_INTERVAL = args.request_interval
     if args.output.exists() and not args.refresh:
@@ -181,11 +201,24 @@ def main():
         groups = list(pool.map(read_wiki, selected))
     rows = [row for group in groups for row in group]
     form_titles = sorted({row["form_title"] for row in rows if row.get("form_title")})
-    with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        forms = dict(zip(form_titles, pool.map(read_form, form_titles)))
+    if args.skip_form_wikis:
+        forms = {
+            title: {"form_wiki_url": wiki_url(title), "form_wiki_status": "not_queried"}
+            for title in form_titles
+        }
+    else:
+        with ThreadPoolExecutor(max_workers=args.workers) as pool:
+            forms = dict(zip(form_titles, pool.map(read_form, form_titles)))
     keys = sorted({(row["image_type"], row["image_id"]) for row in rows if row.get("image_id")})
+    post_ids = sorted((image_id for kind, image_id in keys if kind == "post"), key=int)
+    batches = [post_ids[index:index + args.post_batch_size] for index in range(0, len(post_ids), args.post_batch_size)]
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        images = dict(zip(keys, pool.map(read_image, keys)))
+        batch_results = list(pool.map(read_post_batch, batches))
+    images = {("asset", image_id): {
+        "status": "asset_no_post_tags", "url": BASE + f"/media_assets/{image_id}",
+    } for kind, image_id in keys if kind == "asset"}
+    for result in batch_results:
+        images.update({("post", image_id): metadata for image_id, metadata in result.items()})
     for row in rows:
         if row.get("form_title"):
             row.update(forms[row["form_title"]])
