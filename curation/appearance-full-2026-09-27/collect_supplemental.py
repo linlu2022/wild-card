@@ -23,6 +23,9 @@ def main():
     parser.add_argument("--pack", choices=sorted(CONFIG), required=True)
     parser.add_argument("--max-queries", type=int, default=1000)
     parser.add_argument("--interval", type=float, default=0.8)
+    parser.add_argument("--only-tag", action="append", default=[], help="Search this exact tag even if already a candidate")
+    parser.add_argument("--extra-tags", default="", help="Additional Danbooru search terms")
+    parser.add_argument("--omit-official-art", action="store_true", help="Use one alternative tag within anonymous two-tag search limit")
     args = parser.parse_args()
     if args.interval < 0.3:
         parser.error("--interval must be >= 0.3")
@@ -30,13 +33,13 @@ def main():
     config = CONFIG[args.pack]
     directory = ROOT / "curation" / config["dir"]
     queue = read_csv(directory / "review_queue.csv")
-    targets = [
+    targets = args.only_tag or [
         row["character"] for row in queue
         if row["is_danbooru_tag"] == "True"
         and row["status"] not in {"candidate", "candidate_constructed_form"}
     ]
     log_path = directory / "search_log.csv"
-    done = {row["searched_tag"] for row in read_csv(log_path)}
+    done = set() if args.only_tag else {row["searched_tag"] for row in read_csv(log_path)}
     remaining = [tag for tag in targets if tag not in done][:args.max_queries]
     post_path = directory / "supplemental.csv"
     post_exists, log_exists = post_path.is_file(), log_path.is_file()
@@ -48,7 +51,7 @@ def main():
         if not log_exists:
             logger.writeheader()
         for number, tag in enumerate(remaining, 1):
-            path = "/posts.json?" + urlencode({"tags": tag + " official_art", "limit": "100"})
+            path = "/posts.json?" + urlencode({"tags": " ".join(part for part in (tag, "" if args.omit_official_art else "official_art", args.extra_tags) if part), "limit": "100"})
             posts = wiki.get_json(path) or []
             matched = 0
             for post in posts:

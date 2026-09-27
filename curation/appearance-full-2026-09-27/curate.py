@@ -40,7 +40,7 @@ CONFIG = {
         "suffix": "_(arknights)", "release": ("released_skin",),
         "publisher_hosts": {"ak.hypergryph.com", "arknights.global", "webusstatic.yo-star.com"},
         "publisher_accounts": {"arknightsen", "arknightsstaff"},
-        "mirror_hosts": {"aceship.github.io", "prts.wiki", "arknights.wiki.gg"},
+        "mirror_hosts": {"aceship.github.io", "prts.wiki", "media.prts.wiki", "arknights.wiki.gg", "ak.gamepress.gg", "gamepress.gg"},
         "wikia_path": "/arknights/",
     },
     "endfield": {
@@ -109,13 +109,19 @@ def source_tier(row, config):
     account = parts.path.strip("/").split("/", 1)[0].casefold()
     if "game_asset" in meta:
         return "game_asset", 8
-    if source.casefold() in {"game asset", "game file", "game files"}:
+    if source.casefold() in {"game asset", "game file", "game files", "game rip"}:
         return "game_file_label", 6
     if host in config["publisher_hosts"]:
         return "publisher", 7
     if host in {"x.com", "twitter.com", "mobile.twitter.com"} and account in config["publisher_accounts"]:
         return "publisher", 7
     if host in config["mirror_hosts"]:
+        return "game_mirror", 5
+    if config["copyright"] == "arknights" and host == "raw.githubusercontent.com" and any(
+        parts.path.casefold().startswith(prefix) for prefix in (
+            "/arknightsassets/arknightsassets/", "/aceship/arknight-images/", "/puppiizsunniiz/arknight-images/"
+        )
+    ):
         return "game_mirror", 5
     wikia_paths = {config["wikia_path"]}
     if config["copyright"] == "genshin_impact":
@@ -167,8 +173,9 @@ def curate(pack):
     }
     constructed = defaultdict(list)
     for tag, record in manifest.items():
-        if record["is_danbooru_tag"] == "False" and variant(tag, config) and any(term in record["source"] for term in config["release"]):
-            constructed[(base(tag, config), norm(variant(tag, config)))].append(tag)
+        normalized_variant = norm(variant(tag, config))
+        if record["is_danbooru_tag"] == "False" and normalized_variant and any(term in record["source"] for term in config["release"]):
+            constructed[(base(tag, config), normalized_variant)].append(tag)
 
     post_contexts = defaultdict(list)
     posts = {}
@@ -200,6 +207,16 @@ def curate(pack):
         for tag in post["character_tags"].split():
             record = manifest.get(tag)
             if not record or record["is_danbooru_tag"] != "True":
+                continue
+            co_tags = [other for other in post["character_tags"].split() if other != tag and other in manifest]
+            if config["copyright"] == "arknights" and co_tags and (
+                any(base(other, config) != base(tag, config) for other in co_tags)
+                or (not variant(tag, config) and any(base(other, config) == base(tag, config)
+                    and variant(other, config) for other in co_tags))
+                or (variant(tag, config) and any(base(other, config) == base(tag, config)
+                    and variant(other, config) and variant(other, config) != variant(tag, config)
+                    for other in co_tags))
+            ):
                 continue
             if config.get("variant_requires_appearance_context") and variant(tag, config) and all(
                 row.get("label") == "supplemental search" for row in contexts
@@ -233,14 +250,18 @@ def curate(pack):
             if context.get("label") == "supplemental search":
                 continue
             title = context.get("wiki_title", "")
-            base_tag = base(title, config) + config["suffix"]
-            if base_tag not in post["character_tags"].split():
+            matching = [other for other in post["character_tags"].split()
+                        if other in manifest and base(other, config) == base(title, config)]
+            if not matching:
                 continue
-            if any(other != base_tag and other in manifest and base(other, config) == base(title, config) and variant(other, config)
-                   for other in post["character_tags"].split()):
-                continue
+            form_title = norm(context.get("form_title", ""))
+            ranked = sorted(matching, key=lambda other: (
+                bool(variant(other, config)) and norm(variant(other, config)) in form_title,
+                not bool(variant(other, config)),
+            ), reverse=True)
+            evidence_tag = ranked[0]
             for tag in constructed[(base(title, config), norm(context.get("label", "")))]:
-                by_tag[tag].append((source_score + 12 + (2 if "solo" in general else 0), post_id, post, context, tier, base_tag))
+                by_tag[tag].append((source_score + 12 + (2 if "solo" in general else 0), post_id, post, context, tier, evidence_tag))
 
     review = []
     for tag, record in sorted(manifest.items()):

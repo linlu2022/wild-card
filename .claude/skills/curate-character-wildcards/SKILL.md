@@ -17,9 +17,9 @@ Write active wildcard files under `wildcards/`. If replacing a pack, archive its
 
 ## 2. Inventory Wiki appearances
 
-Start from the project's name pack, a franchise Wiki roster, or another documented roster. Fetch each canonical Danbooru character Wiki page and parse its `Appearance` entries (`!post #…` and `!asset #…`). Follow outfit links to the form Wiki page where available. Record the Wiki title, update time, form label, image ID, post URL, original image source, copyright/character/general/meta tags, and any missing data. Deduplicate image IDs while keeping every Wiki page that cited them. The reusable public-API inventory command is `scripts/collect_wiki_appearance.py`; read its help before running. Use bounded queries and do not commit credentials or whole API responses.
+Start from the project's name pack, a franchise Wiki roster, or another documented roster. Fetch each canonical Danbooru character Wiki page and parse its `Appearance` entries (`!post #…` and `!asset #…`). Follow outfit links to the form Wiki page where available. Record the Wiki title, update time, form label, image ID, post URL, original image source, copyright/character/general/meta tags, and any missing data. Deduplicate image IDs while keeping every Wiki page that cited them. The reusable public-API inventory command is `scripts/collect_wiki_appearance.py`; read its help before running. Fetch JSON metadata only; do not download image binaries. Use bounded queries and do not commit credentials or whole API responses.
 
-An `asset` has no post general tags. Search for an exact matching post or another clearly linked official image; otherwise mark it deferred. A Wiki page with no `Appearance` is a coverage gap, not proof that the character or outfit does not exist.
+An `asset` has no post general tags. Search for an exact matching post with usable tags; if none exists, exclude that form from the active wildcard and record the gap in the audit. A Wiki page with no `Appearance` is a coverage gap, not proof that the character or outfit does not exist.
 
 ## 3. Decide per form and per tag
 

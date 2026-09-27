@@ -201,6 +201,7 @@ def main():
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         groups = list(pool.map(read_wiki, selected))
     rows = [row for group in groups for row in group]
+    print(f"Wiki phase complete: {len(selected)} titles, {len(rows)} Appearance rows", flush=True)
     form_titles = sorted({row["form_title"] for row in rows if row.get("form_title")})
     if args.skip_form_wikis:
         forms = {
@@ -210,6 +211,7 @@ def main():
     else:
         with ThreadPoolExecutor(max_workers=args.workers) as pool:
             forms = dict(zip(form_titles, pool.map(read_form, form_titles)))
+    print(f"Form Wiki phase complete: {len(form_titles)} titles", flush=True)
     keys = sorted({(row["image_type"], row["image_id"]) for row in rows if row.get("image_id")})
     post_ids = sorted((image_id for kind, image_id in keys if kind == "post"), key=int)
     batches = [post_ids[index:index + args.post_batch_size] for index in range(0, len(post_ids), args.post_batch_size)]
