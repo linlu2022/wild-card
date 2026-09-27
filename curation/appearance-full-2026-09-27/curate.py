@@ -34,6 +34,7 @@ CONFIG = {
         "mirror_hosts": {"honkai-star-rail.fandom.com", "houkai-star-rail.fandom.com", "star-rail.fandom.com", "homdgcat.wiki", "hsr20.hakush.in", "hsr.gachabase.net", "act-upload.mihoyo.com"},
         "wikia_path": "/honkai-star-rail/",
         "variant_requires_appearance_context": True,
+        "exclude_redundant_aliases": {"herta_(honkai:_star_rail)"},
     },
     "arknights": {
         "dir": "arknights-full-2026-09-27", "copyright": "arknights",
@@ -58,6 +59,32 @@ CONFIG = {
         "publisher_accounts": {"fatego_usa", "fgoproject"},
         "mirror_hosts": {"static.atlasacademy.io", "apps.atlasacademy.io", "fategrandorder.fandom.com"},
         "wikia_path": "/fate-grand-order/",
+        "exclude_redundant_aliases": {
+            "okita_souji_(koha-ace)", "mordred_(fate/apocrypha)",
+            "kama_(teenager)_(fate)", "kama_(young)_(fate)",
+        },
+    },
+    "vocaloid": {
+        "dir": "vocaloid-full-2026-09-27", "copyright": "vocaloid",
+        "suffix": "_(vocaloid)", "release": (),
+        "publisher_hosts": {
+            "piapro.net", "sonicwire.com", "www.crypton.co.jp", "ec.crypton.co.jp",
+            "vocalomakets.com", "www.vocalomakets.com", "www.ssw.co.jp",
+            "www.1stplace.co.jp", "www.vocaloid.com", "www.ah-soft.com",
+        },
+        "publisher_accounts": {"cfm_miku_en", "vocalomakets", "vocaloid_yamaha"},
+        "mirror_hosts": {"vocaloid.fandom.com", "vocaloid.wiki"},
+        "wikia_path": "/vocaloid/",
+        "variant_requires_appearance_context": True,
+    },
+    "touhou": {
+        "dir": "touhou-full-2026-09-27", "copyright": "touhou",
+        "suffix": "", "release": (),
+        "publisher_hosts": {"gensoueclipse.jp", "ifi.games", "www.ifi.games", "touhou-project.news"},
+        "publisher_accounts": {"korindo"},
+        "mirror_hosts": {"thwiki.cc", "en.touhouwiki.net"},
+        "wikia_path": "/touhou/",
+        "variant_requires_appearance_context": True,
     },
 }
 REVIEW_FIELDS = [
@@ -171,6 +198,11 @@ def curate(pack):
         row["character"]: row
         for row in read_csv(ROOT / f"curation/wiki-appearance-2026-09-27/{pack}_reviewed.csv")
     }
+    for tag in prior:
+        manifest.setdefault(tag, {
+            "character": tag, "source": "prior_reviewed_appearance_pack",
+            "source_id": "", "is_danbooru_tag": "True",
+        })
     constructed = defaultdict(list)
     for tag, record in manifest.items():
         normalized_variant = norm(variant(tag, config))
@@ -209,6 +241,12 @@ def curate(pack):
             if not record or record["is_danbooru_tag"] != "True":
                 continue
             co_tags = [other for other in post["character_tags"].split() if other != tag and other in manifest]
+            if config["copyright"] == "fate/grand_order":
+                source_lower = post["source"].casefold()
+                if "aprilfool" in source_lower or (not variant(tag, config) and "/craft-essence/" in source_lower):
+                    continue
+                if any(stem(other, config).startswith(stem(tag, config) + "_(") for other in co_tags):
+                    continue
             if config["copyright"] == "arknights" and co_tags and (
                 any(base(other, config) != base(tag, config) for other in co_tags)
                 or (not variant(tag, config) and any(base(other, config) == base(tag, config)
@@ -269,6 +307,9 @@ def curate(pack):
             "character": tag, "manifest_source": record["source"],
             "source_id": record["source_id"], "is_danbooru_tag": record["is_danbooru_tag"],
         }
+        if tag in config.get("exclude_redundant_aliases", set()):
+            review.append({**common, "status": "redundant_alias", "candidate_count": 0})
+            continue
         choices = sorted(by_tag.get(tag, []), key=lambda item: (item[0], int(item[1])), reverse=True)
         if not choices:
             review.append({**common, "status": "official_name_without_tag" if record["is_danbooru_tag"] == "False" else "no_exact_tagged_post", "candidate_count": 0})
@@ -333,6 +374,7 @@ def curate(pack):
             reason = "included_exact_form_post" if status == "candidate" else "included_official_name_from_matching_wiki_form"
         else:
             reason = (
+                "excluded_alias_covered_by_specific_forms" if status == "redundant_alias" else
                 "excluded_no_independent_form_tag" if status == "official_name_without_tag" else
                 "excluded_no_exact_tagged_post" if status == "no_exact_tagged_post" else
                 "excluded_source_or_visual_evidence_insufficient"

@@ -20,7 +20,6 @@ honkai:_star_rail, firefly_(honkai:_star_rail), 1girl, grey_hair, green_eyes, gr
 honkai:_star_rail, firefly_(spring_missive)_(honkai:_star_rail), 1girl, grey_hair, green_hair, grey_skirt, white_shirt, white_thighhighs
 honkai:_star_rail, fu_xuan_(honkai:_star_rail), 1girl, pink_hair, yellow_eyes, sleeveless_dress, brown_shoes, white_thighhighs, very_long_hair
 honkai:_star_rail, fugue_(honkai:_star_rail), 1girl, brown_hair, green_eyes, fox_ears, black_shoes, long_hair
-honkai:_star_rail, herta_(honkai:_star_rail), 1girl, brown_hair, purple_eyes, black_dress, black_boots, high_heel_boots, witch_hat, very_long_hair
 honkai:_star_rail, herta_(puppet)_(honkai:_star_rail), 1girl, brown_hair, ankle_boots, black_boots, black_hat, very_long_hair
 honkai:_star_rail, himeko_(honkai:_star_rail), 1girl, red_hair, brown_eyes, yellow_eyes, white_dress, black_coat, black_choker, black_gloves, long_hair
 honkai:_star_rail, huohuo_(honkai:_star_rail), 1girl, green_hair, blue_eyes, fox_ears, black_hat, zhuang_hat, long_hair
